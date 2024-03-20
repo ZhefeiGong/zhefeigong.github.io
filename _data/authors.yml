@@ -1,6 +1,8 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
+
+# # ====================== Main author ======================
 Zhefei: # author1:
   name:                Zhefei Gong # <firstname> <lastname>
   email:               ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
