@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 Zhefei: # author1:
-  name:                <Zhefei> <Gong> # <firstname> <lastname>
-  email:               <ggozhenfeig@tongji.edu.cn> # <mail@domain.tld>
+  name:                Zhefei Gong # <firstname> <lastname>
+  email:               ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,10 +28,10 @@ Zhefei: # author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:            <ZhefeiGong> # <username>
-    email:             <ggozhenfeig@tongji.edu.cn> # <mail@domain.tld>
-    linkedin:          <zhefeigong> # <firstname-lastname-string>
-    twitter:           <zhefeigong> # <username>
+    github:            ZhefeiGong # <username>
+    email:             ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
+    linkedin:          zhefeigong # <firstname-lastname-string>
+    twitter:           zhefeigong # <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -79,6 +79,6 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
+  picture:           /assets/img/zhefei/zhefei_icon_128x128.jpg  # https://placehold.it/128x128
   twitter:           <username>
   github:            <username>
