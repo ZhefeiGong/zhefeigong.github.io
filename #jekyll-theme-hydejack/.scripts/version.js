@@ -20,7 +20,6 @@ const FILES = [
   "./_includes/head/styles-inline.html",
   "./_includes/head/styles-no-inline.html",
   "./_includes/header.txt",
-  "./_includes/js/service-worker.js",
   "./_layouts/compress.html",
   "./_js/lib/version.js",
 ].map(f => resolve(f));

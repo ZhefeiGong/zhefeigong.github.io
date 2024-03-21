@@ -1,33 +1,39 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              Yujin Kim
-  email:             yujin.k@snu.ac.kr
+
+# # ====================== Main author ======================
+Zhefei: # author1:
+  name:                Zhefei Gong # <firstname> <lastname>
+  email:               ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello!
-    I am Yujin Kim, an undergraduate student majoring in Computer Science.
-    I made this blog to record my progress while studying.    
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     
+    Open `_data/authors.yml` to edit this text.
+
+    Hi test the link [homepage](https://zhefeigong.github.io/about/)
+
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/yujin.jpg
+    path:            /assets/zhefei/zhefei_icon_128x128.jpg # https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/yujin.jpg # for web
-      2x:            /assets/img/yujin.jpg # for mobile
+      1x:            /assets/zhefei/zhefei_icon_128x128.jpg # https://via.placeholder.com/128x128
+      2x:            /assets/zhefei/zhefei_icon_256x256.jpg # https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          yuzzznh
-    email:           yujin.k@snu.ac.kr
-    instagram:       yuzzznh
-    # twitter:         <username>
+    github:            ZhefeiGong # <username>
+    email:             ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
+    linkedin:          zhefeigong # <firstname-lastname-string>
+    twitter:           zhefeigong # <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -38,6 +44,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
+    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -55,7 +62,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -64,17 +70,17 @@ author1:
     # download:        <url>
     # keybase          <username>
 
-# Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# # ====================== Another author (optional) ======================
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
+#     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+#   picture:           /assets/img/zhefei/zhefei_icon_128x128.jpg  # https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>
