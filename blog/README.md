@@ -1,14 +1,5 @@
 ---
-layout: list
-title: Blog
-description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
-grouped: true
----
-
-<!-- ---
-layout: list
+layout: blog
 title: Blog
 description: >
   The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
@@ -16,5 +7,16 @@ description: >
 no_link_title: false 
 no_excerpt: false 
 hide_image: false
+---
+
+<!-- ---
+layout: list
+title: Blog
+description: >
+  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
+  Check out the `blog` layout for comparison.
+grouped: true
 --- -->
+
+
 
