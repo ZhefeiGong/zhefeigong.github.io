@@ -53,6 +53,8 @@ menu:
     url:               /about/
   - title:             Blog
     url:               /blog/
+  - title:             Post
+    url:               /blog/post
   - title:             Documentation
     url:               /docs/
 
