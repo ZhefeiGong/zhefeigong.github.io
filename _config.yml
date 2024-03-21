@@ -50,23 +50,23 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about
+    url:               /about/
   - title:             Blog
     url:               /blog/
   - title:             Documentation
     url:               /docs/
-  - title:             POST
+  - title:             Post
     url:               /blog/posts
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /_utils/LICENSE/
+    url:               /utils/LICENSE
   - title:             NOTICE
-    url:               /_utils/NOTICE/
+    url:               /utils/NOTICE
   - title:             CHANGELOG
-    url:               /_utils/CHANGELOG/
+    url:               /utils/CHANGELOG
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
