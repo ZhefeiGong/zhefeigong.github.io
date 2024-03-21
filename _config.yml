@@ -52,8 +52,6 @@ menu:
   - title:             About
     url:               /about/
   - title:             Blog
-    url:               /blog/post
-  - title:             Post
     url:               /blog/
   - title:             Documentation
     url:               /docs/

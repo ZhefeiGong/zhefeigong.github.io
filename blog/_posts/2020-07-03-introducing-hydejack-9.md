@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Hydejack 9
+categories: [fun]
 image: 
   path: /assets/ori/grid.jpg
 description: >
