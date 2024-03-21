@@ -3,7 +3,7 @@
 layout: blog
 
 # The title of the tag's page.
-title: Blog_11
+title: Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: fun

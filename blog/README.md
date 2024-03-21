@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog_22
+layout: list
+title: Blog
 description: >
   The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.
 last_modified_at: 2018-08-03
