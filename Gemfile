@@ -10,9 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
 
-# gem "jekyll-theme-hydejack", "~> 9.1"
-
-gem "jekyll-theme-hydejack", path: "./jekyll-theme-hydejack"
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -26,7 +24,7 @@ gem "jekyll-theme-hydejack", path: "./jekyll-theme-hydejack"
 #    For details, see <https://github.com/kramdown/math-katex#documentation>
 #
 # If you're using the MathJax math engine instead, free to remove the line below:
-gem "kramdown-math-katex"
+# gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
@@ -54,4 +52,3 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
-
