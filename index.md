@@ -1,17 +1,21 @@
 ---
 layout: about
-image: /assets/ori/grid.jpg
+title: About
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
-hide_description: true
 redirect_from:
   - /download/
+hide_description: true
+no_link_title: false 
+no_excerpt: false 
+hide_image: false
+cover: true
 ---
 
 # About
-
 <!--author-->
+
 
 ## Hydejack
 
