@@ -54,7 +54,7 @@ menu:
   - title:             Blog
     url:               /blog/post
   - title:             Post
-    url:               /blogpage
+    url:               /blog/
   - title:             Documentation
     url:               /docs/
 
