@@ -14,8 +14,8 @@ cover: true
 ---
 
 # About
-<!--author-->
 
+<!--author-->
 
 ## Hydejack
 
