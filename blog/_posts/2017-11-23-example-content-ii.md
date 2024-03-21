@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example Content II
+tags: [diffusion]
 description: >
   A page showing how regular markdown content is styled in Hydejack.
 image: /assets/ori/grid.jpg
