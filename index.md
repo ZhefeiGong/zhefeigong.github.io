@@ -25,7 +25,7 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/ori/test2_200x200.png" alt="Manipulation-Consistency">
+    <img src="/assets/ori/test2_200x200.png" alt="Manipulation-Consistency" style="width: 50%; height: auto; margin-right: 20px;">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -59,7 +59,7 @@ cover: true
 
 Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.
 
-
+<br>
 
 <iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets//zhefei/cv.pdf">Download PDF</a>.
