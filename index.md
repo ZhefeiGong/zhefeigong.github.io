@@ -60,7 +60,6 @@ cover: true
 
 Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.
 \\
-\\
 <iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets//zhefei/cv.pdf">Download PDF</a>.
 </iframe>
