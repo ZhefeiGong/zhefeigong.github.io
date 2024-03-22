@@ -19,7 +19,7 @@
 .publication {
   display: flex;
   align-items: center;
-  margin-bottom: 20px; /* Adjust the margin as per your design */
+  margin: 15px; /* Adjust the margin as per your design */
 }
 
 .pub-image img {
@@ -29,7 +29,7 @@
 }
 
 .pub-info {
-  flex: 0;
+  flex: none;
 }
 
 .pub-info h3 {
@@ -40,21 +40,4 @@
   color: red; /* Or any other color */
   font-weight: bold;
 }
-
-/* Responsive design considerations */
-@media (max-width: 600px) {
-  .publication {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  
-  .pub-image img {
-    width: 80px; /* Smaller image on mobile */
-  }
-  
-  .pub-info {
-    flex: none;
-  }
-}
-
 
