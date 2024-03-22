@@ -40,7 +40,7 @@ cover: true
         </p>
     </div>
     <div class="col-md-4" style="z-index:4;">
-        <img alt="profile photo" id="portrait" src="images/portrait.jpg">
+        <img alt="profile photo" id="portrait" src="/assets/ori/test_200x200.png">
     </div>
 </div>
 
