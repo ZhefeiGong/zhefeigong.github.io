@@ -12,17 +12,18 @@ cover: true
 ---
 
 # About
-
 <!--author-->
 
-
-# Projects
-
-# Awards
-
-# Experience
+## Projects
 
 
-[latex]: #beautiful-math
+## Awards
+
+
+## Experience
+
+
+
+<!-- [latex]: #beautiful-math
 [math]: docs/writing.md#adding-math
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
+[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases -->
