@@ -16,6 +16,12 @@ cover: true
 
 ## Projects
 
+<div style="display: flex; align-items: center;">
+  <img src="/assets/ori/test_200x200.png" alt="Your Image" style="width: 50%; height: auto; margin-right: 20px;">
+  <p>
+  <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, <strong>Jonathan T. Barron</strong>, <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, <a href="https://homes.cs.washington.edu/~sagarwal/">Sameer Agarwal</a>, <a href="https://homes.cs.washington.edu/~seitz/">Steven M Seitz</a>
+  </p>
+</div>
 
 
   <!-- <tr onmouseout="jump_stop()" onmouseover="jump_start()" bgcolor="#ffffd0">
