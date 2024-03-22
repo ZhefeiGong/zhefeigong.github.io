@@ -21,7 +21,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-![Screenshot](assets/ori/grid.jpg){:.lead width="1920" height="1080" loading="lazy"}
+![Screenshot](../assets/ori/grid.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}
