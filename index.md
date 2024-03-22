@@ -16,6 +16,7 @@ cover: true
 
 ## Projects
 
+<!-- Manipulation Consistency -->
 <div style="display: flex; align-items: center;">
   <img src="/assets/ori/test_200x200.png" alt="Your Image" style="width: 50%; height: auto; margin-right: 20px;">
   <p>
@@ -23,6 +24,9 @@ cover: true
   </p>
 </div>
 
+
+
+<!-- Manipulation Consistency -->
 <div style="display: flex; align-items: center;">
   <img src="/assets/ori/test2_200x200.png" alt="Your Image" style="width: 50%; height: auto; margin-right: 20px;">
   <p>
