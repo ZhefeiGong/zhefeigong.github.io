@@ -11,8 +11,8 @@ image:
     530w:  /assets/ori/grid.jpg
     265w:  /assets/ori/grid.jpg
 related_posts:
-  - example/_posts/2017-11-23-example-content-ii.md
-  - /example/2012-02-07-example-content/
+  - blog/_posts/2017-11-23-example-content-ii.md
+  - blog/_posts/2012-02-07-example-content.md
 sitemap: false
 ---
 
