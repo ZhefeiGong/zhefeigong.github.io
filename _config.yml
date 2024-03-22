@@ -140,7 +140,7 @@ defaults:
   
   # Photography Gallery
   - scope:
-      path: "photography"
+      path:             photography/
     values:
       permalink:        /:path/:basename:output_ext
 
