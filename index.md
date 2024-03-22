@@ -18,10 +18,14 @@ cover: true
 ## Projects
 
 <!-- Manipulation Consistency -->
-<div style="display: flex; align-items: center; margin-bottom: 20px">
-  <img src="/assets/ori/test_200x200.png" alt="Your Image" style="width: 50%; height: auto; margin-right: 20px;">
+<div style="display: flex; align-items: center; margin: 4%">
+  <img src="/assets/ori/test_200x200.png" alt="Your Image" style="width: 30%; height: auto; margin-right: 2%;">
   <p>
+
+  <br>
   <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, <strong>Jonathan T. Barron</strong>, <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, <a href="https://homes.cs.washington.edu/~sagarwal/">Sameer Agarwal</a>, <a href="https://homes.cs.washington.edu/~seitz/">Steven M Seitz</a>
+  </br>
+
   </p>
 </div>
 
@@ -35,13 +39,15 @@ cover: true
   </div>
   <div class="pub-info">
     <h3>Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</h3>
-    <p>
+    <br>
     <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, <strong>Jonathan T. Barron</strong>, <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, <a href="https://homes.cs.washington.edu/~sagarwal/">Sameer Agarwal</a>, <a href="https://homes.cs.washington.edu/~seitz/">Steven M Seitz</a>
-    </p>
-    <p>NeurIPS 2023, <span class="spotlight">Spotlight</span></p>
-    <p>Links: <a href="website_url">Website</a> | <a href="paper_url">Paper</a> | <a href="video_url">Video</a></p>
+    </br>
+    <br>NeurIPS 2023, <span class="spotlight">Spotlight</span></br>
+    <br>Links: <a href="website_url">Website</a> | <a href="paper_url">Paper</a> | <a href="video_url">Video</a></br>
   </div>
 </div>
+<p>
+</p>
 
 
 ## Awards
