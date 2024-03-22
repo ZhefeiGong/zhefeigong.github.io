@@ -23,9 +23,9 @@
 }
 
 .pub-image {
-  width: 30%; 
-  height: auto;
-  margin-right: 10px; 
+  margin-right: 1%;
+  margin-top: 0;
+  flex: 1;
 }
 
 .pub-image img{
@@ -35,7 +35,7 @@
 
 .pub-info {
   margin-top: 0;
-  flex: 1;
+  flex: 2;
 }
 
 .bolder-title {
