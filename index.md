@@ -23,6 +23,7 @@ cover: true
     <img src="/assets/ori/test2_200x200.png" alt="Manipulation-Consistency">
   </div>
   <div class="pub-info">
+    <p>
     <!-- title -->
     <span class="bolder-title">Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</span>
     <!-- Authors -->
@@ -34,12 +35,12 @@ cover: true
       <span class="bold-italic">Semester Project at EPFL</span>
     <!-- Link -->
     <br>Links: 
-      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">Report</a> | 
-      <a href="paper_url">Paper</a> | 
-      <a href="video_url">Video</a>
+      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing"><strong>Report</strong></a> 
+      | <a href="paper_url">Paper</a> 
+      | <a href="video_url">Video</a>
+    </p>
   </div>
 </div>
-
 
 ## Awards
 
