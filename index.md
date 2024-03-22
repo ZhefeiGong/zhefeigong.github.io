@@ -29,7 +29,7 @@ cover: true
     <span class="bolder-title">Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</span>
     <!-- Authors -->
     <br>
-      <a href="/"><strong>Zhefei Gong</strong></a>, 
+      <a href="/"><span class="author-zhefei">Zhefei Gong</span></a>, 
       <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
     <!-- Info -->
     <br>
