@@ -17,10 +17,19 @@ cover: true
 ## Projects
 
 
+
+
+
 ## Awards
 
 
+
+
+
 ## Experiences
+
+
+
 
 
 

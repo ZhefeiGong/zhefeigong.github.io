@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: list
 title: Photography
 description: >
   hi, here's the photo world of zhefei
