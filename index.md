@@ -29,9 +29,6 @@ cover: true
   </p>
 </div>
 
-<p>
-</p>
-
 <!-- Manipulation Consistency -->
 <div class="publication">
   <div class="pub-image">
@@ -42,16 +39,10 @@ cover: true
     <h4>Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</h4>
     <!-- Authors -->
     <br>
-      <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, 
-      <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, 
       <a href="/"><strong>Zhefei Gong</strong></a>, 
-      <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, 
-      <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, 
-      <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, 
-      <a href="https://homes.cs.washington.edu/~sagarwal/">Sameer Agarwal</a>,
-      <a href="https://homes.cs.washington.edu/~seitz/">Steven M Seitz</a>
+      <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
     <!-- Info -->
-    <br>Semester Project, <span class="spotlight">Spotlight</span>
+    <br><span class="bold-italic">Semester Project</span> at <span class="bold-italic">EPFL</span>
     <!-- Link -->
     <br>Links: 
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">Report</a> | 
@@ -59,8 +50,6 @@ cover: true
       <a href="video_url">Video</a>
   </div>
 </div>
-<p>
-</p>
 
 
 ## Awards
