@@ -30,8 +30,8 @@ Zhefei: # author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:            ZhefeiGong # <username>
     email:             ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
+    github:            ZhefeiGong # <username>
     linkedin:          zhefeigong # <firstname-lastname-string>
     twitter:           zhefeigong # <username>
     # rss:             https://<url>/feed.xml
