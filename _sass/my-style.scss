@@ -23,13 +23,13 @@
 }
 
 .pub-image img {
-  width: 100px; /* Adjust width as needed */
+  width: 200px; /* Adjust width as needed */
   height: auto;
   margin-right: 20px; /* Space between image and text */
 }
 
 .pub-info {
-  flex: 1;
+  flex: 0;
 }
 
 .pub-info h3 {
