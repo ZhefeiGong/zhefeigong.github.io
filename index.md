@@ -16,7 +16,9 @@ cover: true
 
 ## Projects
 
+![200x200](/assets/ori/jj-ying.jpg "Small example image") 
 
+Nice to meet you
 
 
 

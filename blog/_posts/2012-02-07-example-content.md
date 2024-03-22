@@ -93,7 +93,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 ![400x200](https://via.placeholder.com/400x200 "Medium example image")
 
-![200x200](https://via.placeholder.com/200x200 "Small example image")
+![200x200](https://via.placeholder.com/200x200 "Small example image") 
 
 ## Tables
 
