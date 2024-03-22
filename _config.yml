@@ -50,17 +50,17 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /#About
+    url:               /#about
   - title:             Projects
-    url:               /#Projects
+    url:               /#projects
   - title:             Rewards
-    url:               /#Rewards
+    url:               /#rewards
   - title:             Experience
-    url:               /#Experience
-  - title:             Blog
-    url:               /blog/
+    url:               /#experience
   - title:             Photography
     url:               /Photography/
+  - title:             Blog
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
