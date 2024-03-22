@@ -285,6 +285,7 @@ hydejack:
 
 
 # Collections
+# @notice : permalink is important for path navigation
 # ----------------------------------------------------------------------------------------
 
 collections:
