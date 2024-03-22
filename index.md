@@ -25,7 +25,7 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/ori/test_200x200.jpg" alt="Manipulation-Consistency" style="width: 100%; height: auto; margin-right: 20px;">
+    <img src="/assets/ori/test_200x200.jpg" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">

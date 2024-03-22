@@ -22,12 +22,16 @@
   margin: 2%; 
 }
 
-// .pub-image img {
-//   max-width: 100%;
-//   width: 200px; 
-//   height: auto;
-//   margin-right: 10px; 
-// }
+.pub-image {
+  width: 30%; 
+  height: auto;
+  margin-right: 10px; 
+}
+
+.pub-image img{
+  width: 100%; 
+  height: auto;
+}
 
 .pub-info {
   margin-top: 0;
