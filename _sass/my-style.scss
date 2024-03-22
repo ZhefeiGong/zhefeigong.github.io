@@ -19,13 +19,13 @@
 .publication {
   display: flex;
   align-items: center;
-  margin: 2%; /* Adjust the margin as per your design */
+  margin: 2%; 
 }
 
 .pub-image img {
-  width: 40%; /* Adjust width as needed */
+  width: 40%; 
   height: auto;
-  margin-right: 1%; /* Space between image and text */
+  margin-right: 1%; 
 }
 
 .pub-info {
@@ -34,7 +34,8 @@
 }
 
 .bolder-title {
-  font-weight: bolder
+  color: #0e1923;
+  font-weight: 900;
 }
 
 .spot-light {
