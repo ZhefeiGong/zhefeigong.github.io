@@ -289,11 +289,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /cat-:name/
+    permalink:         /blog/cat-:name/
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /blog/tag-:name/
     output:            true
 
   projects:
