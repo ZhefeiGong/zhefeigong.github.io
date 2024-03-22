@@ -30,42 +30,24 @@ cover: true
   <!-- INFORMATION -->
   <div class="pub-info">
     <!-- Title -->
-    <span class="bolder-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
+    <span class="bold-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
     <!-- Authors -->
     <br>
-      <a href="/"><span class="author-zhefei">Zhefei Gong</span></a>, 
+      <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
       <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
     <!-- Info -->
     <br>
       <span class="bold-italic">Semester Project at EPFL</span>
     <!-- Link -->
     <br>Links: 
-      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing"><strong>Report</strong></a> 
+      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
+        <span class="bold-light">Report</span>
+      </a> 
   </div>
 </div>
 
 <!-- Vehicle re‑identification -->
-<div class="publication">
-  <!-- SHOWCASE -->
-  <div class="pub-image">
-    <img src="/assets/ori/test_200x200.png" alt="Manipulation-Consistency">
-  </div>
-  <!-- INFORMATION -->
-  <div class="pub-info">
-    <!-- Title -->
-    <span class="bolder-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
-    <!-- Authors -->
-    <br>
-      <a href="/"><span class="author-zhefei">Zhefei Gong</span></a>, 
-      <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
-    <!-- Info -->
-    <br>
-      <span class="bold-italic">Semester Project at EPFL</span>
-    <!-- Link -->
-    <br>Links: 
-      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing"><strong>Report</strong></a> 
-  </div>
-</div>
+
 
 
 <!--************************************************************************************************-->
