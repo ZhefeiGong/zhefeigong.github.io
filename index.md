@@ -16,10 +16,7 @@ cover: true
 
 ## Projects
 
-![200x200](/assets/ori/test_200x200.png "Small example image") 
-
-Nice to meet you
-
+{% include publications.html %}
 
 ## Awards
 
