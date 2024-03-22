@@ -9,5 +9,5 @@ no_excerpt: false
 hide_image: false
 ---
 
-[gallery_sample](/photography/san-francisco.md)
-[gallery_complex](/photography/ghent-light-festival.md)
+[gallery_sample](/photography/san-francisco)
+[gallery_complex](/photography/ghent-light-festival)
