@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /#about
+    url:               /
   - title:             Projects
     url:               /#projects
   - title:             Rewards
@@ -58,7 +58,7 @@ menu:
   - title:             Experience
     url:               /#experience
   - title:             Photography
-    url:               /Photography/
+    url:               /photography/
   - title:             Blog
     url:               /blog/
 
