@@ -36,7 +36,7 @@ cover: true
   </div>
   <div class="pub-info">
     <!-- title -->
-    <h4>Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</h4>
+    <span class="bolder-title">Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</span>
     <!-- Authors -->
     <br>
       <a href="/"><strong>Zhefei Gong</strong></a>, 
