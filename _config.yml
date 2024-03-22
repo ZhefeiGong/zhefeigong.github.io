@@ -289,7 +289,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         /cat-:name/
     output:            true
 
   featured_tags:
