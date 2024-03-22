@@ -142,7 +142,7 @@ defaults:
   - scope:
       path:             photography/
     values:
-      permalink:        /:path/:basename:output_ext
+      permalink:        /:path/:basename
 
 
   # # You can use the following to enable comments on all posts.
