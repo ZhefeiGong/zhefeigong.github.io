@@ -20,7 +20,7 @@ cover: true
 ## Awards
 
 
-## Experience
+## Experiences
 
 
 

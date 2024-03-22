@@ -47,7 +47,7 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# Add links to the sidebar.
+# Add links to the sidebar. 
 menu:
   - title:             About
     url:               /
