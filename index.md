@@ -18,21 +18,9 @@ cover: true
 ## Projects
 
 <!-- Manipulation Consistency -->
-<div style="display: flex; align-items: center; margin: 4%">
-  <img src="/assets/ori/test_200x200.png" alt="Your Image" style="width: 30%; height: auto; margin-right: 2%;">
-  <p>
-
-  <br>
-  <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, <strong>Jonathan T. Barron</strong>, <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, <a href="https://homes.cs.washington.edu/~sagarwal/">Sameer Agarwal</a>, <a href="https://homes.cs.washington.edu/~seitz/">Steven M Seitz</a>
-  <br>
-
-  </p>
-</div>
-
-<!-- Manipulation Consistency -->
 <div class="publication">
   <div class="pub-image">
-    <img src="/assets/ori/test2_200x200.png" alt="Publication Image">
+    <img src="/assets/ori/test2_200x200.png" alt="Manipulation-Consistency">
   </div>
   <div class="pub-info">
     <!-- title -->
@@ -42,7 +30,8 @@ cover: true
       <a href="/"><strong>Zhefei Gong</strong></a>, 
       <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
     <!-- Info -->
-    <br><span class="bold-italic">Semester Project</span> at <span class="bold-italic">EPFL</span>
+    <br>
+      <span class="bold-italic">Semester Project at EPFL</span>
     <!-- Link -->
     <br>Links: 
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">Report</a> | 
