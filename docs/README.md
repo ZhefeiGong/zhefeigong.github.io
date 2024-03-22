@@ -36,10 +36,6 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-## Page Storage
-* [About]{:.heading.flip-title} --- The about page.
-{:.related-posts.faded}
-
 [install]: install.md
 [upgrade]: upgrade.md
 [config]: config.md
@@ -48,7 +44,6 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [scripts]: scripts.md
 [build]: build.md
 [advanced]: advanced.md
-[about]: about.md
 
 [LICENSE]: ../utils/LICENSE.md
 [NOTICE]: ../utils/NOTICE.md
