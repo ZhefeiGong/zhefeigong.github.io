@@ -74,10 +74,10 @@ last_modified_at:      'Last modified at'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
-category_spearator:    ' / '
-tag_start:             'on '
-tag_separator:         ', '
+category_start:        'in ' # cat
+category_spearator:    ' / ' # 
+tag_start:             'on ' # tag
+tag_separator:         ', ' # 
 from_to_separator:     '–'
 breadcrumbs_home:      'home'
 breadcrumbs_separator: '/'
