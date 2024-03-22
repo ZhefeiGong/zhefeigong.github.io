@@ -25,6 +25,9 @@ cover: true
   </p>
 </div>
 
+<p>
+</p>
+
 <!-- Manipulation Consistency -->
 <div class="publication">
   <div class="pub-image">
