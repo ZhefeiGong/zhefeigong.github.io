@@ -36,14 +36,15 @@
 .bolder-title {
   color: #0e1923;
   font-weight: 900;
+  font-size: large;
 }
 
 .spot-light {
   color: orange; 
-  font-weight: bold;
+  font-weight: bold; // 700
 }
 
 .bold-italic {
-  font-weight: bold; 
+  font-weight: bold; // 700
   font-style: italic; 
 }
