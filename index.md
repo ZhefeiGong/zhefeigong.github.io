@@ -26,7 +26,7 @@ cover: true
   <!-- INFORMATION -->
   <div class="pub-info">
     <!-- Title -->
-    <span class="bolder-title">Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</span>
+    <span class="bolder-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
     <!-- Authors -->
     <br>
       <a href="/"><span class="author-zhefei">Zhefei Gong</span></a>, 
@@ -43,10 +43,18 @@ cover: true
 
 ## Awards
 
+* **National First Prize**, [Intelligent Robot Fighting and Gaming Competition](http://www.robo-maker.org/), [CAAI](https://en.caai.cn/)
+
+* **The Second prize in East China Region**, [National Intelligent Car Competition for Undergraduates](https://www.smartcar.zone/), [CAA](http://en.caa.org.cn/)
+
+* **LuHao Scholarship (1/119)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
+
+* **Merit Scholarship (10%, twice)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
+
 
 ## Experiences
 
-Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.\\
+Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.
 
 
 <iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
