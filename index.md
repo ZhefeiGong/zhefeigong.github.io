@@ -1,5 +1,5 @@
 ---
-layout: about
+layout : about 
 description: >
   Hi, here's Zhefei's homepage ^_^
 redirect_from:
@@ -14,6 +14,14 @@ cover: true
 # About
 
 <!--author-->
+
+
+# Projects
+
+# Awards
+
+# Experience
+
 
 ## Hydejack
 

@@ -48,7 +48,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [scripts]: scripts.md
 [build]: build.md
 [advanced]: advanced.md
-[About]: about.md
+[about]: about.md
 
 [LICENSE]: ../utils/LICENSE.md
 [NOTICE]: ../utils/NOTICE.md
