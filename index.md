@@ -1,6 +1,5 @@
 ---
 layout: about
-image: /assets/ori/grid.jpg
 description: >
   Hi, here's Zhefei's homepage ^_^
 redirect_from:
