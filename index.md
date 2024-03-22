@@ -39,12 +39,12 @@ cover: true
   </div>
   <div class="pub-info">
     <!-- title -->
-    <title>Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</title>
+    <h4>Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance</h4>
     <!-- Authors -->
     <br>
       <a href="http://mi.eng.cam.ac.uk/~ra312/">Robert Anderson</a>, 
       <a href="https://www.cs.unc.edu/~gallup/">David Gallup</a>, 
-      <a href="/index.md"><strong>Zhefei Gong</strong></a>, 
+      <a href="/"><strong>Zhefei Gong</strong></a>, 
       <a href="https://mediatech.aalto.fi/~janne/index.php">Janne Kontkanen</a>, 
       <a href="https://www.cs.cornell.edu/~snavely/">Noah Snavely</a>, 
       <a href="http://carlos-hernandez.org/">Carlos Hern&aacutendez</a>, 
