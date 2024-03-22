@@ -16,7 +16,7 @@ cover: true
 
 ## Projects
 
-{% include publications.html %}
+publication !!!
 
 ## Awards
 
