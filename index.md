@@ -37,8 +37,6 @@ cover: true
     <!-- Link -->
     <br>Links: 
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing"><strong>Report</strong></a> 
-      | <a href="paper_url">Paper</a> 
-      | <a href="video_url">Video</a>
   </div>
 </div>
 
@@ -48,14 +46,10 @@ cover: true
 
 ## Experiences
 
-Please see my [CV](/assets//zhefei/cv.pdf) for a full list of work, teaching and other experiences.
+Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.\\
+
 
 <iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets//zhefei/cv.pdf">Download PDF</a>.
 </iframe>
 
-
-
-<!-- [latex]: #beautiful-math
-[math]: docs/writing.md#adding-math
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases -->
