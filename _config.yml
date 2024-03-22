@@ -50,9 +50,17 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/
+    url:               /index/#about
+  - title:             Projects
+    url:               /index/#Projects
+  - title:             Rewards
+    url:               /index/#Rewards
+  - title:             Experience
+    url:               /index/#Experience
   - title:             Blog
     url:               /blog/
+  - title:             Photography
+    url:               /Photography/
   - title:             Documentation
     url:               /docs/
 
