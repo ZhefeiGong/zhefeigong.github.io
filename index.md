@@ -16,10 +16,9 @@ cover: true
 
 ## Projects
 
-![200x200](/assets/ori/jj-ying.jpg "Small example image") 
+![200x200](/assets/ori/test_200x200.png "Small example image") 
 
 Nice to meet you
-
 
 
 ## Awards
