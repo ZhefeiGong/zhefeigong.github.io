@@ -49,7 +49,7 @@ description: >
       $("#filter-button-group").on( 'click', 'button', function() {
         var filterValue = $(this).attr('data-filter');
         if (filterValue != '*') { 
-          filterValue = '[data-category="' + filterValue + '"]';
+          filterValue = '[data-category=Uncategorized]';
         }
         $grid.isotope({ filter: filterValue });
       });
