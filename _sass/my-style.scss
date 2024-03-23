@@ -92,6 +92,7 @@ html {
       width: 100.1%;
       width: calc( 100% + 1px );
       height: 100%;
+      display: none;
     }
   }
 
@@ -105,4 +106,8 @@ html {
 .caption {
   position: static;
   color: #AAA;
+}
+
+.hidden-link {
+    display: none;
 }
