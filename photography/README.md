@@ -1,7 +1,6 @@
 ---
 layout: page
 title: A worldwatcher
-# disable_link: true
 # support: [jquery, gallery]
 ---
 
