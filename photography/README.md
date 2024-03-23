@@ -25,7 +25,7 @@ description: >
     <button data-filter=".Asian">Asian</button>
     <button data-filter=".Europe">Europe</button>
     <button data-filter=".America">America</button>
-    <button data-filter=".Uncategorized">Uncategorized</button>
+    <button data-filter="uncategorized">Uncategorized</button>
   </div>
 </p>
 
