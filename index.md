@@ -5,9 +5,9 @@ description: >
 redirect_from:
   - /download/
 hide_description: true
-no_link_title: false 
-no_excerpt: false 
-hide_image: false
+no_link_title: true 
+no_excerpt: true 
+hide_image: true
 cover: true
 ---
 
@@ -15,7 +15,6 @@ cover: true
 # About
 
 <!--author-->
-
 
 
 <!--************************************************************************************************-->
