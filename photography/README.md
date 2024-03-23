@@ -48,7 +48,10 @@ description: >
       });
       $("#filter-button-group").on( 'click', 'button', function() {
         var filterValue = $(this).attr('data-filter');
-        $grid.isotope({ filter: '[data-category="${filterValue}"]' });
+        if (filterValue != '*') { 
+          filterValue = '[data-category="' + filterValue + '"]';
+        }
+        $grid.isotope({ filter: filterValue });
       });
     });
 </script>
