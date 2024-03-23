@@ -8,5 +8,26 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
 
 {% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
 
-[license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[repo]: https://github.com/opieters/jekyll-gallery-example
+
+<script>
+    // init lightGallery
+    $(document).ready(function() {
+      var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
+        thumbnail: false,
+        selector: '.image'
+      });
+    });
+    
+    // init isotope
+    var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+      percentPosition: true,
+      columnWidth: '#gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}',
+      itemSelector: '.image-wrapper',
+      layoutMode: "masonry"
+    });
+    
+    // layout Isotope after each image loads
+    $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
+      $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
+    });    
+</script>
