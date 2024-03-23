@@ -4,12 +4,12 @@ title : About
 description: >
   Hi, here's Zhefei's homepage ^_^
 hide_description: true
+cover: true
 # redirect_from:
 #   - /download/
 # no_link_title: true 
-# no_excerpt: true 
+# no_excerpt: true
 # hide_image: true
-cover: true
 ---
 
 <!--************************************************************************************************-->
