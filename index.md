@@ -9,7 +9,7 @@ hide_description: true
 # no_link_title: true 
 # no_excerpt: true 
 # hide_image: true
-# cover: false
+cover: true
 ---
 
 <!--************************************************************************************************-->
