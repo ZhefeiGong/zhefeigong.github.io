@@ -18,11 +18,9 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
 </head>
 
-
 {% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
 
-
-<script>
+<!-- <script>
     // init lightGallery
     $(document).ready(function() {
       var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
@@ -43,4 +41,4 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
     $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
       $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
     });    
-</script>
+</script> -->

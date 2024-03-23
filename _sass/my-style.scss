@@ -69,7 +69,7 @@ $default-width: 50%;
           box-sizing: border-box;
 }
 
-/* force scrollbar, prevents initial gap */
+// force scrollbar, prevents initial gap
 html {
   overflow-y: scroll;
 }
