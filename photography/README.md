@@ -51,7 +51,7 @@ description: >
         if (filterValue != '*') { 
           filterValue = '[data-category=Uncategorized]';
         }
-        $grid.isotope({ filter: filterValue });
+        $grid.isotope({ filter: '[data-category="Asian"]' });
       });
     });
 </script>
