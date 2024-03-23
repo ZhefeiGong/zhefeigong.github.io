@@ -10,7 +10,7 @@
     <div 
       class="item"
       data-src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}"
-      {% if item.category %} data-category="{{ picture.category | escape }}" {% else %} data-category="Uncategorized" {% endif %}
+      {% if picture.category %} data-category="{{ picture.category | escape }}" {% else %} data-category="Uncategorized" {% endif %}
       data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" 
       {% if picture.title %} data-sub-html="<div><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}
     >
