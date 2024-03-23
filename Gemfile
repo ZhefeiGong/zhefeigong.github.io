@@ -33,6 +33,8 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+gem 'jekyll-maps', group: :jekyll_plugins
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"
@@ -46,7 +48,6 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
   gem "jekyll-avatar"
-  gem 'jekyll-maps'
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
