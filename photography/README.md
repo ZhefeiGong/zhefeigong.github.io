@@ -16,7 +16,6 @@ description: >
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
 </head>
 
-
 <!-------------------------------------- THE HTML -------------------------------------->
 
 <p>
@@ -27,6 +26,9 @@ description: >
     <button data-filter="America">America</button>
     <button data-filter="Uncategorized">Uncategorized</button>
   </div>
+</p>
+
+<p>
 </p>
 
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival %}
