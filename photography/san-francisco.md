@@ -27,7 +27,7 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
 <script>
 $(document).ready(function() {
   $("#image-gallery").lightGallery({
-    selector: '.image'
+    selector: '.item'
   });
   var $grid = $('#image-gallery').isotope({
     percentPosition: true,
