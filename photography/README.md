@@ -1,6 +1,6 @@
 ---
-layout: plain
-title: A Very Basic Example
+layout: page
+title: A worldwatcher
 # disable_link: true
 # support: [jquery, gallery]
 ---
@@ -22,7 +22,7 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
     <script src="https://cdn.jsdelivr.net/npm/imagesloaded@4.1.4/imagesloaded.pkgd.min.js"></script> -->
 </head>
 
-{% include gallery-layout-normal.html gallery=site.data.galleries.san-francisco %}
+{% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
 
 <script>
 $(document).ready(function() {
