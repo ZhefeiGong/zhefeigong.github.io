@@ -54,7 +54,7 @@ cover: true
 ## Awards
 
 * **National First Prize**, [Intelligent Robot Fighting and Gaming Competition](http://www.robo-maker.org/), [CAAI](https://en.caai.cn/)
-* **The Second prize in East China Region**, [National Intelligent Car Competition for Undergraduates](https://www.smartcar.zone/), [CAA](http://en.caa.org.cn/)
+* **The Second Prize in East China Region**, [National Intelligent Car Competition for Undergraduates](https://www.smartcar.zone/), [CAA](http://en.caa.org.cn/)
 * **LuHao Scholarship (1/119)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
 * **Merit Scholarship (10%, twice)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
 
