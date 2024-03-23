@@ -1,7 +1,7 @@
 ---
 layout: plain
 title: A Very Basic Example
-disable_link: true
+# disable_link: true
 # support: [jquery, gallery]
 ---
 
@@ -30,8 +30,10 @@ $(document).ready(function() {
     selector: '.image'
   });
   var $grid = $('#image-gallery').isotope({
+    percentPosition: true,
+    columnWidth: '#gallery-sizer',
     itemSelector: '.image-wrapper',
-    layoutMode: 'masonry'
+    layoutMode: 'masonry',
   });
   $grid.imagesLoaded().progress(function() {
     $grid.isotope('layout');

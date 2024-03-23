@@ -13,7 +13,7 @@ The pictures from part two:
 
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-2 id_number=2 %}
 
-<!-- <script>
+<script>
     // init lightGallery
     $(document).ready(function() {
       var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
@@ -34,4 +34,4 @@ The pictures from part two:
     $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
       $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
     });    
-</script> -->
+</script>
