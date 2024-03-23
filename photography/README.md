@@ -15,7 +15,14 @@ title: A worldwatcher
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
 </head>
 
-At the end of our wonderful three week road trip at the West Coast of the US, we spent about four days in the wonderful city of San Francisco. The city's well known for the Golden Gate Bridge and its fog, but has so much more up its sleeve!
+At the end of our wonderful three week road trip at the West Coast of the US
+<div class="button-group filter-button-group">
+  <button data-filter="*">All</button>
+  <button data-filter=".Asian">Asian</button>
+  <button data-filter=".Europe">Europe</button>
+  <button data-filter=".America">America</button>
+  <button data-filter=":Uncategorised">Uncategorised</button>
+</div>
 
 <!-------------------------------------- THE HTML -------------------------------------->
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 %}
@@ -35,6 +42,10 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
       });
       $grid.imagesLoaded().progress(function() {
         $grid.isotope('layout');
+      });
+      $('.filter-button-group').on( 'click', 'button', function() {
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({ filter: filterValue });
       });
     });
 </script>
