@@ -20,7 +20,7 @@ description: >
 <!-------------------------------------- THE HTML -------------------------------------->
 
 <p>
-  <div class="button-group filter-button-group">
+  <div class="button-group" id ="filter-button-group">
     <button data-filter="*">All</button>
     <button data-filter=".Asian">Asian</button>
     <button data-filter=".Europe">Europe</button>
