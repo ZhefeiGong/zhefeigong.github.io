@@ -1,6 +1,8 @@
 ---
 layout: plain
 title: A worldwatcher
+description: >
+  A picture is worth a thousand words 🌌
 ---
 
 <!-------------------------------------- THE HEAD -------------------------------------->
@@ -16,8 +18,6 @@ title: A worldwatcher
 
 
 <!-------------------------------------- THE HTML -------------------------------------->
-
-> A picture is worth a thousand words 🌌
 
 <p>
   <div class="button-group filter-button-group">
