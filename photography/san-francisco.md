@@ -42,3 +42,18 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
       $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
     });    
 </script> -->
+
+<script>
+$(document).ready(function() {
+  $("#image-gallery").lightGallery({
+    selector: '.image'
+  });
+  var $grid = $('#image-gallery').isotope({
+    itemSelector: '.image-wrapper',
+    layoutMode: 'masonry'
+  });
+  $grid.imagesLoaded().progress(function() {
+    $grid.isotope('layout');
+  });
+});
+</script>
