@@ -2,7 +2,7 @@
 layout: plain
 title: Be a Worldwatcher
 description: >
-  A picture is worth a thousand words 🌌
+  A picture is worth a thousand words
 ---
 
 <!-------------------------------------- THE HEAD -------------------------------------->
@@ -25,12 +25,11 @@ description: >
     <button data-filter=".Asian">Asian</button>
     <button data-filter=".Europe">Europe</button>
     <button data-filter=".America">America</button>
-    <button data-filter="uncategorized">Uncategorized</button>
+    <button data-filter=".Uncategorized">Uncategorized</button>
   </div>
 </p>
 
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 %}
-
 
 <!-------------------------------------- THE SCRIPT -------------------------------------->
 <script>
