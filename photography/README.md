@@ -49,9 +49,9 @@ description: >
       $("#filter-button-group").on( 'click', 'button', function() {
         var filterValue = $(this).attr('data-filter');
         if (filterValue != '*') { 
-          filterValue = '[data-category=Uncategorized]';
+          filterValue = '[data-category="'+ filterValue +'"]';
         }
-        $grid.isotope({ filter: '[data-category="Asian"]' });
+        $grid.isotope({ filter: filterValue });
       });
     });
 </script>
