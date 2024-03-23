@@ -3,9 +3,9 @@ layout : about
 title : About
 description: >
   Hi, here's Zhefei's homepage ^_^
+hide_description: true
 # redirect_from:
 #   - /download/
-# hide_description: true
 # no_link_title: true 
 # no_excerpt: true 
 # hide_image: true
