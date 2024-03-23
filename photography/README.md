@@ -51,8 +51,7 @@ description: >
         if (filterValue != '*') { 
           filterValue = '[data-category="'+ filterValue +'"]';
         }
-        $grid.isotope({ filter: filterValue });
+        $grid.isotope({ filter : filterValue });
       });
     });
 </script>
-
