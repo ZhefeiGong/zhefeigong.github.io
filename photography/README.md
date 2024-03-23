@@ -4,7 +4,6 @@ title: A worldwatcher
 ---
 
 <!-------------------------------------- THE HEAD -------------------------------------->
-
 <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
@@ -15,16 +14,21 @@ title: A worldwatcher
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
 </head>
 
-At the end of our wonderful three week road trip at the West Coast of the US
-<div class="button-group filter-button-group">
-  <button data-filter="*">All</button>
-  <button data-filter=".Asian">Asian</button>
-  <button data-filter=".Europe">Europe</button>
-  <button data-filter=".America">America</button>
-  <button data-filter=":Uncategorised">Uncategorised</button>
-</div>
 
 <!-------------------------------------- THE HTML -------------------------------------->
+
+At the end of our wonderful three week road trip at the West Coast of the US
+
+<p>
+  <div class="button-group filter-button-group">
+    <button data-filter="*">All</button>
+    <button data-filter=".Asian">Asian</button>
+    <button data-filter=".Europe">Europe</button>
+    <button data-filter=".America">America</button>
+    <button data-filter=":Uncategorised">Uncategorised</button>
+  </div>
+</p>
+
 {% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 %}
 
 
