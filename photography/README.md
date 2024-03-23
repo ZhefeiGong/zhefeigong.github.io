@@ -7,19 +7,4 @@ At the end of our wonderful three week road trip at the West Coast of the US, we
 
 {% include gallery-layout.html gallery=site.data.galleries.san-francisco %}
 
-<script>
-$(document).ready(function() {
-  $("#image-gallery").lightGallery({
-    selector: '.item'
-  });
-  var $grid = $('#image-gallery').isotope({
-    percentPosition: true,
-    columnWidth: '#gallery-sizer',
-    itemSelector: '.image-wrapper',
-    layoutMode: 'masonry',
-  });
-  $grid.imagesLoaded().progress(function() {
-    $grid.isotope('layout');
-  });
-});
-</script>
+
