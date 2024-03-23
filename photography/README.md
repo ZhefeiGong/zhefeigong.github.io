@@ -22,10 +22,10 @@ description: >
 <p>
   <div id ="filter-button-group" class="button-group" >
     <button data-filter="*">All</button>
-    <button data-filter=".Asian">Asian</button>
-    <button data-filter=".Europe">Europe</button>
-    <button data-filter=".America">America</button>
-    <button data-filter=".Uncategorized">Uncategorized</button>
+    <button data-filter="Asian">Asian</button>
+    <button data-filter="Europe">Europe</button>
+    <button data-filter="America">America</button>
+    <button data-filter="Uncategorized">Uncategorized</button>
   </div>
 </p>
 
@@ -48,7 +48,7 @@ description: >
       });
       $("#filter-button-group").on( 'click', 'button', function() {
         var filterValue = $(this).attr('data-filter');
-        $grid.isotope({ filter: 'Asian' });
+        $grid.isotope({ filter: '[data-category="${filterValue}"]' });
       });
     });
 </script>
