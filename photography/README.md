@@ -20,12 +20,12 @@ description: >
 <!-------------------------------------- THE HTML -------------------------------------->
 
 <p>
-  <div class="button-group" id ="filter-button-group">
-    <button data-filter="*">All</button>
-    <button data-filter=".Asian">Asian</button>
+  <div id ="filter-button-group" class="button-group" >
+    <button data-filter=".Asian">All</button>
+    <button data-filter="*">Asian</button>
     <button data-filter=".Europe">Europe</button>
     <button data-filter=".America">America</button>
-    <button data-filter=":Uncategorised">Uncategorised</button>
+    <button data-filter=".Uncategorized">Uncategorized</button>
   </div>
 </p>
 
