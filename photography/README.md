@@ -17,7 +17,7 @@ title: A worldwatcher
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
-At the end of our wonderful three week road trip at the West Coast of the US
+> A picture is worth a thousand words 🌌
 
 <p>
   <div class="button-group filter-button-group">
