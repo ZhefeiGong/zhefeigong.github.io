@@ -29,7 +29,7 @@ description: >
   </div>
 </p>
 
-{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival-1 %}
+{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival %}
 
 <!-------------------------------------- THE SCRIPT -------------------------------------->
 <script>
