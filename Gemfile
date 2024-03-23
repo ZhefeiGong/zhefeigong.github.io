@@ -46,6 +46,7 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
   gem "jekyll-avatar"
+  gem 'jekyll-maps'
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"

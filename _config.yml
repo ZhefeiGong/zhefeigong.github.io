@@ -61,6 +61,8 @@ menu:
     url:               /photography/
   - title:             Blog
     url:               /blog/
+  - title:             Map
+    url:               /map/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -345,6 +347,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
   - jekyll-avatar
+  - jekyll-maps
 
 
 # SEO Tag
@@ -376,7 +379,10 @@ plugins:
 #     - https://twitter.com/<username>
 #     - https://github.com/<username>
 
-
+maps:
+  google:
+    api_key: AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI
+  
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
 optional_front_matter:
