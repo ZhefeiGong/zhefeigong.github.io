@@ -69,10 +69,10 @@ $default-width: 32%;
           box-sizing: border-box;
 }
 
-// force scrollbar, prevents initial gap
-html {
-  overflow-y: scroll;
-}
+// // force scrollbar, prevents initial gap
+// html {
+//   overflow-y: scroll;
+// }
 
 .image-wrapper,
 .gallery-sizer {
@@ -101,9 +101,3 @@ html {
     clear: both;
   }
 }
-
-.caption {
-  position: static;
-  color: #AAA;
-}
-
