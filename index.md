@@ -1,18 +1,18 @@
 ---
 layout : about 
+title : About
 description: >
   Hi, here's Zhefei's homepage ^_^
-redirect_from:
-  - /download/
-hide_description: true
-no_link_title: true 
-no_excerpt: true 
-hide_image: true
-cover: false
+# redirect_from:
+#   - /download/
+# hide_description: true
+# no_link_title: true 
+# no_excerpt: true 
+# hide_image: true
+# cover: false
 ---
 
 <!--************************************************************************************************-->
-# About
 
 <!--author-->
 
