@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.1"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
+# gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack" # PRO
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -44,10 +45,16 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+  gem "jekyll-avatar"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
+
+  # # Github Pages Locally
+  # gem "github-pages", group: :jekyll_plugins
+  # gem "jekyll-include-cache", group: :jekyll_plugins
+
 end
 
 gem 'wdm' if Gem.win_platform?
