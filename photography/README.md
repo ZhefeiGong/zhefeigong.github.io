@@ -80,14 +80,6 @@ description: >
         $('#filter-button-group').slideToggle();
       });
 
-      var $grid_btn = $('#filter-button-group').isotope({
-        itemSelector: '.choose-btn-wrapper',
-        layoutMode: 'horiz',
-      });
-      $grid_btn.imagesLoaded().progress(function() {
-        $grid.isotope('layout');
-      });
-
     });
 </script>
 
