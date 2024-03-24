@@ -29,7 +29,7 @@ content_width_5: 124 #rem
   </div>
 </p>
 
-<button class="width: 100%; padding: 10px 0; background-color: #007bff; color: white; border: none; cursor: pointer;">Click Me</button>
+<button class="width: 100%;">Click Me</button>
 
 <p>
 </p>
