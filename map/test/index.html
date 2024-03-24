@@ -1,77 +1,23 @@
-<!doctype html>
 <html>
- 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
-  <title>获取地图缩放级别</title>
-  TESTtestTESTtestTEST
-  <style>
-    body,
-    html {
-      height: 100%;
-      width: 100%;
-      margin: 0;
-      padding: 0;
-    }
-  </style>
-</head>
- 
-<body>
-  <div id="map" style="width:100%;height:100%"></div>
-  <script src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI"></script>
-  <script>
-    var mapType = google.maps.MapTypeId.ROADMAP;
-    var lat = 39.915168, lng = 116.403875, zoom = 10;
-    var mapOptions = {
-      center: {
-        lat: 52.38027,
-        lng: -1.5637500000000273
-      },
-      zoom: 2,
-      styles: [{
-        "featureType": "all",
-        "elementType": "labels.text.fill",
-        "stylers": [{ "saturation": 36 }, { "color": "#000000" }, { "lightness": 40 }]
-      }, { "featureType": "all", "elementType": "labels.text.stroke", "stylers": [{ "visibility": "on" }, { "color": "#000000" }, { "lightness": 16 }] }, { "featureType": "all", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "administrative", "elementType": "geometry.fill", "stylers": [{ "color": "#000000" }, { "lightness": 20 }] }, { "featureType": "administrative", "elementType": "geometry.stroke", "stylers": [{ "color": "#000000" }, { "lightness": 17 }, { "weight": 1.2 }] }, { "featureType": "landscape", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 20 }] }, { "featureType": "poi", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 21 }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#000000" }, { "lightness": 17 }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "color": "#000000" }, { "lightness": 29 }, { "weight": 0.2 }] }, { "featureType": "road.arterial", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 18 }] }, { "featureType": "road.local", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 16 }] }, { "featureType": "transit", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 19 }] }, { "featureType": "water", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 17 }] }]
-    };
-    var map = new google.maps.Map(document.getElementById("map"), mapOptions); //创建谷歌地图
-    function HouseMarker(latlng, map, args) {
-      this.latlng = latlng; //for google map
-      this.setMap(map); //for google map
-      this.args = args; //自定义参数
-    }
-    HouseMarker.prototype = new google.maps.OverlayView();
-    HouseMarker.prototype.draw = function () {
-      //创建一个div，把marker和详情框写在一起，方便后面的展示和隐藏
-      $div = $("<div class='marker-container'>" +
-        　　　　　　　　"　　<div class='marker'></div>" +
-        　　　　　　　　"　　<div class='detail-info'></div>" +
-        　　　　　　　　"</div>");
-      //将div添加到它的dom元素里面
-      var panes = this.getPanes();
-      var div = $div[0];
-      panes.overlayImage.appendChild(div);
-      //根据经纬度计算div的像素位置
-      var point = this.getProjection().fromLatLngToDivPixel(this.latlng);
-      div.style.left = (point.x - 20) + 'px'; 
-      div.style.top = (point.y - 20) + 'px';  
-    };
-    // var locationMarker = {
-    //   path: './img/green.svg'
-    // }
-    var marker = new google.maps.Marker({
-      map: map,
-      // icon: './img/green.svg',
-      position: new google.maps.LatLng(lat, lng)
-    });
-    var infowindow = new google.maps.InfoWindow({ content: "北京市天安门" }); 
-    infowindow.open(map, marker); 
-    google.maps.event.addListener(marker, "click", function () {
-      infowindow.open(map, marker);
-    });
-  </script>
-</body>
- 
+  <head>
+    <title>Advanced Marker Accessibility</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script type="module" src="./index.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <!--
+      The `defer` attribute causes the callback to execute after the full HTML
+      document has been parsed. For non-blocking uses, avoiding race conditions,
+      and consistent behavior across browsers, consider loading using Promises.
+      See https://developers.google.com/maps/documentation/javascript/load-maps-js-api
+      for more information.
+      -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI&callback=initMap&libraries=marker&v=beta"
+      defer
+    ></script>
+  </body>
 </html>
