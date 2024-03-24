@@ -53,7 +53,7 @@ function initMap() {
         '<div id="siteNotice">' +
         '<h1 id="firstHeading" class="firstHeading">${title}</h1>' +
         "</div>" +
-
+        
         '<div id="bodyContent">' +
         '<a href="https://zhefeigong.github.io/photography/">'+
         '<img src="/assets/ori/test_200x200.png" alt="test">' + 
