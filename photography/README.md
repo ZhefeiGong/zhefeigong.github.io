@@ -20,6 +20,8 @@ description: >
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
+<div id="interact-area" class="display: flex;">
+
 <div class="display: flex;">
 <button class="button-top" id="search-choose">Choose</button>
 <button class="button-top" id="search-world">Explore</button>
@@ -31,6 +33,8 @@ description: >
   <button class="choose-btn" data-filter="Europe">Europe</button>
   <button class="choose-btn" data-filter="America">America</button>
   <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
+</div>
+
 </div>
 
 <p>
@@ -67,6 +71,6 @@ description: >
       $("#search-choose").on('click', function(){
         $('#filter-button-group').slideToggle();
       });
-      
+
     });
 </script>
