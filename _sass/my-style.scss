@@ -100,8 +100,9 @@ $default-width: 33%;
 
 /* ============ Google Map Styles ============ */
 
- #map {
-  height: 100%;
+#map {
+  width: 100%;
+  height: 400px;
 }
 
 // /* 
