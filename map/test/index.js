@@ -37,7 +37,7 @@ function initMap() {
     const infoWindow = new google.maps.InfoWindow();
 
     // Create the markers.
-    tourStops.forEach(({ position, title }, i) => {
+    tourStops.forEach(({ position, title, picurl}, i) => {
       //
       const pinView = new google.maps.marker.PinView({
         glyph: `${i + 1}`,
