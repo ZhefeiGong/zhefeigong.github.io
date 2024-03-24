@@ -49,13 +49,11 @@ function initMap() {
         // title: `${i + 1}. ${title}`,
         title:
         '<div id="content">' +
-
         '<div id="siteNotice">' +
-        '<h1 id="firstHeading" class="firstHeading">${title}</h1>' +
+        `<h1 id="firstHeading" class="firstHeading">${title}</h1>` +
         "</div>" +
-        
         '<div id="bodyContent">' +
-        '<a href="https://zhefeigong.github.io/photography/">'+
+        `<a href=${picurl}>`+
         '<img src="/assets/ori/test_200x200.png" alt="test">' + 
         '</a>' +
         "</div>" +
