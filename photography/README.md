@@ -28,11 +28,21 @@ description: >
   </div>
 
   <div id ="filter-button-group" class="filter-button-group">
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="*">All</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Asian">Asian</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Europe">Europe</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="America">America</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
+    </div>
   </div>
 
 </div>
@@ -68,6 +78,14 @@ description: >
       
       $("#search-choose").on('click', function(){
         $('#filter-button-group').slideToggle();
+      });
+
+      var $grid_btn = $('#filter-button-group').isotope({
+        itemSelector: '.choose-btn-wrapper',
+        layoutMode: 'masonry',
+      });
+      $grid_btn.imagesLoaded().progress(function() {
+        $grid.isotope('layout');
       });
 
     });
