@@ -117,7 +117,9 @@ $(function(){
         '<div id="bodyContent">' +
         "<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large " +
         "Heritage Site.</p>" +
+        '<a herf="/photography/">'+
         '<img src="/assets/ori/test_200x200.png" alt="test">' + 
+        '</a>'+
         '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
         "https://en.wikipedia.org/w/index.php?title=Uluru</a> " +
         "(last visited June 22, 2009).</p>" +
