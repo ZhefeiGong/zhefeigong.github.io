@@ -54,7 +54,7 @@ function initMap() {
         `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
         "</div>" +
 
-        '<div id="bodyContent">' +
+        '<div id="bodyContent" style="height=180px; with=auto">' +
         `<a href= https://zhefeigong.github.io/photography/>`+
         `<img src="${picurl}" alt="pic" style="">` + 
         '</a>' +
