@@ -82,7 +82,7 @@ description: >
 
       var $grid_btn = $('#filter-button-group').isotope({
         itemSelector: '.choose-btn-wrapper',
-        layoutMode: 'masonry',
+        layoutMode: 'horiz',
       });
       $grid_btn.imagesLoaded().progress(function() {
         $grid.isotope('layout');
