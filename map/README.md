@@ -5,7 +5,6 @@ description: >
   A picture is worth a thousand words
 ---
 
-
 <iframe
   width="100%"
   height="500px"
