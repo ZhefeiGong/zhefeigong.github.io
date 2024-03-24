@@ -5,4 +5,4 @@ description: >
   A picture is worth a thousand words
 ---
 
- {% google_map %}
+<!-- {% google_map %} -->
