@@ -21,7 +21,7 @@ description: >
 <!-------------------------------------- THE HTML -------------------------------------->
 
 <div id="interact-area" class="interact-area">
-
+  
   <div id="search-button-group" class="search-button-group">
   <button class="search-btn" id="search-choose">Choose</button>
   <button class="search-btn" id="search-world">Explore</button>
