@@ -109,7 +109,10 @@
 
   /* search-btn */
   .search-btn {
-    margin: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0;
+    margin-bottom: 0;
     flex-grow: 1;
     --b: 3px;   /* border thickness */
     --s: .45em; /* size of the corner */
@@ -175,7 +178,7 @@
     -webkit-user-select: none;
     touch-action: manipulation;
   }
-  
+
   .choose-btn:hover {
     box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
   }
