@@ -20,15 +20,18 @@ description: >
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
-<p>
-  <div id ="filter-button-group" class="button-group" >
-    <button data-filter="*">All</button>
-    <button data-filter="Asian">Asian</button>
-    <button data-filter="Europe">Europe</button>
-    <button data-filter="America">America</button>
-    <button data-filter="Uncategorized">Uncategorized</button>
-  </div>
-</p>
+<div class="display: flex;">
+<button class="button-top" id="search-choose">Choose</button>
+<button class="button-top" id="search-world">Explore</button>
+</div>
+
+<div id ="filter-button-group" class="button-group" stle="display:none;">
+  <button class="choose-btn" data-filter="*">All</button>
+  <button class="choose-btn" data-filter="Asian">Asian</button>
+  <button class="choose-btn" data-filter="Europe">Europe</button>
+  <button class="choose-btn" data-filter="America">America</button>
+  <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
+</div>
 
 <p>
 </p>
@@ -38,9 +41,11 @@ description: >
 <!-------------------------------------- THE SCRIPT -------------------------------------->
 <script>
     $(document).ready(function() {
+
       $("#image-gallery").lightGallery({
         selector: '.item'
       });
+      
       var $grid = $('#image-gallery').isotope({
         percentPosition: true,
         columnWidth: '#gallery-sizer',
@@ -50,6 +55,7 @@ description: >
       $grid.imagesLoaded().progress(function() {
         $grid.isotope('layout');
       });
+
       $("#filter-button-group").on( 'click', 'button', function() {
         var filterValue = $(this).attr('data-filter');
         if (filterValue != '*') { 
@@ -57,5 +63,10 @@ description: >
         }
         $grid.isotope({ filter : filterValue });
       });
+      
+      $("#search-choose").on('click', function(){
+        $('#filter-button-group').slideToggle();
+      });
+      
     });
 </script>
