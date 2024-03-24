@@ -20,14 +20,14 @@ description: >
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
-<div id="interact-area" class="display: flex;">
+<div id="interact-area" style="display: flex;">
 
-<div class="display: flex;">
+<div style="display: flex;">
 <button class="search-btn" id="search-choose">Choose</button>
 <button class="search-btn" id="search-world">Explore</button>
 </div>
 
-<div id ="filter-button-group" class="button-group" stle="display:none;">
+<div id ="filter-button-group" class="button-group" style="display:none;">
   <button class="choose-btn" data-filter="*">All</button>
   <button class="choose-btn" data-filter="Asian">Asian</button>
   <button class="choose-btn" data-filter="Europe">Europe</button>
