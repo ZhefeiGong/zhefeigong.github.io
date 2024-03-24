@@ -51,6 +51,9 @@ group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
 
+  gem "jekyll_mapping"
+  gem "jekyll_json"
+
   # # Github Pages Locally
   # gem "github-pages", group: :jekyll_plugins
   # gem "jekyll-include-cache", group: :jekyll_plugins
