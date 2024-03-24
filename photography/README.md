@@ -29,8 +29,6 @@ content_width_5: 124 #rem
   </div>
 </p>
 
-<button class="width: 100%;">Click Me</button>
-
 <p>
 </p>
 
