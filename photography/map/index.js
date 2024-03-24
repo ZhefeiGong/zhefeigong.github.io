@@ -74,44 +74,5 @@ function initMap() {
       });
     });
   }
-
+  
   window.initMap = initMap;
-
-// // This example displays a marker at the center of Australia.
-// // When the user clicks the marker, an info window opens.
-// function initMap() {
-//   const uluru = { lat: -25.363, lng: 131.044 };
-//   const map = new google.maps.Map(document.getElementById("map"), {
-//     zoom: 4,
-//     center: uluru,
-//   });
-//   const contentString =
-//     '<div id="content">' +
-//     '<div id="siteNotice">' +
-//     '<h1 id="firstHeading" class="firstHeading">Uluru</h1>' +
-//     '<div id="bodyContent">' +
-//     '<a href="https://zhefeigong.github.io/photography/">'+
-//     '<img src="/assets/ori/test_200x200.png" alt="test">' + 
-//     '</a>' +
-//     "</div>" +
-//     "</div>" +
-//     "</div>";
-//   const infowindow = new google.maps.InfoWindow({
-//     content: contentString,
-//     ariaLabel: "Uluru",
-//   });
-//   const marker = new google.maps.Marker({
-//     position: uluru,
-//     map,
-//     title: "Uluru (Ayers Rock)",
-//   });
-
-//   marker.addListener("click", () => {
-//     infowindow.open({
-//       anchor: marker,
-//       map,
-//     });
-//   });
-// }
-
-// window.initMap = initMap;
