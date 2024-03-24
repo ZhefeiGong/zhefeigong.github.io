@@ -106,7 +106,7 @@
 }
 .search-button-group{
   margin-bottom: 2%;
-  display: flex;
+  display: block;
   /* search-btn */
   .search-btn {
     margin-left: 2%;
@@ -150,7 +150,7 @@
 
   display: none;
   margin-top: 2%;
-  
+
   .choose-btn {
     margin: 5%;
     align-items: center;
