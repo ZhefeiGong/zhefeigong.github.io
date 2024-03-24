@@ -20,9 +20,9 @@ description: >
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
-<div id="interact-area" style="display: flex;">
+<div id="interact-area" style="display: grid;">
 
-<div style="display: flex;">
+<div style="display: block;">
 <button class="search-btn" id="search-choose">Choose</button>
 <button class="search-btn" id="search-world">Explore</button>
 </div>
