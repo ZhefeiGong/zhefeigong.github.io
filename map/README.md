@@ -5,10 +5,6 @@ description: >
   A picture is worth a thousand words
 ---
 
-[next](/map/test)
-
-<p>
-</p>
 
 <iframe
   width="100%"
