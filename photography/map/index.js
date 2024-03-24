@@ -53,8 +53,8 @@ function initMap() {
         '<div id="siteNotice">' +
         `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
         "</div>" +
-
-        '<div id="bodyContent" style="height=180px; with=auto">' +
+        
+        '<div id="bodyContent" style="height=150px; with=auto">' +
         `<a href= https://zhefeigong.github.io/photography/>`+
         `<img src="${picurl}" alt="pic" style="">` + 
         '</a>' +
