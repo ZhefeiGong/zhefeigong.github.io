@@ -3,6 +3,7 @@ layout: plain
 title: Be a Worldwatcher
 description: >
   A picture is worth a thousand words
+content_width_5: 124 #em
 ---
 
 <!-------------------------------------- THE HEAD -------------------------------------->
