@@ -20,20 +20,20 @@ description: >
 
 <!-------------------------------------- THE HTML -------------------------------------->
 
-<div id="interact-area" style="display: grid;">
+<div id="interact-area" class="interact-area">
 
-<div style="display: block;">
-<button class="search-btn" id="search-choose">Choose</button>
-<button class="search-btn" id="search-world">Explore</button>
-</div>
+  <div id="search-button-group" class="search-button-group">
+  <button class="search-btn" id="search-choose">Choose</button>
+  <button class="search-btn" id="search-world">Explore</button>
+  </div>
 
-<div id ="filter-button-group" class="button-group" style="display:none;">
-  <button class="choose-btn" data-filter="*">All</button>
-  <button class="choose-btn" data-filter="Asian">Asian</button>
-  <button class="choose-btn" data-filter="Europe">Europe</button>
-  <button class="choose-btn" data-filter="America">America</button>
-  <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
-</div>
+  <div id ="filter-button-group" class="filter-button-group">
+    <button class="choose-btn" data-filter="*">All</button>
+    <button class="choose-btn" data-filter="Asian">Asian</button>
+    <button class="choose-btn" data-filter="Europe">Europe</button>
+    <button class="choose-btn" data-filter="America">America</button>
+    <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
+  </div>
 
 </div>
 

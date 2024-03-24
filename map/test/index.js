@@ -49,15 +49,17 @@ function initMap() {
         // title: `${i + 1}. ${title}`,
         title:
         '<div id="content">' +
+        
         '<div id="siteNotice">' +
-        `<h1 id="firstHeading" class="firstHeading">${title}</h1>` +
-        "</div>" +
-        '<div id="bodyContent">' +
-        `<a href=${picurl}>`+
-        '<img src="/assets/ori/test_200x200.png" alt="test">' + 
-        '</a>' +
+        `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
         "</div>" +
 
+        '<div id="bodyContent">' +
+        `<a href= https://zhefeigong.github.io/photography/>`+
+        `<img src="${picurl}" alt="pic" style="">` + 
+        '</a>' +
+        "</div>" +
+        
         "</div>",
         content: pinView.element,
       });
