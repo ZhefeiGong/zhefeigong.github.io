@@ -49,10 +49,9 @@ function initMap() {
         // title: `${i + 1}. ${title}`,
         title:
         '<div id="content">' +
-        
         '<div id="siteNotice">' +
+
         `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
-        "</div>" +
         
         '<div id="bodyContent">' +
         '<a href= https://zhefeigong.github.io/photography/>'+
@@ -60,6 +59,7 @@ function initMap() {
         '</a>' +
         "</div>" +
         
+        "</div>" +
         "</div>",
         content: pinView.element,
       });
