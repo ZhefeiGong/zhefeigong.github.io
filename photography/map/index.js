@@ -49,7 +49,9 @@ function initMap() {
         // title: `${i + 1}. ${title}`,
         title:
         '<div id="content">' +
+        
         '<div id="siteNotice">' +
+        "</div>" +
 
         `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
         
@@ -59,7 +61,6 @@ function initMap() {
         '</a>' +
         "</div>" +
         
-        "</div>" +
         "</div>",
         content: pinView.element,
       });
