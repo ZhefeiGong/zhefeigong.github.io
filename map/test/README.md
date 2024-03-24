@@ -24,7 +24,7 @@ description: >
       for more information.
       -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI&callback=initMap&libraries=marker&v=beta"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI&callback=initMap"
       defer
     ></script>
 </body>
