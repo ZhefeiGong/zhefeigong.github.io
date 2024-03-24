@@ -16,8 +16,8 @@ description: >
 <!-- prettier-ignore -->
 
 <iframe
-  width="600"
-  height="450"
+  width="100%"
+  height="auto"
   style="border:0"
   loading="lazy"
   allowfullscreen
