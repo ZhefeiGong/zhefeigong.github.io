@@ -378,6 +378,15 @@ plugins:
 #     - https://github.com/<username>
 
 
+mapping:
+    provider: google_js
+    api_key: AIzaSyCBlxDPSkfw9ZBQ5zkKA3mpgVD7twJVATI
+    zoom: 10
+    dimensions:
+        width: 600
+        height: 400
+
+
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
 optional_front_matter:
