@@ -54,9 +54,9 @@ function initMap() {
         `<h2 id="firstHeading" class="firstHeading">${title}</h2>` +
         "</div>" +
         
-        '<div id="bodyContent" style="height=150px; with=auto">' +
-        `<a href= https://zhefeigong.github.io/photography/>`+
-        `<img src="${picurl}" alt="pic" style="">` + 
+        '<div id="bodyContent">' +
+        '<a href= https://zhefeigong.github.io/photography/>'+
+        `<img src="${picurl}" alt="pic">` + 
         '</a>' +
         "</div>" +
         
@@ -69,7 +69,7 @@ function initMap() {
         const { target } = domEvent;
         infoWindow.close();
         infoWindow.setContent(marker.title);
-        infoWindow.open(marker.map, marker);
+        infoWindow.open(anchor=marker, marker.map);
       });
     });
   }
