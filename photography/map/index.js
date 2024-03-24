@@ -49,7 +49,7 @@ function initMap() {
         // title: `${i + 1}. ${title}`,
         title:
         '<div id="content">' +
-        
+
         '<div id="siteNotice">' +
         "</div>" +
 
@@ -70,7 +70,7 @@ function initMap() {
         const { target } = domEvent;
         infoWindow.close();
         infoWindow.setContent(marker.title);
-        infoWindow.open(anchor=marker, marker.map);
+        infoWindow.open(marker.map, marker);
       });
     });
   }
