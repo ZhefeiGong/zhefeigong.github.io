@@ -3,7 +3,7 @@ layout: plain
 title: Be a Worldwatcher
 description: >
   A picture is worth a thousand words
-# content_width_5: 124 #rem
+content_width_5: 124 #rem
 ---
 
 <!-------------------------------------- THE HEAD -------------------------------------->
@@ -28,6 +28,8 @@ description: >
     <button data-filter="Uncategorized">Uncategorized</button>
   </div>
 </p>
+
+<button class="width: 100%; padding: 10px 0; background-color: #007bff; color: white; border: none; cursor: pointer;">Click Me</button>
 
 <p>
 </p>
