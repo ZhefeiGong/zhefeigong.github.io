@@ -24,7 +24,7 @@ description: >
   
   <div id="search-button-group" class="search-button-group">
   <button class="search-btn" id="search-choose">Choose</button>
-  <button class="search-btn" id="search-world">Explore</button>
+  <button class="search-btn" id="search-world" onclick="location.href='/map/';">Explore</button>
   </div>
 
   <div id ="filter-button-group" class="filter-button-group">
