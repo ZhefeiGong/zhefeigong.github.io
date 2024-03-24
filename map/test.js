@@ -32,27 +32,28 @@ function initMap() {
     // Create an info window to share between markers.
     const infoWindow = new google.maps.InfoWindow();
   
-    // Create the markers.
-    tourStops.forEach(({ position, title }, i) => {
-      const pinView = new google.maps.marker.PinView({
-        glyph: `${i + 1}`,
-      });
-      const marker = new google.maps.marker.AdvancedMarkerView({
-        position,
-        map,
-        title: `${i + 1}. ${title}`,
-        content: pinView.element,
-      });
+    // // Create the markers.
+    // tourStops.forEach(({ position, title }, i) => {
+    //   const pinView = new google.maps.marker.PinView({
+    //     glyph: `${i + 1}`,
+    //   });
+    //   const marker = new google.maps.marker.AdvancedMarkerView({
+    //     position,
+    //     map,
+    //     title: `${i + 1}. ${title}`,
+    //     content: pinView.element,
+    //   });
   
-      // Add a click listener for each marker, and set up the info window.
-      marker.addListener("click", ({ domEvent, latLng }) => {
-        const { target } = domEvent;
+    //   // Add a click listener for each marker, and set up the info window.
+    //   marker.addListener("click", ({ domEvent, latLng }) => {
+    //     const { target } = domEvent;
   
-        infoWindow.close();
-        infoWindow.setContent(marker.title);
-        infoWindow.open(marker.map, marker);
-      });
-    });
+    //     infoWindow.close();
+    //     infoWindow.setContent(marker.title);
+    //     infoWindow.open(marker.map, marker);
+    //   });
+    // });
+    
   }
   
   window.initMap = initMap;
