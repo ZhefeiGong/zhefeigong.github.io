@@ -23,8 +23,8 @@ description: >
 <div id="interact-area" class="display: flex;">
 
 <div class="display: flex;">
-<button class="button-top" id="search-choose">Choose</button>
-<button class="button-top" id="search-world">Explore</button>
+<button class="search-btn" id="search-choose">Choose</button>
+<button class="search-btn" id="search-world">Explore</button>
 </div>
 
 <div id ="filter-button-group" class="button-group" stle="display:none;">
