@@ -49,7 +49,7 @@
 //       });
 //     });
 //   }
-  
+
 //   window.initMap = initMap;
 
 // This example displays a marker at the center of Australia.
@@ -63,17 +63,12 @@ function initMap() {
   const contentString =
     '<div id="content">' +
     '<div id="siteNotice">' +
-    "</div>" +
     '<h1 id="firstHeading" class="firstHeading">Uluru</h1>' +
     '<div id="bodyContent">' +
-    "<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large " +
-    "Heritage Site.</p>" +
     '<a href="https://zhefeigong.github.io/">'+
     '<img src="/assets/ori/test_200x200.png" alt="test">' + 
-    '</a>'+
-    '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
-    "link</a>" +
-    "(last visited June 22, 2009).</p>" +
+    '</a>' +
+    "</div>" +
     "</div>" +
     "</div>";
   const infowindow = new google.maps.InfoWindow({
