@@ -10,6 +10,7 @@ preview:
   title: preview-title
   caption: preview-citation
 pictures:
+
 #---------------------------------------- CZECH ----------------------------------------
 - filename: Prague
   original: Czech/Prague.jpg
@@ -20,20 +21,6 @@ pictures:
   category: Czech
 
 #---------------------------------------- SWITZERLAND ----------------------------------------
-- filename: Baden
-  original: Switzerland/Baden.jpg
-  sizes:
-  thumbnail: Switzerland/Baden-thumbnail.jpg
-  title: Baden
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Bern
-  original: Switzerland/Bern.jpg
-  sizes:
-  thumbnail: Switzerland/Bern-thumbnail.jpg
-  title: Bern
-  caption: Photo by Zhefei Gong
-  category: Switzerland
 - filename: Interlaken
   original: Switzerland/Interlaken.jpg
   sizes:
@@ -83,6 +70,21 @@ pictures:
   title: Zermatt
   caption: Photo by Zhefei Gong
   category: Switzerland
+- filename: Baden
+  original: Switzerland/Baden.jpg
+  sizes:
+  thumbnail: Switzerland/Baden-thumbnail.jpg
+  title: Baden
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Bern
+  original: Switzerland/Bern.jpg
+  sizes:
+  thumbnail: Switzerland/Bern-thumbnail.jpg
+  title: Bern
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+
 #---------------------------------------- DENMARK ----------------------------------------
 - filename: Copenhagen
   original: Denmark/Copenhagen.jpg
@@ -98,6 +100,7 @@ pictures:
   title: Helsingor
   caption: Photo by Zhefei Gong
   category: Denmark
+
 #---------------------------------------- FRANCE ----------------------------------------
 - filename: Lyon
   original: France/Lyon.jpg
@@ -106,6 +109,7 @@ pictures:
   title: Lyon
   caption: Photo by Zhefei Gong
   category: France
+
 #---------------------------------------- HUNGARY ----------------------------------------
 - filename: Budapest
   original: Hungary/Budapest.jpg
@@ -114,6 +118,7 @@ pictures:
   title: Budapest
   caption: Photo by Zhefei Gong
   category: Hungary
+
 #---------------------------------------- ITALY ----------------------------------------
 - filename: Rome
   original: Italy/Rome.jpg
@@ -122,6 +127,7 @@ pictures:
   title: Rome
   caption: Photo by Zhefei Gong
   category: Italy
+
 #---------------------------------------- SPAIN ----------------------------------------
 - filename: Barcelona
   original: Spain/Barcelona.jpg
@@ -137,6 +143,7 @@ pictures:
   title: Madrid
   caption: Photo by Zhefei Gong
   category: Spain
+
 #---------------------------------------- SWEDEN ----------------------------------------
 - filename: Helsingborg
   original: Sweden/Helsingborg.jpg
@@ -159,6 +166,7 @@ pictures:
   title: Malmo
   caption: Photo by Zhefei Gong
   category: Sweden
+
 #---------------------------------------- VATICAN ----------------------------------------
 - filename: Vatican
   original: Vatican/Vatican.jpg
@@ -167,6 +175,7 @@ pictures:
   title: Vatican
   caption: Photo by Zhefei Gong
   category: Vatican
+  
 #---------------------------------------- CHINA ----------------------------------------
 - filename: Beijing
   original: China/Beijing.jpg

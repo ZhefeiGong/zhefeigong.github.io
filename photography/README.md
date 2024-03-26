@@ -32,13 +32,34 @@ description: >
     <button class="choose-btn" data-filter="*">All</button>
     </div>
     <div class="choose-btn-wrapper">
-    <button class="choose-btn" data-filter="Asian">Asian</button>
+    <button class="choose-btn" data-filter="China">China</button>
     </div>
     <div class="choose-btn-wrapper">
-    <button class="choose-btn" data-filter="Europe">Europe</button>
+    <button class="choose-btn" data-filter="Switzerland">Switzerland</button>
     </div>
     <div class="choose-btn-wrapper">
-    <button class="choose-btn" data-filter="America">America</button>
+    <button class="choose-btn" data-filter="Czech">Czech</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Denmark">Denmark</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="France">France</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Hungary">Hungary</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Italy">Italy</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Spain">Spain</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Sweden">Sweden</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Vatican">Vatican</button>
     </div>
     <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
