@@ -48,7 +48,7 @@ description: >
 </div>
 
 
-{% include gallery-layout.html gallery=site.data.galleries.ghent-light-festival %}
+{% include gallery-layout.html gallery=site.data.galleries.zhefei-gallery %}
 
 <!-------------------------------------- THE SCRIPT -------------------------------------->
 <script>
