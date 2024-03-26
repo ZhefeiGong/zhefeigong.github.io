@@ -1,0 +1,22 @@
+picture_path: zhefei-gallery
+preview:
+  filename: ---
+  original: ---.jpg
+  sizes:
+  - ---.jpg
+  - ---.jpg
+  - ---.jpg
+  thumbnail: ---.jpg
+  title: preview
+  caption: preview
+pictures:
+- filename: Lichtfestival-0012
+  original: Lichtfestival-0012-4000x6000.jpg
+  sizes:
+  - Lichtfestival-0012-1414x2121.jpg
+  - Lichtfestival-0012-1999x2999.jpg
+  - Lichtfestival-0012-2828x4242.jpg
+  thumbnail: Lichtfestival-0012-thumbnail.jpg
+  title: Boekentoren
+  caption: Re-Construct/"Den djoef" by I-Illusions
+  category: Asian
