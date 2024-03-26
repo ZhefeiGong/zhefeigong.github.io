@@ -10,6 +10,164 @@ preview:
   title: preview-title
   caption: preview-citation
 pictures:
+#---------------------------------------- CZECH ----------------------------------------
+- filename: Prague
+  original: Czech/Prague.jpg
+  sizes:
+  thumbnail: Czech/Prague-thumbnail.jpg
+  title: Prague
+  caption: Photo by Zhefei Gong
+  category: Czech
+
+#---------------------------------------- SWITZERLAND ----------------------------------------
+- filename: Baden
+  original: Switzerland/Baden.jpg
+  sizes:
+  thumbnail: Switzerland/Baden-thumbnail.jpg
+  title: Baden
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Bern
+  original: Switzerland/Bern.jpg
+  sizes:
+  thumbnail: Switzerland/Bern-thumbnail.jpg
+  title: Bern
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Interlaken
+  original: Switzerland/Interlaken.jpg
+  sizes:
+  thumbnail: Switzerland/Interlaken-thumbnail.jpg
+  title: Interlaken
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Lausanne
+  original: Switzerland/Lausanne.jpg
+  sizes:
+  thumbnail: Switzerland/Lausanne-thumbnail.jpg
+  title: Lausanne
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Lucerne
+  original: Switzerland/Lucerne.jpg
+  sizes:
+  thumbnail: Switzerland/Lucerne-thumbnail.jpg
+  title: Lucerne
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Montreux
+  original: Switzerland/Montreux.jpg
+  sizes:
+  thumbnail: Switzerland/Montreux-thumbnail.jpg
+  title: Montreux
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Oeschinen
+  original: Switzerland/Oeschinen.jpg
+  sizes:
+  thumbnail: Switzerland/Oeschinen-thumbnail.jpg
+  title: Oeschinen
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Solothurn
+  original: Switzerland/Solothurn.jpg
+  sizes:
+  thumbnail: Switzerland/Solothurn-thumbnail.jpg
+  title: Solothurn
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Zermatt
+  original: Switzerland/Zermatt.jpg
+  sizes:
+  thumbnail: Switzerland/Zermatt-thumbnail.jpg
+  title: Zermatt
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+#---------------------------------------- DENMARK ----------------------------------------
+- filename: Copenhagen
+  original: Denmark/Copenhagen.jpg
+  sizes:
+  thumbnail: Denmark/Copenhagen-thumbnail.jpg
+  title: Copenhagen
+  caption: Photo by Zhefei Gong
+  category: Denmark
+- filename: Helsingor
+  original: Denmark/Helsingor.jpg
+  sizes:
+  thumbnail: Denmark/Helsingor-thumbnail.jpg
+  title: Helsingor
+  caption: Photo by Zhefei Gong
+  category: Denmark
+#---------------------------------------- FRANCE ----------------------------------------
+- filename: Lyon
+  original: France/Lyon.jpg
+  sizes:
+  thumbnail: France/Lyon-thumbnail.jpg
+  title: Lyon
+  caption: Photo by Zhefei Gong
+  category: France
+#---------------------------------------- HUNGARY ----------------------------------------
+- filename: Budapest
+  original: Hungary/Budapest.jpg
+  sizes:
+  thumbnail: Hungary/Budapest-thumbnail.jpg
+  title: Budapest
+  caption: Photo by Zhefei Gong
+  category: Hungary
+#---------------------------------------- ITALY ----------------------------------------
+- filename: Rome
+  original: Italy/Rome.jpg
+  sizes:
+  thumbnail: Italy/Rome-thumbnail.jpg
+  title: Rome
+  caption: Photo by Zhefei Gong
+  category: Italy
+#---------------------------------------- SPAIN ----------------------------------------
+- filename: Barcelona
+  original: Spain/Barcelona.jpg
+  sizes:
+  thumbnail: Spain/Barcelona-thumbnail.jpg
+  title: Barcelona
+  caption: Photo by Zhefei Gong
+  category: Spain
+- filename: Madrid
+  original: Spain/Madrid.jpg
+  sizes:
+  thumbnail: Spain/Madrid-thumbnail.jpg
+  title: Madrid
+  caption: Photo by Zhefei Gong
+  category: Spain
+#---------------------------------------- SWEDEN ----------------------------------------
+- filename: Helsingborg
+  original: Sweden/Helsingborg.jpg
+  sizes:
+  thumbnail: Sweden/Helsingborg-thumbnail.jpg
+  title: Helsingborg
+  caption: Photo by Zhefei Gong
+  category: Sweden
+- filename: Lund
+  original: Sweden/Lund.jpg
+  sizes:
+  thumbnail: Sweden/Lund-thumbnail.jpg
+  title: Lund
+  caption: Photo by Zhefei Gong
+  category: Sweden
+- filename: Malmo
+  original: Sweden/Malmo.jpg
+  sizes:
+  thumbnail: Sweden/Malmo-thumbnail.jpg
+  title: Malmo
+  caption: Photo by Zhefei Gong
+  category: Sweden
+#---------------------------------------- VATICAN ----------------------------------------
+- filename: Vatican
+  original: Vatican/Vatican.jpg
+  sizes:
+  thumbnail: Vatican/Vatican-thumbnail.jpg
+  title: Vatican
+  caption: Photo by Zhefei Gong
+  category: Vatican
+#---------------------------------------- CHINA ----------------------------------------
 - filename: Beijing
   original: China/Beijing.jpg
   sizes:
@@ -136,150 +294,3 @@ pictures:
   title: Yading
   caption: Photo by Zhefei Gong
   category: China
-- filename: Prague
-  original: Czech/Prague.jpg
-  sizes:
-  thumbnail: Czech/Prague-thumbnail.jpg
-  title: Prague
-  caption: Photo by Zhefei Gong
-  category: Czech
-- filename: Copenhagen
-  original: Denmark/Copenhagen.jpg
-  sizes:
-  thumbnail: Denmark/Copenhagen-thumbnail.jpg
-  title: Copenhagen
-  caption: Photo by Zhefei Gong
-  category: Denmark
-- filename: Helsingor
-  original: Denmark/Helsingor.jpg
-  sizes:
-  thumbnail: Denmark/Helsingor-thumbnail.jpg
-  title: Helsingor
-  caption: Photo by Zhefei Gong
-  category: Denmark
-- filename: Lyon
-  original: France/Lyon.jpg
-  sizes:
-  thumbnail: France/Lyon-thumbnail.jpg
-  title: Lyon
-  caption: Photo by Zhefei Gong
-  category: France
-- filename: Budapest
-  original: Hungary/Budapest.jpg
-  sizes:
-  thumbnail: Hungary/Budapest-thumbnail.jpg
-  title: Budapest
-  caption: Photo by Zhefei Gong
-  category: Hungary
-- filename: Rome
-  original: Italy/Rome.jpg
-  sizes:
-  thumbnail: Italy/Rome-thumbnail.jpg
-  title: Rome
-  caption: Photo by Zhefei Gong
-  category: Italy
-- filename: Barcelona
-  original: Spain/Barcelona.jpg
-  sizes:
-  thumbnail: Spain/Barcelona-thumbnail.jpg
-  title: Barcelona
-  caption: Photo by Zhefei Gong
-  category: Spain
-- filename: Madrid
-  original: Spain/Madrid.jpg
-  sizes:
-  thumbnail: Spain/Madrid-thumbnail.jpg
-  title: Madrid
-  caption: Photo by Zhefei Gong
-  category: Spain
-- filename: Helsingborg
-  original: Sweden/Helsingborg.jpg
-  sizes:
-  thumbnail: Sweden/Helsingborg-thumbnail.jpg
-  title: Helsingborg
-  caption: Photo by Zhefei Gong
-  category: Sweden
-- filename: Lund
-  original: Sweden/Lund.jpg
-  sizes:
-  thumbnail: Sweden/Lund-thumbnail.jpg
-  title: Lund
-  caption: Photo by Zhefei Gong
-  category: Sweden
-- filename: Malmo
-  original: Sweden/Malmo.jpg
-  sizes:
-  thumbnail: Sweden/Malmo-thumbnail.jpg
-  title: Malmo
-  caption: Photo by Zhefei Gong
-  category: Sweden
-- filename: Baden
-  original: Switzerland/Baden.jpg
-  sizes:
-  thumbnail: Switzerland/Baden-thumbnail.jpg
-  title: Baden
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Bern
-  original: Switzerland/Bern.jpg
-  sizes:
-  thumbnail: Switzerland/Bern-thumbnail.jpg
-  title: Bern
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Interlaken
-  original: Switzerland/Interlaken.jpg
-  sizes:
-  thumbnail: Switzerland/Interlaken-thumbnail.jpg
-  title: Interlaken
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Lausanne
-  original: Switzerland/Lausanne.jpg
-  sizes:
-  thumbnail: Switzerland/Lausanne-thumbnail.jpg
-  title: Lausanne
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Lucerne
-  original: Switzerland/Lucerne.jpg
-  sizes:
-  thumbnail: Switzerland/Lucerne-thumbnail.jpg
-  title: Lucerne
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Montreux
-  original: Switzerland/Montreux.jpg
-  sizes:
-  thumbnail: Switzerland/Montreux-thumbnail.jpg
-  title: Montreux
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Oeschinen
-  original: Switzerland/Oeschinen.jpg
-  sizes:
-  thumbnail: Switzerland/Oeschinen-thumbnail.jpg
-  title: Oeschinen
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Solothurn
-  original: Switzerland/Solothurn.jpg
-  sizes:
-  thumbnail: Switzerland/Solothurn-thumbnail.jpg
-  title: Solothurn
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Zermatt
-  original: Switzerland/Zermatt.jpg
-  sizes:
-  thumbnail: Switzerland/Zermatt-thumbnail.jpg
-  title: Zermatt
-  caption: Photo by Zhefei Gong
-  category: Switzerland
-- filename: Vatican
-  original: Vatican/Vatican.jpg
-  sizes:
-  thumbnail: Vatican/Vatican-thumbnail.jpg
-  title: Vatican
-  caption: Photo by Zhefei Gong
-  category: Vatican
