@@ -8,9 +8,9 @@ function initMap() {
 
     const tourStops = [
       {
-        position: { lat: 34.8791806, lng: -111.8265049 },
-        title: "Boynton Pass",
-        picurl: "/assets/ori/test2_200x200.png",
+        position: { lat: 39.930840, lng: 116.386337 },
+        title: "Beijing",
+        picurl: "/photography/zhefei-gallery/beijing-thumbnail.jpg",
       },
       {
         position: { lat: 34.8559195, lng: -111.7988186 },
