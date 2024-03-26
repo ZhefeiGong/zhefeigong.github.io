@@ -5,7 +5,6 @@ function initMap() {
       center: { lat: 37.5519, lng: 126.9918 },
       mapId: "4504f8b37365c3d0",
     });
-
     const tourStops = [
       {
         position: { lat: 47.472397, lng: 8.308662 },
