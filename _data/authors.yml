@@ -10,13 +10,15 @@ Zhefei: # author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Hi I'm a senior undergraduate from [Tongji University](https://en.tongji.edu.cn/p/#/). 
+    Previously I spent a wonderful semester as an exchange student at [EPFL](https://www.epfl.ch/en/), 
+    advised by [Alexandre Alahi](https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en). 
+    I've also had the privilege of working as a research intern at [IRCP Lab](https://robot.tongji.edu.cn/) during my time at Tongji.
 
-    Hi test the link [homepage](https://zhefeigong.github.io/about/)
+    After an extensive periof of exploration, my interest has gravitated towards **robot learning**, especially **manipulation** tasks.
+    My aspiration is to develop general-purpose capable of autonomously perform compelx, long-horizon daily tasks, 
+    thus bring the robot from laboratory to everyone's home. I am dedicated to realizing this vision over the next ten years. 
+    
 
   # This photo will be used in the about section
   picture:
