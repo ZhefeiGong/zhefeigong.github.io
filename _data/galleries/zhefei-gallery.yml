@@ -150,11 +150,11 @@ pictures:
   title: Copenhagen
   caption: Photo by Zhefei Gong
   category: Denmark
-- filename: Heisingor
-  original: Denmark/Heisingor.jpg
+- filename: Helsingor
+  original: Denmark/Helsingor.jpg
   sizes:
-  thumbnail: Denmark/Heisingor-thumbnail.jpg
-  title: Heisingor
+  thumbnail: Denmark/Helsingor-thumbnail.jpg
+  title: Helsingor
   caption: Photo by Zhefei Gong
   category: Denmark
 - filename: Lyon
@@ -185,11 +185,11 @@ pictures:
   title: Barcelona
   caption: Photo by Zhefei Gong
   category: Spain
-- filename: Mardrid
-  original: Spain/Mardrid.jpg
+- filename: Madrid
+  original: Spain/Madrid.jpg
   sizes:
-  thumbnail: Spain/Mardrid-thumbnail.jpg
-  title: Mardrid
+  thumbnail: Spain/Madrid-thumbnail.jpg
+  title: Madrid
   caption: Photo by Zhefei Gong
   category: Spain
 - filename: Heisingborg
@@ -213,3 +213,73 @@ pictures:
   title: Malmo
   caption: Photo by Zhefei Gong
   category: Sweden
+- filename: Baden
+  original: Switzerland/Baden.jpg
+  sizes:
+  thumbnail: Switzerland/Baden-thumbnail.jpg
+  title: Baden
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Bern
+  original: Switzerland/Bern.jpg
+  sizes:
+  thumbnail: Switzerland/Bern-thumbnail.jpg
+  title: Bern
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Interlaken
+  original: Switzerland/Interlaken.jpg
+  sizes:
+  thumbnail: Switzerland/Interlaken-thumbnail.jpg
+  title: Interlaken
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Lausanne
+  original: Switzerland/Lausanne.jpg
+  sizes:
+  thumbnail: Switzerland/Lausanne-thumbnail.jpg
+  title: Lausanne
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Lucerne
+  original: Switzerland/Lucerne.jpg
+  sizes:
+  thumbnail: Switzerland/Lucerne-thumbnail.jpg
+  title: Lucerne
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Montreux
+  original: Switzerland/Montreux.jpg
+  sizes:
+  thumbnail: Switzerland/Montreux-thumbnail.jpg
+  title: Montreux
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Oeschinen
+  original: Switzerland/Oeschinen.jpg
+  sizes:
+  thumbnail: Switzerland/Oeschinen-thumbnail.jpg
+  title: Oeschinen
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Solothurn
+  original: Switzerland/Solothurn.jpg
+  sizes:
+  thumbnail: Switzerland/Solothurn-thumbnail.jpg
+  title: Solothurn
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Zermatt
+  original: Switzerland/Zermatt.jpg
+  sizes:
+  thumbnail: Switzerland/Zermatt-thumbnail.jpg
+  title: Zermatt
+  caption: Photo by Zhefei Gong
+  category: Switzerland
+- filename: Vatican
+  original: Vatican/Vatican.jpg
+  sizes:
+  thumbnail: Vatican/Vatican-thumbnail.jpg
+  title: Vatican
+  caption: Photo by Zhefei Gong
+  category: Vatican
