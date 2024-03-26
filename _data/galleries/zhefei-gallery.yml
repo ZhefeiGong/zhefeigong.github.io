@@ -7,8 +7,8 @@ preview:
   - ---.jpg
   - ---.jpg
   thumbnail: ---.jpg
-  title: preview
-  caption: preview
+  title: preview-title
+  caption: preview-citation
 pictures:
 - filename: Lichtfestival-0012
   original: Lichtfestival-0012-4000x6000.jpg
