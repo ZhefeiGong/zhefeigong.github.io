@@ -192,11 +192,11 @@ pictures:
   title: Madrid
   caption: Photo by Zhefei Gong
   category: Spain
-- filename: Heisingborg
-  original: Sweden/Heisingborg.jpg
+- filename: Helsingborg
+  original: Sweden/Helsingborg.jpg
   sizes:
-  thumbnail: Sweden/Heisingborg-thumbnail.jpg
-  title: Heisingborg
+  thumbnail: Sweden/Helsingborg-thumbnail.jpg
+  title: Helsingborg
   caption: Photo by Zhefei Gong
   category: Sweden
 - filename: Lund
