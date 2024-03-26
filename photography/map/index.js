@@ -8,7 +8,7 @@ function initMap() {
 
     const tourStops = [
       {
-        position: { lat: 48.804750, lng: 8.311450 },
+        position: { lat: 47.472397, lng: 8.308662 },
         title: "Baden",
         picurl: "/assets/markers/Baden.jpg",
       },
