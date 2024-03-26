@@ -17,3 +17,122 @@ pictures:
   title: Beijing
   caption: Photo by Zhefei Gong
   category: Beijing
+- filename: Changsha
+  original: China/Changsha/Changsha.jpg
+  sizes:
+  thumbnail: China//Changsha/Changsha-thumbnail.jpg
+  title: Changsha
+  caption: Photo by Zhefei Gong
+  category: Changsha
+- filename: Chengdu
+  original: China/Chengdu/Chengdu.jpg
+  sizes:
+  thumbnail: China/Chengdu/Chengdu-thumbnail.jpg
+  title: Chengdu
+  caption: Photo by Zhefei Gong
+  category: Chengdu
+- filename: Chongqing
+  original: China/Chongqing/Chongqing.jpg
+  sizes:
+  thumbnail: China/Chongqing/Chongqing-thumbnail.jpg
+  title: Chongqing
+  caption: Photo by Zhefei Gong
+  category: Chongqing
+- filename: Dalian
+  original: China/Dalian/Dalian.jpg
+  sizes:
+  thumbnail: China/Dalian/Dalian-thumbnail.jpg
+  title: Dalian
+  caption: Photo by Zhefei Gong
+  category: Dalian
+- filename: Dongjidao
+  original: China/Dongjidao/Dongjidao.jpg
+  sizes:
+  thumbnail: China/Dongjidao/Dongjidao-thumbnail.jpg
+  title: Dongjidao
+  caption: Photo by Zhefei Gong
+  category: Dongjidao
+- filename: Hangzhou
+  original: China/Hangzhou/Hangzhou.jpg
+  sizes:
+  thumbnail: China/Hangzhou/Hangzhou-thumbnail.jpg
+  title: Hangzhou
+  caption: Photo by Zhefei Gong
+  category: Hangzhou
+- filename: Leshan
+  original: China/Leshan/Leshan.jpg
+  sizes:
+  thumbnail: China/Leshan/Leshan-thumbnail.jpg
+  title: Leshan
+  caption: Photo by Zhefei Gong
+  category: Leshan
+- filename: Lizhuang
+  original: China/Lizhuang/Lizhuang.jpg
+  sizes:
+  thumbnail: China/Lizhuang/Lizhuang-thumbnail.jpg
+  title: Lizhuang
+  caption: Photo by Zhefei Gong
+  category: Lizhuang
+- filename: Longhui
+  original: China/Longhui/Longhui.jpg
+  sizes:
+  thumbnail: China/Longhui/Longhui-thumbnail.jpg
+  title: Longhui
+  caption: Photo by Zhefei Gong
+  category: Longhui
+- filename: Luzhou
+  original: China/Luzhou/Luzhou.jpg
+  sizes:
+  thumbnail: China/Luzhou/Luzhou-thumbnail.jpg
+  title: Luzhou
+  caption: Photo by Zhefei Gong
+  category: Luzhou
+- filename: Nanjing
+  original: China/Nanjing/Nanjing.jpg
+  sizes:
+  thumbnail: China/Nanjing/Nanjing-thumbnail.jpg
+  title: Nanjing
+  caption: Photo by Zhefei Gong
+  category: Nanjing
+- filename: Ningbo
+  original: China/Ningbo/Ningbo.jpg
+  sizes:
+  thumbnail: China/Ningbo/Ningbo-thumbnail.jpg
+  title: Ningbo
+  caption: Photo by Zhefei Gong
+  category: Ningbo
+- filename: Shanghai
+  original: China/Shanghai/Shanghai.jpg
+  sizes:
+  thumbnail: China/Shanghai/Shanghai-thumbnail.jpg
+  title: Shanghai
+  caption: Photo by Zhefei Gong
+  category: Shanghai
+- filename: Taishan
+  original: China/Taishan/Taishan.jpg
+  sizes:
+  thumbnail: China/Taishan/Taishan-thumbnail.jpg
+  title: Taishan
+  caption: Photo by Zhefei Gong
+  category: Taishan
+- filename: Tongji
+  original: China/Tongji/Tongji.jpg
+  sizes:
+  thumbnail: China/Tongji/Tongji-thumbnail.jpg
+  title: Tongji
+  caption: Photo by Zhefei Gong
+  category: Tongji
+- filename: Wugongshan
+  original: China/Wugongshan/Wugongshan.jpg
+  sizes:
+  thumbnail: China/Wugongshan/Wugongshan-thumbnail.jpg
+  title: Wugongshan
+  caption: Photo by Zhefei Gong
+  category: Wugongshan
+- filename: Yading
+  original: China/Yading/Yading.jpg
+  sizes:
+  thumbnail: China/Yading/Yading-thumbnail.jpg
+  title: Yading
+  caption: Photo by Zhefei Gong
+  category: Yading
