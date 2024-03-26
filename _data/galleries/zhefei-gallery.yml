@@ -196,14 +196,14 @@ pictures:
   original: Sweden/Heisingborg.jpg
   sizes:
   thumbnail: Sweden/Heisingborg-thumbnail.jpg
-  title: Sweden
+  title: Heisingborg
   caption: Photo by Zhefei Gong
   category: Sweden
 - filename: Lund
   original: Sweden/Lund.jpg
   sizes:
   thumbnail: Sweden/Lund-thumbnail.jpg
-  title: Sweden
+  title: Lund
   caption: Photo by Zhefei Gong
   category: Sweden
 - filename: Malmo
