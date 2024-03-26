@@ -10,7 +10,7 @@ function initMap() {
       {
         position: { lat: 39.930840, lng: 116.386337 },
         title: "Beijing",
-        picurl: "/photography/zhefei-gallery/China/beijing-thumbnail.jpg",
+        picurl: "/photography/zhefei-gallery/China/Beijing-thumbnail.jpg",
       },
       {
         position: { lat: 34.8559195, lng: -111.7988186 },
