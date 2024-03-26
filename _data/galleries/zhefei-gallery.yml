@@ -11,128 +11,205 @@ preview:
   caption: preview-citation
 pictures:
 - filename: Beijing
-  original: China/Beijing/Beijing.jpg
+  original: China/Beijing.jpg
   sizes:
-  thumbnail: China//Beijing/Beijing-thumbnail.jpg
+  thumbnail: China/Beijing-thumbnail.jpg
   title: Beijing
   caption: Photo by Zhefei Gong
-  category: Beijing
+  category: China
 - filename: Changsha
-  original: China/Changsha/Changsha.jpg
+  original: China/Changsha.jpg
   sizes:
-  thumbnail: China//Changsha/Changsha-thumbnail.jpg
+  thumbnail: China/Changsha-thumbnail.jpg
   title: Changsha
   caption: Photo by Zhefei Gong
-  category: Changsha
+  category: China
 - filename: Chengdu
-  original: China/Chengdu/Chengdu.jpg
+  original: China/Chengdu.jpg
   sizes:
-  thumbnail: China/Chengdu/Chengdu-thumbnail.jpg
+  thumbnail: China/Chengdu-thumbnail.jpg
   title: Chengdu
   caption: Photo by Zhefei Gong
-  category: Chengdu
+  category: China
 - filename: Chongqing
-  original: China/Chongqing/Chongqing.jpg
+  original: China/Chongqing.jpg
   sizes:
-  thumbnail: China/Chongqing/Chongqing-thumbnail.jpg
+  thumbnail: China/Chongqing-thumbnail.jpg
   title: Chongqing
   caption: Photo by Zhefei Gong
-  category: Chongqing
+  category: China
 - filename: Dalian
-  original: China/Dalian/Dalian.jpg
+  original: China/Dalian.jpg
   sizes:
-  thumbnail: China/Dalian/Dalian-thumbnail.jpg
+  thumbnail: China/Dalian-thumbnail.jpg
   title: Dalian
   caption: Photo by Zhefei Gong
-  category: Dalian
+  category: China
 - filename: Dongjidao
-  original: China/Dongjidao/Dongjidao.jpg
+  original: China/Dongjidao.jpg
   sizes:
-  thumbnail: China/Dongjidao/Dongjidao-thumbnail.jpg
+  thumbnail: China/Dongjidao-thumbnail.jpg
   title: Dongjidao
   caption: Photo by Zhefei Gong
-  category: Dongjidao
+  category: China
 - filename: Hangzhou
-  original: China/Hangzhou/Hangzhou.jpg
+  original: China/Hangzhou.jpg
   sizes:
-  thumbnail: China/Hangzhou/Hangzhou-thumbnail.jpg
+  thumbnail: China/Hangzhou-thumbnail.jpg
   title: Hangzhou
   caption: Photo by Zhefei Gong
-  category: Hangzhou
+  category: China
 - filename: Leshan
-  original: China/Leshan/Leshan.jpg
+  original: China/Leshan.jpg
   sizes:
-  thumbnail: China/Leshan/Leshan-thumbnail.jpg
+  thumbnail: China/Leshan-thumbnail.jpg
   title: Leshan
   caption: Photo by Zhefei Gong
-  category: Leshan
+  category: China
 - filename: Lizhuang
-  original: China/Lizhuang/Lizhuang.jpg
+  original: China/Lizhuang.jpg
   sizes:
-  thumbnail: China/Lizhuang/Lizhuang-thumbnail.jpg
+  thumbnail: China/Lizhuang-thumbnail.jpg
   title: Lizhuang
   caption: Photo by Zhefei Gong
-  category: Lizhuang
+  category: China
 - filename: Longhui
-  original: China/Longhui/Longhui.jpg
+  original: China/Longhui.jpg
   sizes:
-  thumbnail: China/Longhui/Longhui-thumbnail.jpg
+  thumbnail: China/Longhui-thumbnail.jpg
   title: Longhui
   caption: Photo by Zhefei Gong
-  category: Longhui
+  category: China
 - filename: Luzhou
-  original: China/Luzhou/Luzhou.jpg
+  original: China/Luzhou.jpg
   sizes:
-  thumbnail: China/Luzhou/Luzhou-thumbnail.jpg
+  thumbnail: China/Luzhou-thumbnail.jpg
   title: Luzhou
   caption: Photo by Zhefei Gong
-  category: Luzhou
+  category: China
 - filename: Nanjing
-  original: China/Nanjing/Nanjing.jpg
+  original: China/Nanjing.jpg
   sizes:
-  thumbnail: China/Nanjing/Nanjing-thumbnail.jpg
+  thumbnail: China/Nanjing-thumbnail.jpg
   title: Nanjing
   caption: Photo by Zhefei Gong
-  category: Nanjing
+  category: China
 - filename: Ningbo
-  original: China/Ningbo/Ningbo.jpg
+  original: China/Ningbo.jpg
   sizes:
-  thumbnail: China/Ningbo/Ningbo-thumbnail.jpg
+  thumbnail: China/Ningbo-thumbnail.jpg
   title: Ningbo
   caption: Photo by Zhefei Gong
-  category: Ningbo
+  category: China
 - filename: Shanghai
-  original: China/Shanghai/Shanghai.jpg
+  original: China/Shanghai.jpg
   sizes:
-  thumbnail: China/Shanghai/Shanghai-thumbnail.jpg
+  thumbnail: China/Shanghai-thumbnail.jpg
   title: Shanghai
   caption: Photo by Zhefei Gong
-  category: Shanghai
+  category: China
 - filename: Taishan
-  original: China/Taishan/Taishan.jpg
+  original: China/Taishan.jpg
   sizes:
-  thumbnail: China/Taishan/Taishan-thumbnail.jpg
+  thumbnail: China/Taishan-thumbnail.jpg
   title: Taishan
   caption: Photo by Zhefei Gong
-  category: Taishan
+  category: China
 - filename: Tongji
-  original: China/Tongji/Tongji.jpg
+  original: China/Tongji.jpg
   sizes:
-  thumbnail: China/Tongji/Tongji-thumbnail.jpg
+  thumbnail: China/Tongji-thumbnail.jpg
   title: Tongji
   caption: Photo by Zhefei Gong
-  category: Tongji
+  category: China
 - filename: Wugongshan
-  original: China/Wugongshan/Wugongshan.jpg
+  original: China/Wugongshan.jpg
   sizes:
-  thumbnail: China/Wugongshan/Wugongshan-thumbnail.jpg
+  thumbnail: China/Wugongshan-thumbnail.jpg
   title: Wugongshan
   caption: Photo by Zhefei Gong
-  category: Wugongshan
+  category: China
 - filename: Yading
-  original: China/Yading/Yading.jpg
+  original: China/Yading.jpg
   sizes:
-  thumbnail: China/Yading/Yading-thumbnail.jpg
+  thumbnail: China/Yading-thumbnail.jpg
   title: Yading
   caption: Photo by Zhefei Gong
-  category: Yading
+  category: China
+- filename: Prague
+  original: Czech/Prague.jpg
+  sizes:
+  thumbnail: Czech/Prague-thumbnail.jpg
+  title: Prague
+  caption: Photo by Zhefei Gong
+  category: Czech
+- filename: Copenhagen
+  original: Denmark/Copenhagen.jpg
+  sizes:
+  thumbnail: Denmark/Copenhagen-thumbnail.jpg
+  title: Copenhagen
+  caption: Photo by Zhefei Gong
+  category: Denmark
+- filename: Heisingor
+  original: Denmark/Heisingor.jpg
+  sizes:
+  thumbnail: Denmark/Heisingor-thumbnail.jpg
+  title: Heisingor
+  caption: Photo by Zhefei Gong
+  category: Denmark
+- filename: Lyon
+  original: France/Lyon.jpg
+  sizes:
+  thumbnail: France/Lyon-thumbnail.jpg
+  title: Lyon
+  caption: Photo by Zhefei Gong
+  category: France
+- filename: Budapest
+  original: Hungary/Budapest.jpg
+  sizes:
+  thumbnail: Hungary/Budapest-thumbnail.jpg
+  title: Budapest
+  caption: Photo by Zhefei Gong
+  category: Hungary
+- filename: Rome
+  original: Italy/Rome.jpg
+  sizes:
+  thumbnail: Italy/Rome-thumbnail.jpg
+  title: Rome
+  caption: Photo by Zhefei Gong
+  category: Italy
+- filename: Barcelona
+  original: Spain/Barcelona.jpg
+  sizes:
+  thumbnail: Spain/Barcelona-thumbnail.jpg
+  title: Barcelona
+  caption: Photo by Zhefei Gong
+  category: Spain
+- filename: Mardrid
+  original: Spain/Mardrid.jpg
+  sizes:
+  thumbnail: Spain/Mardrid-thumbnail.jpg
+  title: Mardrid
+  caption: Photo by Zhefei Gong
+  category: Spain
+- filename: Heisingborg
+  original: Sweden/Heisingborg.jpg
+  sizes:
+  thumbnail: Sweden/Heisingborg-thumbnail.jpg
+  title: Sweden
+  caption: Photo by Zhefei Gong
+  category: Sweden
+- filename: Lund
+  original: Sweden/Lund.jpg
+  sizes:
+  thumbnail: Sweden/Lund-thumbnail.jpg
+  title: Sweden
+  caption: Photo by Zhefei Gong
+  category: Sweden
+- filename: Malmo
+  original: Sweden/Malmo.jpg
+  sizes:
+  thumbnail: Sweden/Malmo-thumbnail.jpg
+  title: Malmo
+  caption: Photo by Zhefei Gong
+  category: Sweden
