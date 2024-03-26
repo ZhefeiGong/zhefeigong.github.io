@@ -11,9 +11,9 @@ preview:
   caption: preview-citation
 pictures:
 - filename: Beijing
-  original: China/Beijing.jpg
+  original: China/Beijing/Beijing.jpg
   sizes:
-  thumbnail: China/Beijing-thumbnail.jpg
+  thumbnail: China//Beijing/Beijing-thumbnail.jpg
   title: Beijing
   caption: Photo by Zhefei Gong
   category: Beijing
