@@ -1,8 +1,8 @@
 
 function initMap() {
     const map = new google.maps.Map(document.getElementById("map"), {
-      zoom: 1,
-      center: { lat: 37.5519, lng: 126.9918 },
+      zoom: 3,
+      center: { lat: 37.5519, lng: 126.9918 }, // Korea Right Now
       mapId: "4504f8b37365c3d0",
     });
     const tourStops = [
