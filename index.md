@@ -73,6 +73,6 @@ Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.
 <!--************************************************************************************************-->
 <!-- <div style="display:none"> -->
 
-<div>
+<div style="display:none">
 <a href="https://clustrmaps.com/site/1bz34" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" /></a>
 </div>
