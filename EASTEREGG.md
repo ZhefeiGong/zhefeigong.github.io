@@ -9,7 +9,7 @@ description: >
 
 <!-- 2D Map -->
 <div class="visitor-map" id="visitor-map">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script>
+<a href="https://clustrmaps.com/site/1bz34" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=2d78ad&ct=ffffff" /></a>
 </div>
 
 <!-- 3D Map -->
