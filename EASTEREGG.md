@@ -10,8 +10,12 @@ description: >
 
 <!-- 2D Map -->
 <div class="visitor-map" id="visitor-map">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=efefef&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&cmo=fe7777&cmn=6ed16e&co=5991ba"></script>
+<a href="https://clustrmaps.com/site/1bz34" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" /></a>
 </div>
+
+<!-- <div>
+<a href="https://clustrmaps.com/site/1bz34" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" /></a>
+</div> -->
 
 <!-- 3D Map -->
 <!-- <div class="visitor-map" id="visitor-map">
