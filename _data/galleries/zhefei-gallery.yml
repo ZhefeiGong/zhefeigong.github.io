@@ -303,3 +303,39 @@ pictures:
   title: Yading
   caption: Photo by Zhefei Gong
   category: China
+  #---------------------------------------- Korea ----------------------------------------
+- filename: Seoul
+  original: Korea/Seoul.jpg
+  sizes:
+  thumbnail: Korea/Seoul-thumbnail.jpg
+  title: Seoul
+  caption: Photo by Zhefei Gong
+  category: Korea
+- filename: Busan
+  original: Korea/Busan.jpg
+  sizes:
+  thumbnail: Korea/Busan-thumbnail.jpg
+  title: Busan
+  caption: Photo by Zhefei Gong
+  category: Korea
+- filename: Seoul
+  original: Korea/Busan2.jpg
+  sizes:
+  thumbnail: Korea/Busan2-thumbnail.jpg
+  title: Busan2
+  caption: Photo by Zhefei Gong
+  category: Korea
+- filename: Seoul
+  original: Korea/Busan3.jpg
+  sizes:
+  thumbnail: Korea/Busan3-thumbnail.jpg
+  title: Busan3
+  caption: Photo by Zhefei Gong
+  category: Korea
+- filename: Seoul
+  original: Korea/Busan4.jpg
+  sizes:
+  thumbnail: Korea/Busan4-thumbnail.jpg
+  title: Busan4
+  caption: Photo by Zhefei Gong
+  category: Korea

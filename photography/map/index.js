@@ -201,6 +201,16 @@ function initMap() {
         title: "Zermatt",
         picurl: "/assets/markers/Zermatt.jpg",
       },
+      {
+        position: { lat: 37.5519, lng: 126.9918 },
+        title: "Seoul",
+        picurl: "/assets/markers/Seoul.jpg",
+      },
+      {
+        position: { lat: 35.2100, lng: 129.0689 },
+        title: "Busan",
+        picurl: "/assets/markers/Busan.jpg",
+      },
     ];
     // Create an info window to share between markers.
     const infoWindow = new google.maps.InfoWindow();
