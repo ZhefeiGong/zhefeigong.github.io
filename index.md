@@ -24,7 +24,7 @@ cover: true
 
   <div class="news-item">
     <span class="news-date">[Jul.1st, 2024]</span>
-    <span class="news-content">Graduated from Tongji University with four years of wonderful memories, and here's my undergrad
+    <span class="news-content"> Graduated from Tongji University with four years of wonderful memories, and here's my undergrad
     <a href='https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link'>thesis</a>. 
     <span>
   </div>
