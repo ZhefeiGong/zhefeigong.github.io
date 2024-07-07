@@ -23,7 +23,7 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/SlotMaCo_frame.png" alt="Manipulation-Consistency">
+    <img src="/assets/publications/black.png" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -47,11 +47,12 @@ cover: true
   </div>
 </div>
 
+
 <!-- Manipulation Consistency -->
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/SlotMaCo_frame2.png" alt="Manipulation-Consistency">
+    <img src="/assets/publications/black.png" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -71,11 +72,12 @@ cover: true
       </a> | 
       <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
         <span class="bold-light">Thesis(zh)</span>
-      </a> 
+      </a>
   </div>
 </div>
 
-<!-- Vehicle re‑identification -->
+
+<!-- Next Research Project -->
 
 
 
