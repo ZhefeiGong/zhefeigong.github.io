@@ -23,7 +23,7 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/manip_consis_600.gif" alt="Manipulation-Consistency">
+    <img src="/assets/publications/black.png" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -39,11 +39,11 @@ cover: true
     <!-- Link -->
     <br>Links: 
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
-        <span class="bold-light">Repor</span>
+        <span class="bold-light">Report</span>
       </a> | 
       <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
         <span class="bold-light">Thesis(zh)</span>
-      </a> | 
+      </a>
   </div>
 </div>
 
@@ -67,11 +67,11 @@ cover: true
     <!-- Link -->
     <br>Links: 
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
-        <span class="bold-light">Repor</span>
+        <span class="bold-light">Report</span>
       </a> | 
       <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
         <span class="bold-light">Thesis(zh)</span>
-      </a> | 
+      </a> 
   </div>
 </div>
 
