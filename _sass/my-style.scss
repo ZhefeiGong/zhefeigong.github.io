@@ -198,3 +198,27 @@
   justify-content: center;
   align-items: center;
 }
+
+
+/* ============ News Part Style ============ */
+.news-container {
+  width: 60%;
+  max-height: 80vh;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow-y: scroll;
+}
+.news-year {
+  font-weight: bold;
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+.news-item {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+.news-item .news-date {
+  color: #888;
+  margin-right: 5px;
+}
