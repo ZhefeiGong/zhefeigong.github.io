@@ -20,13 +20,13 @@ cover: true
 ## News
 <div class="news-container">
   
-  <div class="news-year">2024</div>
+  <!-- <div class="news-year">2024</div> -->
   
   <div class="news-item">
-    <span class="news-date">[2024-06]</span>
-    <a href="#">Huang et al. Pathologist-AI collaboration study is published in Nature Biomedical Engineering.</a>
+    <span class="news-date">[Jul.1st, 2024]</span>
+    Graduated from Tongji University with a wonderful 4-year memory, and here's my undergrad [thesis](https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link). 
   </div>
-
+  
   <div class="news-item">
     <span class="news-date">[2024-06]</span>
     <a href="#">We introduce TextGrad: Automatic "Differentiation" via Text! Start optimizing prompts in your LLM system.</a>
