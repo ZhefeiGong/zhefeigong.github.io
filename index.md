@@ -23,7 +23,7 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/black.png" alt="Manipulation-Consistency">
+    <img src="/assets/publications/SlotMaCo_frame.png" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -47,11 +47,11 @@ cover: true
   </div>
 </div>
 
-<!-- Vehicle re‑identification -->
+<!-- Manipulation Consistency -->
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/SlotMaCo_frame.png" alt="Manipulation-Consistency">
+    <img src="/assets/publications/SlotMaCo_frame2.png" alt="Manipulation-Consistency">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -74,6 +74,9 @@ cover: true
       </a> 
   </div>
 </div>
+
+<!-- Vehicle re‑identification -->
+
 
 
 <!--************************************************************************************************-->
