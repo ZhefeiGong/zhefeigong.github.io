@@ -20,71 +20,60 @@ cover: true
 ## News
 <div class="news-container">
   
-  <div class="news-year">2024</div>
+  <!-- <div class="news-year">2024</div> -->
 
   <div class="news-item">
     <span class="news-date">[Jul.1st, 2024]</span>
-    Graduated from Tongji University with four years of wonderful memories, and here's my undergrad 
+    <span class="news-content">Graduated from Tongji University with four years of wonderful memories, and here's my undergrad
     <a href='https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link'>thesis</a>. 
+    <span>
   </div>
 
   <!-- <div class="news-item">
     <span class="news-date">[2024-06]</span>
     <a href="#">We introduce TextGrad: Automatic "Differentiation" via Text! Start optimizing prompts in your LLM system.</a>
   </div>
-
   <div class="news-item">
     <span class="news-date">[2024-05]</span>
     <a href="#">Impact of ChatGPT in AI review (co-authored paper) is accepted at ICML 2024 (oral).</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2024-03]</span>
     <a href="#">New York Times opinion on AI-generated articles (co-authored manuscript).</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2024-01]</span>
     <a href="#">New study on off-label and off-guideline cancer therapy usage is accepted in Cell Reports Medicine.</a>
   </div>
-  
   <div class="news-year">2023</div>
-  
   <div class="news-item">
     <span class="news-date">[2023-12]</span>
     <a href="#">New study on resilience to Alzheimer's disease is published in Frontiers in Neuroscience.</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-11]</span>
     <a href="#">Flash talk at Stanford Pathology (Video).</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-10]</span>
     <a href="#">Huang et al. invited commentary on resilience to AD is published in Neuroscience Insights.</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-09]</span>
     <a href="#">Visual-language AI for pathology is featured on Nature Medicine September 2023 cover story.</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-08]</span>
     <a href="#">Huang, Bianchi et al. Visual-language AI for pathology is published in Nature Medicine.</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-05]</span>
     <a href="#">Huang et al. Brain proteomic analysis is published in Nature Communications.</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-03]</span>
     <a href="#">nuclei.io is spotlighted in the Stanford Catalyst 2023 cohort (News).</a>
   </div>
-  
   <div class="news-item">
     <span class="news-date">[2023-01]</span>
     <a href="#">Huang et al. Multi-modal pathology imaging analysis is published in NPJ (Nature Partner Journals) Precision Oncology.</a>
@@ -139,7 +128,7 @@ cover: true
 <!--************************************************************************************************-->
 ## Experiences
 
-Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link)(last updated in Jul. 2024) for a full list of experiences.
+Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a full list of experiences.
 
 <!-- Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences. -->
 <!-- <p>
