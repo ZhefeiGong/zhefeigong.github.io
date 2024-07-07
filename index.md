@@ -16,7 +16,6 @@ cover: true
 
 <!--author-->
 
-
 <!--************************************************************************************************-->
 ## Projects
 
@@ -63,14 +62,16 @@ cover: true
 
 Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences.
 
-<p>
+<!-- show the cv window-->
+<!-- <p>
 <iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/assets//zhefei/cv.pdf">Download PDF</a>.
 </iframe>
-</p>
-
+</p> -->
 
 <!--************************************************************************************************-->
 <div style="display:none">
-<a href="https://clustrmaps.com/site/1bz34" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" /></a>
+<a href="https://clustrmaps.com/site/1bz34" title="Visit tracker">
+<img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" />
+</a>
 </div>
