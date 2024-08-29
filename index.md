@@ -23,16 +23,16 @@ cover: true
   <!-- <div class="news-year">2024</div> -->
 
   <div class="news-item">
+    <span class="news-date">[Jul.9th, 2024]</span>
+    <span class="news-content"> Joined <a href='https://milab.westlake.edu.cn/'>MiLab</a> as a research assistant working on Robot Learning. 
+    Wish me luck!
+    </span>
+  </div>
+  
+  <div class="news-item">
     <span class="news-date">[Jul.1st, 2024]</span>
     <span class="news-content"> Graduated from Tongji University with four years of wonderful memories, and 
     <a href='https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link'>here</a>'s my undergrad thesis.
-    </span>
-  </div>
-
-  <div class="news-item">
-    <span class="news-date">[Jul.9th, 2024]</span>
-    <span class="news-content"> Joined [MiLab](https://milab.westlake.edu.cn/) as a research assistant working on Robot Learning. 
-    Wish me luck!
     </span>
   </div>
 

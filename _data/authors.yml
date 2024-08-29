@@ -10,7 +10,7 @@ Zhefei: # author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Zhefei Gong, currently a research assistant at [MiLab](https://milab.westlake.edu.cn/), advised by Donglin Wang.
+    Hi! At present, I am a research assistant at [MiLab](https://milab.westlake.edu.cn/), advised by Donglin Wang.
     Previously, I earned my BEng in Computer Science from [Tongji University](https://en.tongji.edu.cn/p/#/), 
     and I also spent a wonderful semester as an exchange student at [EPFL](https://www.epfl.ch/en/), 
     under the guidance of [Alexandre Alahi](https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en). 
