@@ -10,11 +10,12 @@ Zhefei: # author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm a senior undergraduate from [Tongji University](https://en.tongji.edu.cn/p/#/). 
-    Previously, I spent a wonderful semester as an exchange student at [EPFL](https://www.epfl.ch/en/), 
+    Hi, I'm Zhefei Gong, currently a research assistant at [MiLab](https://milab.westlake.edu.cn/), advised by Donglin Wang.
+    Previously, I earned my BEng in Computer Science from [Tongji University](https://en.tongji.edu.cn/p/#/), 
+    and I also spent a wonderful semester as an exchange student at [EPFL](https://www.epfl.ch/en/), 
     under the guidance of [Alexandre Alahi](https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en). 
-    I've also had the privilege of working as a research intern at [IRCP Lab](https://robot.tongji.edu.cn/) during my time at Tongji.
-
+    Additionally, I was privileged to work as a research intern at [IRCP Lab](https://robot.tongji.edu.cn/) during my time at Tongji.
+    
     After an extensive period of exploration, 
     my interest has gravitated towards solving real-world tasks.
     Currently, I am broadly interested in **robot learning**, especially in **manipulation** tasks.

@@ -29,11 +29,14 @@ cover: true
     </span>
   </div>
 
-  <!-- <div class="news-item">
-    <span class="news-date">[2024-06]</span>
-    <a href="#">We introduce TextGrad: Automatic "Differentiation" via Text! Start optimizing prompts in your LLM system.</a>
-  </div>
   <div class="news-item">
+    <span class="news-date">[Jul.9th, 2024]</span>
+    <span class="news-content"> Joined [MiLab](https://milab.westlake.edu.cn/) as a research assistant working on Robot Learning. 
+    Wish me luck!
+    </span>
+  </div>
+
+  <!-- <div class="news-item">
     <span class="news-date">[2024-05]</span>
     <a href="#">Impact of ChatGPT in AI review (co-authored paper) is accepted at ICML 2024 (oral).</a>
   </div>
@@ -97,7 +100,7 @@ cover: true
     <!-- Authors -->
     <br>
       <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-      <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>, 
+      <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>
     <!-- Info -->
     <br>
       <span class="bold-italic">Semester Project at EPFL</span>
@@ -112,8 +115,31 @@ cover: true
   </div>
 </div>
 
-<!-- Next Research Project -->
+<!-- Ve-Re-Id Patent -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/ve-reid.png" alt="Vehicle-ReIdentification">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">An Autonomous Parking Method for Smart Campuses Based on Spatio-Temporal Vehicle Re-Identification</span>
+    <!-- Authors -->
+    <br>
+      Worked with professors and graduate students
+    <!-- Info -->
+    <br>
+      <span class="bold-italic">Completed during internship at IRCP Lab</span>
+    <!-- Link -->
+    <br>Links: 
+      <a href="https://drive.google.com/file/d/1eofhNzxGqa-PXgc0ou0QMJjxILFHGYiK/view?usp=drive_link">
+        <span class="bold-light">Patent(zh)</span>
+      </a> 
+  </div>
+</div>
 
+<!-- Next Research Project -->
 
 
 <!--************************************************************************************************-->
