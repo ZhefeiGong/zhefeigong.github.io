@@ -26,7 +26,7 @@ description: >
   <button class="search-btn" id="search-choose">Gallery</button>
   <button class="search-btn" id="search-world" onclick='location.href="/photography/map/";'>Journey</button>
   </div>
-
+  
   <div id ="filter-button-group" class="filter-button-group">
     <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="*">All</button>

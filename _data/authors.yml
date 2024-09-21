@@ -5,8 +5,8 @@
 # # ====================== Main author ======================
 Zhefei: # author1:
   name:                Zhefei Gong # <firstname> <lastname>
-  email:               ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
-
+  email:               zhefeigong@gmail.com # <mail@domain.tld>
+  
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
@@ -29,15 +29,15 @@ Zhefei: # author1:
     srcset:
       1x:            /assets/zhefei/zhefei_icon1_256x256.png # https://via.placeholder.com/128x128
       2x:            /assets/zhefei/zhefei_icon1_512x512.png # https://via.placeholder.com/256x256
-
+  
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     email:             ggozhenfeig@tongji.edu.cn # <mail@domain.tld>
     github:            ZhefeiGong # <username>
-    linkedin:          zhefeigong # <firstname-lastname-string>
     twitter:           zhefeigong # <username>
+    linkedin:          zhefeigong # <firstname-lastname-string>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
