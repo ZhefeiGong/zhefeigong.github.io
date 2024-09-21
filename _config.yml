@@ -250,7 +250,7 @@ hydejack:
 
   # Disable the breadcrumbs above the title
   no_breadcrumbs:      false
-
+  
   # Set to `true` when building with the `--lsi` option
   use_lsi:             true
 
