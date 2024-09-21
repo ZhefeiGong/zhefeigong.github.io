@@ -59,8 +59,8 @@ menu:
     url:               /experience/
   - title:             Photography
     url:               /photography/
-  - title:             Blog
-    url:               /blog/
+  # - title:             Blog
+  #   url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -115,35 +115,32 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
-  # You can use this to provide a default accent color and background for
-  # all pages under a given path:
-  - scope:
-      path:            hyde/
-    values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(32,32,32)
-      accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+  # # You can use this to provide a default accent color and background for
+  # # all pages under a given path:
+  # - scope:
+  #     path:            /
+  #   values:
+  #     accent_color:    rgb(38,139,210)
+  #     theme_color:     rgb(32,32,32)
+  #     accent_image:
+  #       background:    rgb(32,32,32)
+  #       overlay:       false
 
   # Don't include documents in assets in the sitemap
   - scope:
       path:            assets/
     values:
       sitemap:         false
-
   - scope:
-      path:            utils/licenses/
+      path:            utils/
     values:
       layout:          plain
       sitemap:         false
-  
   # Photography Gallery
   - scope:
       path:             photography/
     values:
       permalink:        /:path/:basename
-
 
   # # You can use the following to enable comments on all posts.
   # - scope:
@@ -279,7 +276,7 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
@@ -298,14 +295,13 @@ hydejack:
 # Collections
 # @notice : permalink is important for path navigation
 # ----------------------------------------------------------------------------------------
-
 collections:
   featured_categories:
     permalink:         /blog/:name/
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /blog/tag-:name/
     output:            true
 
   projects:

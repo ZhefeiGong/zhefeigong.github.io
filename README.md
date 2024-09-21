@@ -2,6 +2,7 @@
 
 ## 💻 Build Locally
 ```
+ruby -v
 rbenv gloabla 3.2.2
 ```
 
@@ -11,4 +12,6 @@ bundle exec jekyll serve
 ```
 
 ## 🌇 Pages
+
+build through github `Actions`
 
