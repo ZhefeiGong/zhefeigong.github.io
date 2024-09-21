@@ -1,6 +1,8 @@
 ---
 layout: plain
 sitemap: false
+description: >
+  This fantastic template is powered by [Hydejack](https://hydejack.com/) v9.2.1
 ---
 
 # LICENSE

@@ -10,8 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
 
-# gem "jekyll-theme-hydejack", "~> 9.1"
-gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack-v9.1.6" # local
+# gem "jekyll-theme-hydejack", "~> 9.1" # official
+# gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack-v9.1.6" # local
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack-v9.2.1" # local
 
 # IMPORTANT: The followig gem is used to compile math formulas to 
 # KaTeX during site building.
@@ -50,7 +51,7 @@ group :jekyll_plugins do
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
-
+  
   # # Github Pages Locally
   # gem "github-pages", group: :jekyll_plugins
   # gem "jekyll-include-cache", group: :jekyll_plugins
@@ -59,4 +60,3 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
-

@@ -39,25 +39,32 @@
 }
 
 .bold-title {
-  color: #0e1923;
-  font-weight: 650;
-  // font-size: large;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 .bold-light {
- font-weight: 675;
+ font-weight: 600;
+}
+
+.bold-italic {
+  font-weight: 600;
+  font-style: italic; 
+  font-size: 14px;
+}
+
+.pub-authors {
+  font-size: 14px;
+}
+
+.pub-links {
+  font-size: 13px;
 }
 
 .spot-light {
   color: orange; 
-  font-weight: 700;
+  font-weight: 600;
 }
-
-.bold-italic {
-  font-weight: 700;
-  font-style: italic; 
-}
-
 
 /* ============ Gallery Styles ============ */
 * {
@@ -200,11 +207,11 @@
 }
 
 
-/* ============ News Part Style ============ */
+/* ============ News ============ */
 .news-container {
   width: 100%;
   max-height: 40vh;
-  background-color: #ffffff;
+  background-color: transparent;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   overflow-y: scroll;

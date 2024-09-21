@@ -43,7 +43,7 @@ author:
   # Used by `jekyll-feed`:
   name:                Zhefei Gong # <firstname> <lastname>
   email:               zhefeigong@gmail.com
-
+  
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -55,12 +55,12 @@ menu:
     url:               /#projects
   - title:             Awards
     url:               /#awards
-  - title:             Experiences
-    url:               /#experiences
+  - title:             Experience
+    url:               /experience/
   - title:             Photography
     url:               /photography/
-  # - title:             Blog
-  #   url:               /blog/
+  - title:             Blog
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -71,7 +71,7 @@ legal:
     url:               /EASTEREGG
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024 Zhefei Gong & All rights reserved.
+copyright:             © 2024 Zhefei Gong.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -84,8 +84,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack # 
+# remote_theme: hydecorp/hydejack@v9 # for github pages
 
 # Customizaton
 # ----------------------------------------------------------------------------------------

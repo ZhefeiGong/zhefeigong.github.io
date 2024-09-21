@@ -5,16 +5,16 @@ description: >
   Hi, here's Zhefei's homepage ^_^
 hide_description: true
 cover: true
-# redirect_from:
-#   - /download/
-# no_link_title: true 
-# no_excerpt: true
-# hide_image: true
 ---
 
 <!--************************************************************************************************-->
 
 <!--author-->
+
+<!--************************************************************************************************-->
+
+- Table of Contents
+{:toc .large-only}
 
 <!--************************************************************************************************-->
 ## News
@@ -35,7 +35,7 @@ cover: true
     <a href='https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link'>here</a>'s my undergrad thesis.
     </span>
   </div>
-
+  
   <!-- <div class="news-item">
     <span class="news-date">[2024-05]</span>
     <a href="#">Impact of ChatGPT in AI review (co-authored paper) is accepted at ICML 2024 (oral).</a>
@@ -99,19 +99,23 @@ cover: true
     <span class="bold-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
     <!-- Authors -->
     <br>
+      <span class="pub-authors">
       <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
       <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>
+      </span>
     <!-- Info -->
     <br>
       <span class="bold-italic">Semester Project at EPFL</span>
     <!-- Link -->
-    <br>Links: 
+    <br> 
+      <span class="pub-links">Links:
       <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
         <span class="bold-light">Report</span>
       </a> | 
       <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
         <span class="bold-light">Thesis(zh)</span>
       </a>
+      </span>
   </div>
 </div>
 
@@ -127,15 +131,17 @@ cover: true
     <span class="bold-title">An Autonomous Parking Method for Smart Campuses Based on Spatio-Temporal Vehicle Re-Identification</span>
     <!-- Authors -->
     <br>
-      Worked with professors and graduate students
+      <span class="pub-authors">Worked with professors and graduate students</span>
     <!-- Info -->
     <br>
       <span class="bold-italic">Completed during internship at IRCP Lab</span>
     <!-- Link -->
-    <br>Links: 
+    <br>
+      <span class="pub-links">Links: 
       <a href="https://drive.google.com/file/d/1eofhNzxGqa-PXgc0ou0QMJjxILFHGYiK/view?usp=drive_link">
         <span class="bold-light">Patent(zh)</span>
       </a> 
+      </span>
   </div>
 </div>
 
@@ -150,18 +156,6 @@ cover: true
 * **LuHao Scholarship (1/119)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
 * **Merit Scholarship (10%, twice)**, Honor, [Tongji University](https://en.tongji.edu.cn/p/#/)
 
-
-<!--************************************************************************************************-->
-## Experiences
-
-Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a full list of experiences.
-
-<!-- Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences. -->
-<!-- <p>
-<iframe src="/assets//zhefei/cv.pdf" width="100%" height="500px">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="/assets//zhefei/cv.pdf">Download PDF</a>.
-</iframe>
-</p> -->
 
 <!--************************************************************************************************-->
 <div style="display:none">
