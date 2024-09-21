@@ -13,5 +13,6 @@ bundle exec jekyll serve
 
 ## 🌇 Pages
 
-build through github `Actions`
-
+```
+build through Github Actions
+```
