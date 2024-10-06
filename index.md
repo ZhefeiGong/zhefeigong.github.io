@@ -85,13 +85,53 @@ cover: true
 </div>
 
 <!--************************************************************************************************-->
+## Research
+
+<!-- VLAS -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/vlas_frame.png" alt="VLAS">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</span>
+    <!-- Authors -->
+    <br>
+      <span class="pub-authors">
+      Wei Zhao, 
+      Pengxiang Ding, 
+      Zhang Min, 
+      <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+      Shuanghao Bai, 
+      Han Zhao, 
+      Donglin Wang
+      </span>
+    <!-- Info -->
+    <br>
+      <span class="bold-italic">Submitted to ICLR2025</span>
+    <!-- Link -->
+    <br> 
+      <span class="pub-links">Links:
+      <a href="/">
+        <span class="bold-light">TBD</span>
+      </a>
+      </span>
+  </div>
+</div>
+
+<!-- Next Research Publication -->
+
+
+<!--************************************************************************************************-->
 ## Projects
 
 <!-- Manipulation Consistency -->
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/SlotMaCo_frame.png" alt="Manipulation-Consistency">
+    <img src="/assets/publications/SlotMaCo_frame.png" alt="Manipulation-Consistency"> 
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
@@ -123,12 +163,12 @@ cover: true
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/ve-reid.png" alt="Vehicle-ReIdentification">
+    <img src="/assets/publications/ve_reid.png" alt="Vehicle-ReIdentification">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
     <!-- Title -->
-    <span class="bold-title">An Autonomous Parking Method for Smart Campuses Based on Spatio-Temporal Vehicle Re-Identification</span>
+    <span class="bold-title">Intelligent park unmanned parking method based on space-time vehicle re-identification</span>
     <!-- Authors -->
     <br>
       <span class="pub-authors">Worked with professors and graduate students</span>
@@ -138,6 +178,9 @@ cover: true
     <!-- Link -->
     <br>
       <span class="pub-links">Links: 
+      <a href="https://patents.google.com/patent/CN116343522B/en?oq=CN+116343522+B">
+        <span class="bold-light">Patent</span>
+      </a> | 
       <a href="https://drive.google.com/file/d/1eofhNzxGqa-PXgc0ou0QMJjxILFHGYiK/view?usp=drive_link">
         <span class="bold-light">Patent(zh)</span>
       </a> 

@@ -51,10 +51,12 @@ author:
 menu:
   - title:             About
     url:               /
-  - title:             Projects
-    url:               /#projects
-  - title:             Awards
-    url:               /#awards
+  - title:             Research
+    url:               /#research
+  # - title:             Projects
+  #   url:               /#projects
+  # - title:             Awards
+  #   url:               /#awards
   - title:             Experience
     url:               /experience/
   - title:             Photography

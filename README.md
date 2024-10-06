@@ -3,7 +3,7 @@
 ## 💻 Build Locally
 ```
 ruby -v
-rbenv gloabla 3.2.2
+rbenv global 3.2.2
 ```
 
 ```
