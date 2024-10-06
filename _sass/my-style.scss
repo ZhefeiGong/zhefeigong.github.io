@@ -31,6 +31,8 @@
 .pub-info {
   margin-top: 0;
   flex: 7;
+  display: grid;
+  grid-row-gap: 5px;
 }
 
 .pub-image img{
@@ -41,11 +43,6 @@
 .bold-title {
   font-weight: 700;
   font-size: 16px;
-}
-
-.bold-game-title {
-  font-weight: 700;
-  font-size: 17px;
 }
 
 .bold-light {
@@ -60,6 +57,7 @@
 
 .pub-authors {
   font-size: 14px;
+  line-height: 1.5;
 }
 
 .pub-links {
@@ -216,14 +214,13 @@
   align-items: center;
 }
 
-
 /* ============ News ============ */
 .news-container {
   width: 100%;
-  max-height: 40vh;
   background-color: transparent;
   padding: 20px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  max-height: 40vh;
   overflow-y: scroll;
 }
 .news-year {
@@ -241,4 +238,64 @@
 }
 .news-item .news-content {
   font-family: "Lucida Console", Courier, monospace;
+}
+
+
+/* ============ Competitions Styles ============ */
+.competition-bold-light {
+  font-weight: 600;
+}
+.competition-bold-italic {
+  font-weight: 600;
+  font-style: italic; 
+  font-size: 14px;
+}
+.competition-bold-title {
+  font-weight: 700;
+  font-size: 17px;
+}
+.competition-table {
+  display: flex;
+  align-items: center;
+  margin: 1%; 
+  background-color: transparent;
+  box-shadow: 0 0 8px ;
+}
+.competition-title {
+  padding: 1em;
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  flex: 7;
+}
+.competition-logo {
+  padding: 1em;
+  vertical-align: middle;
+  text-align: center;
+  flex: 1;
+}
+.competition-info {
+  padding: 1em;
+  vertical-align: middle;
+  text-align: right;
+  flex: 2;
+}
+.competition-description {
+  padding-top: 3px; 
+  padding-bottom: 3px;
+  width: 95%;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+.competition-description span {
+  font-size: 14px;
+}
+.competition-image-container {
+  padding-top: 3px; 
+  width: 95%;
+  margin: 0 auto;
+}
+.competition-image-container img {
+  max-width: 100%;
+  height: auto;
 }

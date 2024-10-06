@@ -98,26 +98,23 @@ cover: true
     <!-- Title -->
     <span class="bold-title">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</span>
     <!-- Authors -->
-    <br>
-      <span class="pub-authors">
-      Wei Zhao, 
-      Pengxiang Ding, 
-      Zhang Min, 
-      <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-      Shuanghao Bai, 
-      Han Zhao, 
-      Donglin Wang
-      </span>
+    <span class="pub-authors">
+    Wei Zhao, 
+    Pengxiang Ding, 
+    Zhang Min, 
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    Shuanghao Bai, 
+    Han Zhao, 
+    Donglin Wang
+    </span>
     <!-- Info -->
-    <br>
-      <span class="bold-italic">Submitted to ICLR2025</span>
+    <span class="bold-italic">Submitted to ICLR2025</span>
     <!-- Link -->
-    <br> 
-      <span class="pub-links">Links:
-      <a href="/">
-        <span class="bold-light">TBD</span>
-      </a>
-      </span>
+    <span class="pub-links">Links:
+    <a href="/">
+      <span class="bold-light">TBD</span>
+    </a>
+    </span>
   </div>
 </div>
 
@@ -138,24 +135,21 @@ cover: true
     <!-- Title -->
     <span class="bold-title">On the Synergy of Structured Visual Representation Learning and Embodied Self-Supervised Learning</span>
     <!-- Authors -->
-    <br>
-      <span class="pub-authors">
-      <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-      <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>
-      </span>
+    <span class="pub-authors">
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Alexandre Alahi</a>
+    </span>
     <!-- Info -->
-    <br>
-      <span class="bold-italic">Semester Project at EPFL</span>
+    <span class="bold-italic">Semester Project at EPFL</span>
     <!-- Link -->
-    <br> 
-      <span class="pub-links">Links:
-      <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
-        <span class="bold-light">Report</span>
-      </a> | 
-      <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
-        <span class="bold-light">Thesis(zh)</span>
-      </a>
-      </span>
+    <span class="pub-links">Links:
+    <a href="https://drive.google.com/file/d/1KNuARoVHr2YTLLI7xYFpCStODf1jF1Pa/view?usp=sharing">
+      <span class="bold-light">Report</span>
+    </a> | 
+    <a href="https://drive.google.com/file/d/14F0JhJal6xMuzaZatx5il6MBJ4PajbbO/view?usp=drive_link">
+      <span class="bold-light">Thesis(zh)</span>
+    </a>
+    </span>
   </div>
 </div>
 
@@ -170,21 +164,18 @@ cover: true
     <!-- Title -->
     <span class="bold-title">Intelligent park unmanned parking method based on space-time vehicle re-identification</span>
     <!-- Authors -->
-    <br>
-      <span class="pub-authors">Worked with professors and graduate students</span>
+    <span class="pub-authors">Worked with professors and graduate students</span>
     <!-- Info -->
-    <br>
-      <span class="bold-italic">Completed during internship at IRCP Lab</span>
+    <span class="bold-italic">Completed during internship at IRCP Lab</span>
     <!-- Link -->
-    <br>
-      <span class="pub-links">Links: 
-      <a href="https://patents.google.com/patent/CN116343522B/en?oq=CN+116343522+B">
-        <span class="bold-light">Patent</span>
-      </a> | 
-      <a href="https://drive.google.com/file/d/1eofhNzxGqa-PXgc0ou0QMJjxILFHGYiK/view?usp=drive_link">
-        <span class="bold-light">Patent(zh)</span>
-      </a> 
-      </span>
+    <span class="pub-links">Links: 
+    <a href="https://patents.google.com/patent/CN116343522B/en?oq=CN+116343522+B">
+      <span class="bold-light">Patent</span>
+    </a> | 
+    <a href="https://drive.google.com/file/d/1eofhNzxGqa-PXgc0ou0QMJjxILFHGYiK/view?usp=drive_link">
+      <span class="bold-light">Patent(zh)</span>
+    </a> 
+    </span>
   </div>
 </div>
 
