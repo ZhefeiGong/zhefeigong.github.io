@@ -70,6 +70,8 @@ description: >
     <img src="/assets/competitions/smartcar.png" alt="game-smart-car-img">
 </div>
 
+## Robotics Platforms
+
 
 
 ## Furthermore
