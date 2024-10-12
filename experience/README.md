@@ -70,8 +70,28 @@ description: >
     <img src="/assets/competitions/smartcar.png" alt="game-smart-car-img">
 </div>
 
-## Robotics Platforms
 
+## Robotic Platforms
+
+<div class="plantform-card-container">
+    <div class="plantform-card">
+        <img src="/assets/blog/ur_arm.png" alt="AgnathaX" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <!-- <p class="plantform-card-title">UR Robotic Arm</p> -->
+            <p class="plantform-card-title">
+                <a href="/blog/robotics/2024-09-15-ur-robotic-arm/">UR Robotic Arm</a>
+            </p>
+            <p class="plantform-card-description">Configured UR5e, Robotiq-2f-85, 3D-Connexion from scratch and utilized them to conduct research on manipulation</p>
+        </div>
+    </div>
+    <div class="plantform-card">
+        <img src="/assets/blog/franka_arm.png" alt="ALMA" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <p class="plantform-card-title">Franka Panda</p>
+            <p class="plantform-card-description">The Franka Emika Panda robot is a 7-axis robot arm</p>
+        </div>
+    </div>
+</div>
 
 
 ## Furthermore

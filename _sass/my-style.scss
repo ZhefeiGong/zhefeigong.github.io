@@ -299,3 +299,41 @@
   max-width: 100%;
   height: auto;
 }
+
+/* ============ Plantforms Styles ============ */
+.plantform-card-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.plantform-card {
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+.plantform-card:hover {
+  transform: translateY(-10px);
+}
+.plantform-card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: -10px;
+}
+.plantform-card-content {
+  padding: 20px;
+}
+.plantform-card-title {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.plantform-card-description {
+  font-size: 0.8em;
+  color: #666;
+}
+

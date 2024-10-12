@@ -108,7 +108,7 @@ cover: true
     Donglin Wang
     </span>
     <!-- Info -->
-    <span class="bold-italic">Submitted to ICLR2025</span>
+    <span class="bold-italic">Under Review</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <a href="/">
