@@ -49,7 +49,7 @@ description: >
     <div class="competition-title">
         <span class="competition-bold-title">National Intelligent Car Competition for Undergraduates</span>
         <br>
-        <span class="competition-bold-light">⚝ East China Region Second Prize | team leader</span>
+        <span class="competition-bold-light">⚝ East China Region Second Prize | Team Leader</span>
         <br>
     </div>
     <div class="competition-logo" >
@@ -75,9 +75,8 @@ description: >
 
 <div class="plantform-card-container">
     <div class="plantform-card">
-        <img src="/assets/blog/ur_arm.png" alt="AgnathaX" class="plantform-card-image">
+        <img src="/assets/blog/ur_arm.png" alt="UR5e" class="plantform-card-image">
         <div class="plantform-card-content">
-            <!-- <p class="plantform-card-title">UR Robotic Arm</p> -->
             <p class="plantform-card-title">
                 <a href="/blog/robotics/2024-09-15-ur-robotic-arm/">UR Robotic Arm</a>
             </p>
@@ -85,7 +84,7 @@ description: >
         </div>
     </div>
     <div class="plantform-card">
-        <img src="/assets/blog/franka_arm.png" alt="ALMA" class="plantform-card-image">
+        <img src="/assets/blog/franka_arm.png" alt="Franka" class="plantform-card-image">
         <div class="plantform-card-content">
             <p class="plantform-card-title">Franka Panda</p>
             <p class="plantform-card-description">The Franka Emika Panda robot is a 7-axis robot arm</p>
@@ -95,7 +94,7 @@ description: >
 
 
 ## Furthermore
-Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a full list of experiences.
+Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a complete list of experience.
 
 <!-- Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences. -->
 <!-- <p>
