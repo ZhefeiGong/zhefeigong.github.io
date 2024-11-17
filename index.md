@@ -87,6 +87,38 @@ cover: true
 <!--************************************************************************************************-->
 ## Research
 
+<!-- CARP -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/carp_frame.png" alt="CARP">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    Pengxiang Ding, 
+    Shangke Lyu, 
+    Siteng Huang, 
+    Minyang Sun, 
+    Wei Zhao,
+    Zhaoxin Fan,
+    Donglin Wang
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">Under Review</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <a href="/">
+      <span class="bold-light">TBD</span>
+    </a>
+    </span>
+  </div>
+</div>
+
 <!-- VLAS -->
 <div class="publication">
   <!-- SHOWCASE -->
