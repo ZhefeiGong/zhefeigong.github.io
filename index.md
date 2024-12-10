@@ -100,20 +100,26 @@ cover: true
     <!-- Authors -->
     <span class="pub-authors">
     <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-    Pengxiang Ding, 
-    Shangke Lyu, 
-    Siteng Huang, 
-    Minyang Sun, 
-    Wei Zhao,
-    Zhaoxin Fan,
-    Donglin Wang
+    <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
+    <a href="/">Shangke Lyu</a>, 
+    <a href="https://kyonhuang.top/">Siteng Huang</a>, 
+    <a href="/">Minyang Sun</a>, 
+    <a href="/">Wei Zhao</a>, 
+    <a href="https://zhaoxinf.github.io/">Zhaoxin Fan</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">Under Review</span>
+    <span class="bold-italic">arXiv preprint arXiv:2412.06782</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="/">
+    <!-- <a href="/">
       <span class="bold-light">TBD</span>
+    </a> -->
+    <a href="https://arxiv.org/abs/2412.06782">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://carp-robot.github.io/">
+      <span class="bold-light">website</span>
     </a>
     </span>
   </div>
@@ -131,13 +137,13 @@ cover: true
     <span class="bold-title">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</span>
     <!-- Authors -->
     <span class="pub-authors">
-    Wei Zhao, 
-    Pengxiang Ding, 
-    Zhang Min, 
+    <a href="/">Wei Zhao</a>, 
+    <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
+    <a href="/">Zhang Min</a>, 
     <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-    Shuanghao Bai, 
-    Han Zhao, 
-    Donglin Wang
+    <a href="https://baishuanghao.github.io/">Shuanghao Bai</a>, 
+    <a href="https://h-zhao1997.github.io/">Han Zhao</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
     <span class="bold-italic">Under Review</span>
