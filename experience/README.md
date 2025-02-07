@@ -93,6 +93,13 @@ description: >
 </div>
 
 
+## Miscellaneous
+I’m passionate about soccer ⚽️, photography 📸, and hiking ⛰️, and I’m always open to exploring new things. 
+I’m an avid explorer and enjoy meeting people from diverse cultural backgrounds. 
+I was born in [Leshan](https://en.wikipedia.org/wiki/Leshan) and raised in [Chongqing](https://en.wikipedia.org/wiki/Chongqing), a vibrant city with a unique 8D cyberpunk vibe.
+I’ve also lived in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) 🇨🇳, [Lausanne](https://en.wikipedia.org/wiki/Lausanne) 🇨🇭, and [Seoul](https://en.wikipedia.org/wiki/Seoul) 🇰🇷 for over three months, and I’m currently based in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) 🇨🇳.
+
+
 ## Furthermore
 Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a complete list of experience.
 

@@ -5,7 +5,7 @@ categories: [robotics]
 tags: [config]
 description: >
   Configured `the UR5e robot arm`, `Robotiq-2f-85 gripper`, `3D-Connexion teleoperation` from scratch while working at MiLab 
-  and utilized them to conduct research on manipulation
+  and utilized them to conduct research on manipulation.
 sitemap: false
 hide_last_modified: true
 menu: false
