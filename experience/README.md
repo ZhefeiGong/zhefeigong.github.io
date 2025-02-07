@@ -2,7 +2,7 @@
 layout: plain
 title: Experience
 description: >
-  Rome was not built in a day
+  Rome was not built in a day.
 ---
 
 

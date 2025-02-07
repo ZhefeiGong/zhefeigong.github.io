@@ -23,6 +23,13 @@ cover: true
   <!-- <div class="news-year">2024</div> -->
 
   <div class="news-item">
+    <span class="news-date">[Jan.23rd, 2025]</span>
+    <span class="news-content"> 
+    One paper <a href='https://openreview.net/pdf?id=K4FAFNRpko'>VLAS</a> has been accepted to ICLR 2025!
+    </span>
+  </div>
+
+  <div class="news-item">
     <span class="news-date">[Jul.9th, 2024]</span>
     <span class="news-content"> Joined <a href='https://milab.westlake.edu.cn/'>MiLab</a> as a research assistant working on Robot Learning. 
     Wish me luck!
@@ -146,11 +153,11 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">Under Review</span>
+    <span class="bold-italic">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="/">
-      <span class="bold-light">TBD</span>
+    <a href="https://openreview.net/pdf?id=K4FAFNRpko">
+      <span class="bold-light">paper</span>
     </a>
     </span>
   </div>

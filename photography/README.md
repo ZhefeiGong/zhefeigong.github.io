@@ -2,7 +2,7 @@
 layout: plain
 title: Be a Worldwatcher
 description: >
-  A picture is worth a thousand words
+  A picture is worth a thousand words.
 # content_width_5: 124 #rem <--> 
 # if want to expand the contents, u need to change the 'content-width-5' in /_data/variables.yml file
 ---
