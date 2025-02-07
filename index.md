@@ -25,7 +25,7 @@ cover: true
   <div class="news-item">
     <span class="news-date">[Jan.23rd, 2025]</span>
     <span class="news-content"> 
-    One paper <a href='https://openreview.net/pdf?id=K4FAFNRpko'>VLAS</a> has been accepted to ICLR 2025!
+    One paper on vision-language-action model (<a href='https://openreview.net/pdf?id=K4FAFNRpko'>VLAS</a>) has been accepted to ICLR 2025!
     </span>
   </div>
 
