@@ -10,7 +10,7 @@ slug: config
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Installation and configuration issues for engineering
+  Installation and configuration issues for engineering.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true

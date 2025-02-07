@@ -10,7 +10,7 @@ slug: robotics
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Everything about the design, construction, operation, and use of robots
+  Everything about the design, construction, operation, and use of robots.
 
 # (Optional) You can disable grouping posts by date.
 no_groups: true
