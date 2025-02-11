@@ -207,7 +207,7 @@ cover: true
   <!-- INFORMATION -->
   <div class="pub-info">
     <!-- Title -->
-    <span class="bold-title">Intelligent park unmanned parking method based on space-time vehicle re-identification</span>
+    <span class="bold-title">Intelligent Park Unmanned Parking Method Based on Space-Time Vehicle Re-Identification</span>
     <!-- Authors -->
     <span class="pub-authors">Worked with professors and graduate students</span>
     <!-- Info -->

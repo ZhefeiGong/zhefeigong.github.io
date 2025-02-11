@@ -101,7 +101,7 @@ I’ve also lived in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) 🇨🇳
 
 
 ## Furthermore
-Please check my [CV](https://drive.google.com/file/d/1RSJqJjzW-AM4KpqON2NGr2eTAeeCnpWI/view?usp=drive_link) (last updated in Jul. 2024) for a complete list of experience.
+Please check my [CV](https://drive.google.com/file/d/188TomrJamBhVB0r13QgHT4oTGyGq4NAn/view?usp=drive_link) (last updated in Feb. 2025) for a complete list of experience.
 
 <!-- Please check my [CV](/assets//zhefei/cv.pdf) for a full list of experiences. -->
 <!-- <p>

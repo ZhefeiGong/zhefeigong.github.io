@@ -2,7 +2,7 @@
 layout: plain
 sitemap: false
 description: >
-    Nice to meet you wherever you are in the world😊
+    Great to connect with you 😊, no matter where you are in the world 🌍!
 ---
 
 # EASTEREGG
