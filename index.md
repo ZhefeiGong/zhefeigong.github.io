@@ -116,7 +116,7 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">arXiv preprint arXiv:2412.06782</span>
+    <span class="bold-italic">arXiv preprint arXiv:2412.06782 (In Submission)</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
@@ -156,8 +156,11 @@ cover: true
     <span class="bold-italic">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="https://openreview.net/pdf?id=K4FAFNRpko">
-      <span class="bold-light">paper</span>
+    <a href="https://arxiv.org/abs/2502.13508">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://github.com/whichwhichgone/VLAS">
+      <span class="bold-light">code</span>
     </a>
     </span>
   </div>

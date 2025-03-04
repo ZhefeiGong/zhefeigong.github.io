@@ -28,7 +28,9 @@ description:           >
   Hi here's Zhefei Gong, an undergrad from Tongji University. 
 
 # A shorter description for the sidebar.
-tagline:               Everything is possible, even the impossible. # Change `tagline` in `_config.yml`
+# tagline:               Everything is possible, even the impossible. # Change `tagline` in `_config.yml`
+# tagline:               We know the past but cannot control it. We control the future but cannot know it.
+tagline:               Time will tell.
 
 # A list of keywords for your blog
 keywords:              []
