@@ -128,6 +128,9 @@ cover: true
     <a href="https://carp-robot.github.io/">
       <span class="bold-light">website</span>
     </a>
+    <a href="https://github.com/ZhefeiGong/carp">
+      <span class="bold-light">code</span>
+    </a>
     </span>
   </div>
 </div>
