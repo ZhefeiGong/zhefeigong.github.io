@@ -108,7 +108,7 @@ cover: true
     <span class="pub-authors">
     <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
     <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
-    <a href="/">Shangke Lyu</a>, 
+    <a href="https://scholar.google.com/citations?user=3_DtxJ8AAAAJ">Shangke Lyu</a>, 
     <a href="https://kyonhuang.top/">Siteng Huang</a>, 
     <a href="/">Minyang Sun</a>, 
     <a href="/">Wei Zhao</a>, 
@@ -131,6 +131,44 @@ cover: true
     <a href="https://github.com/ZhefeiGong/carp">
       <span class="bold-light">code</span>
     </a>
+    </span>
+  </div>
+</div>
+
+<!-- LIT -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/lit_teaser.png" alt="LIT">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="https://xiaowei-i.github.io/">Wei Xiao</a>, 
+    <a href="https://scholar.google.com/citations?user=3_DtxJ8AAAAJ">Shangke Lyu</a>, 
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="/">Renjie Wang</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">In Submission</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <a href="/">
+      <span class="bold-light">TBD</span>
+    </a>
+    <!-- <a href="https://arxiv.org/abs/2412.06782">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://carp-robot.github.io/">
+      <span class="bold-light">website</span>
+    </a> | 
+    <a href="https://github.com/ZhefeiGong/carp">
+      <span class="bold-light">code</span>
+    </a> -->
     </span>
   </div>
 </div>
