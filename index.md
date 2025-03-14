@@ -157,8 +157,8 @@ cover: true
     <span class="bold-italic">In Submission</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="/">
-      <span class="bold-light">TBD</span>
+    <a href="https://arxiv.org/abs/2503.10484v1">
+      <span class="bold-light">arXiv</span>
     </a>
     <!-- <a href="https://arxiv.org/abs/2412.06782">
       <span class="bold-light">arXiv</span>
