@@ -154,7 +154,7 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">In Submission</span>
+    <span class="bold-italic">arXiv preprint arXiv:2503.10484 (In Submission)</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <a href="https://arxiv.org/abs/2503.10484v1">
