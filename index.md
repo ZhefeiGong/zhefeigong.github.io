@@ -135,6 +135,41 @@ cover: true
   </div>
 </div>
 
+<!-- KORR -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/korr_frame.png" alt="CARP">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">Robust Online Residual Refinement via Koopman-Guided Dynamics Modeling</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://scholar.google.com/citations?user=3_DtxJ8AAAAJ">Shangke Lyu</a>, 
+    <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
+    <a href="https://xiaowei-i.github.io/">Wei Xiao</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">In Submission</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <!-- <a href="/">
+      <span class="bold-light">TBD</span>
+    </a> -->
+    <a href="https://drive.google.com/file/d/1WCaF2zszqU4GN5URb6sJws-B04ExN3Ee/view?usp=sharing">
+      <span class="bold-light">paper</span>
+    </a> | 
+    <a href="/">
+      <span class="bold-light">TBD</span>
+    </a>
+    </span>
+  </div>
+</div>
+
 <!-- LIT -->
 <div class="publication">
   <!-- SHOWCASE -->
