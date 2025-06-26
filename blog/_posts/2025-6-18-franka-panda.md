@@ -30,6 +30,11 @@ sitemap: false
 {:toc .large-only}
 
 
+![Franka Panda robotic arm flow](/assets/blog/franka_flow.png){:.lead width="800" height="100"}
+The construction process of the hardware platform.
+{:.figure}
+
+
 ## ⚙️ Important Things
 
 > to Grab before Starting
@@ -40,7 +45,7 @@ sitemap: false
 
 🤔 **Franka Control Interface** (**FCI**)
 
-`Franka Control Interface` is a real-time control framework provided by **Franka Emika** for the **Panda** robotic arm. It enables developers to achieve high-performance control by directly interfacing with the robot at a low level. -> [manual](https://frankaemika.github.io/docs/)
+`Franka Control Interface` is a real-time control framework provided by **Franka Emika** for the **Panda** robotic arm. It enables developers to achieve high-performance control by directly interfacing with the robot at a low level. -> [manual](https://frankarobotics.github.io/docs/)
 - High Frequency Control: Operates at up to **1 kHz**, allowing precise control for advanced applications like force control and trajectory optimization.
 - Low-level Access: Users can directly control joint positions, velocities, torques, or end-effector forces and poses.
 - Real-time Feedback: Provides detailed robot states, such as joint positions, forces, external torques, and end-effector status.
@@ -79,12 +84,12 @@ Connect the control panel through `192.168.3.20\desk` (IP address of the robot a
 
 🤔 **libfranka**
 
-A C++ library that provides low-level control of Franka Robotics research robots. Its source **code** is available at [here](https://github.com/frankaemika/libfranka). **Documentation** is available at [here](https://frankaemika.github.io/docs/libfranka.html).
+A C++ library that provides low-level control of Franka Robotics research robots. Its source **code** is available at [here](https://github.com/frankaemika/libfranka). **Documentation** is available at [here](https://frankarobotics.github.io/docs/libfranka.html).
 
 
 🤔 **franka_ros**
 
-the [ROS integration](https://wiki.ros.org/franka_ros) for Franka Robotics research robots, including support for ROS Control and MoveIt. It also contains `franka_description`, a collection of URDF models and 3D meshes that can be useful outside of ROS. The **repository** is available at [here](https://github.com/frankaemika/franka_ros). Documentation is available at [here](https://frankaemika.github.io/docs/franka_ros.html). And the order is as following: $\text{PC} \Rightarrow \text{franka}\_\text{ros} \Rightarrow \text{libfranka} \Rightarrow \text{Franka Control Interface(FCI)} \Rightarrow \text{Robot Arm}$
+the [ROS integration](https://wiki.ros.org/franka_ros) for Franka Robotics research robots, including support for ROS Control and MoveIt. It also contains `franka_description`, a collection of URDF models and 3D meshes that can be useful outside of ROS. The **repository** is available at [here](https://github.com/frankaemika/franka_ros). Documentation is available at [here](https://frankarobotics.github.io/docs/franka_ros.html). And the order is as following: $\text{PC} \Rightarrow \text{franka}\_\text{ros} \Rightarrow \text{libfranka} \Rightarrow \text{Franka Control Interface(FCI)} \Rightarrow \text{Robot Arm}$
 
 
 🤔 **Frankapy**
@@ -150,7 +155,7 @@ sudo apt-get install ros-noetic-libfranka ros-noetic-franka-ros
 ```
 build from source
 * [libfranka](https://github.com/frankaemika/libfranka/blob/main/README.md)
-* [franka_ros](https://frankaemika.github.io/docs/installation_linux.html#building-the-ros-packages)
+* [franka_ros](https://frankarobotics.github.io/docs/installation_linux.html#building-the-ros-packages)
 
 #### 🔧 Build `serl_franka_controllers`
 ```bash
@@ -245,6 +250,7 @@ sudo apt-get install build-essential bc curl ca-certificates gnupg2 libssl-dev l
 # borrow the config setting from current kernel
 make olddefconfig
 ```
+
 update the config of current kernel
 ```bash
 make menuconig
@@ -263,6 +269,7 @@ CONFIG_SYSTEM_TRUSTED_KEYS=""
 CONFIG_SYSTEM_REVOCATION_KEYS=""
 CONFIG_DEBUG_INFO_BTF=n
 ```
+
 begin to build kernel locally
 ```bash
 fakeroot make -j24 deb-pkg
