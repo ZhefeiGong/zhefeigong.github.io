@@ -20,7 +20,22 @@ cover: true
 ## News
 <div class="news-container">
   
-  <!-- <div class="news-year">2024</div> -->
+  <!-- <div class="news-year">2025</div> -->
+
+  <div class="news-item">
+    <span class="news-date">[Jun.25th, 2025]</span>
+    <span class="news-content"> 
+    Thrilled that my first first-author paper, <a href="https://carp-robot.github.io/">CARP</a>, 
+    has been accepted to ICCV 2025! Huge thanks to everyone who supported me along the way.
+    </span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[Jun.24th, 2025]</span>
+    <span class="news-content"> 
+    Joined <a href='https://tasl.ucr.edu/'>TASL</a> as a visiting scholar and Excited for the journey ahead!
+    </span>
+  </div>
 
   <div class="news-item">
     <span class="news-date">[Jan.23rd, 2025]</span>
@@ -28,6 +43,8 @@ cover: true
     One paper on vision-language-action model (<a href='https://openreview.net/pdf?id=K4FAFNRpko'>VLAS</a>) has been accepted to ICLR 2025!
     </span>
   </div>
+
+  <!-- <div class="news-year">2024</div> -->
 
   <div class="news-item">
     <span class="news-date">[Jul.9th, 2024]</span>
@@ -94,6 +111,9 @@ cover: true
 <!--************************************************************************************************-->
 ## Research
 
+
+**_Conference_**
+
 <!-- CARP -->
 <div class="publication">
   <!-- SHOWCASE -->
@@ -116,7 +136,8 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">arXiv preprint arXiv:2412.06782 (In Submission)</span>
+    <!-- <span class="bold-italic">arXiv preprint arXiv:2412.06782 (In Submission)</span> -->
+    <span class="bold-italic">International Conference on Computer Vision, ICCV 2025</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
@@ -134,6 +155,43 @@ cover: true
     </span>
   </div>
 </div>
+
+<!-- VLAS -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/vlas_frame.png" alt="VLAS">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="/">Wei Zhao</a>, 
+    <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
+    <a href="/">Zhang Min</a>, 
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://baishuanghao.github.io/">Shuanghao Bai</a>, 
+    <a href="https://h-zhao1997.github.io/">Han Zhao</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">The Thirteenth International Conference on Learning Representations, ICLR 2025</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <a href="https://arxiv.org/abs/2502.13508">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://github.com/whichwhichgone/VLAS">
+      <span class="bold-light">code</span>
+    </a>
+    </span>
+  </div>
+</div>
+
+
+**_Preprint / Under review_**
 
 <!-- KORR -->
 <div class="publication">
@@ -208,39 +266,6 @@ cover: true
   </div>
 </div>
 
-<!-- VLAS -->
-<div class="publication">
-  <!-- SHOWCASE -->
-  <div class="pub-image">
-    <img src="/assets/publications/vlas_frame.png" alt="VLAS">
-  </div>
-  <!-- INFORMATION -->
-  <div class="pub-info">
-    <!-- Title -->
-    <span class="bold-title">VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation</span>
-    <!-- Authors -->
-    <span class="pub-authors">
-    <a href="/">Wei Zhao</a>, 
-    <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
-    <a href="/">Zhang Min</a>, 
-    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-    <a href="https://baishuanghao.github.io/">Shuanghao Bai</a>, 
-    <a href="https://h-zhao1997.github.io/">Han Zhao</a>, 
-    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
-    </span>
-    <!-- Info -->
-    <span class="bold-italic">The Thirteenth International Conference on Learning Representations (ICLR 2025)</span>
-    <!-- Link -->
-    <span class="pub-links">Links:
-    <a href="https://arxiv.org/abs/2502.13508">
-      <span class="bold-light">arXiv</span>
-    </a> | 
-    <a href="https://github.com/whichwhichgone/VLAS">
-      <span class="bold-light">code</span>
-    </a>
-    </span>
-  </div>
-</div>
 
 <!-- Next Research Publication -->
 

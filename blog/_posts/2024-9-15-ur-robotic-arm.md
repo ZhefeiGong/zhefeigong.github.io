@@ -5,7 +5,7 @@ categories: [robotics]
 tags: [config]
 description: >
   Configured `the UR5e robot arm`, `Robotiq-2f-85 gripper`, `3D-Connexion teleoperation` from scratch while working at MiLab 
-  and utilized them to conduct research on manipulation.
+  and utilized them to conduct research on manipulation. You can find the repo [here](https://github.com/ZhefeiGong/UR_Robot_Arm) !
 sitemap: false
 hide_last_modified: true
 menu: false
@@ -26,8 +26,15 @@ accent_image:
 sitemap: false
 ---
 
+
 - Table of Contents
 {:toc .large-only}
+
+
+![UR robotic arm flow](/assets/blog/ur_flow.png){:.lead width="800" height="100"}
+The construction process of the hardware platform.
+{:.figure}
+
 
 ## ⚙️ Important Things
 
@@ -55,11 +62,6 @@ sitemap: false
 	`URScript` is **a scripting language** provided by Universal Robots (UR) for programming and controlling UR series robotic arms. It allows users to write scripts to directly control the robot's movements, I/O operations, and other functionalities.
 * **Python-urx**
   `urx` is a python [library](https://github.com/SintefManufacturing/python-urx) to control the robots from Universal Robots. It is published under the LGPL license and comes with absolutely no guarantee.  
-
-
-![UR robotic arm flow](/assets/blog/ur_flow.png){:.lead width="800" height="100"}
-The construction process of the hardware platform.
-{:.figure}
 
 
 ## ⚙️ Setting | UR5e

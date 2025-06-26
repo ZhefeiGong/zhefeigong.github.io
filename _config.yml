@@ -25,7 +25,7 @@ title:                 Zhefei Gong # Starter Kit
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi here's Zhefei Gong, an undergrad from Tongji University. 
+  Hi here's Zhefei Gong, a bachelor in Computer Science from Tongji University. 
 
 # A shorter description for the sidebar.
 # tagline:               Everything is possible, even the impossible. # Change `tagline` in `_config.yml`
