@@ -21,23 +21,26 @@ Zhefei: # author1:
     Currently, I am particularly interested in **robot learning**, **generative models** and **reinforcement learning**, with a focus on **manipulation** tasks.
     My aspiration is to develop general-purpose robots capable of autonomously performing complex, long-term daily tasks, 
     thus transitioning them from laboratories to everyone's homes. I am dedicated to realizing this vision over the next ten years.
-    
-    <span style="color: #86A9B3;">Actively seeking research collaborations and PhD opportunities in the United States 🇺🇸 or Canada 🇨🇦 !</span>
-    
+
+    Actively seeking PhD opportunities for _Spring/Fall 2026_ !
+    See <a href="https://zhefeigong.github.io/experience/#robotic-platforms">here</a> for details on my _real-world_ robotics research experience.
+    Feel free to get in touch if our research interests overlap.
+
   # This photo will be used in the about section
   picture:
-    path:            /assets/zhefei/zhefei_icon1_256x256.png # https://via.placeholder.com/128x128
+    path:            /assets/zhefei/zhefei_icon3_256x256.png # https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/zhefei/zhefei_icon1_256x256.png # https://via.placeholder.com/128x128
-      2x:            /assets/zhefei/zhefei_icon1_512x512.png # https://via.placeholder.com/256x256
-  
+      1x:            /assets/zhefei/zhefei_icon3_256x256.png # https://via.placeholder.com/128x128
+      2x:            /assets/zhefei/zhefei_icon3_512x512.png # https://via.placeholder.com/256x256
+
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     email:             zhefeigong@gmail.com # <mail@domain.tld>
     github:            ZhefeiGong # <username>
+    google:            https://scholar.google.com/citations?user=PpJTGIYAAAAJ&hl=en&oi=ao # <url>
     twitter:           zhefeigong # <username>
     linkedin:          zhefeigong # <firstname-lastname-string>
     # rss:             https://<url>/feed.xml

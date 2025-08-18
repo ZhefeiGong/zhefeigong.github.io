@@ -4,7 +4,7 @@ title: Franka Panda
 categories: [robotics]
 tags: [config]
 description: >
-  Configured `Franka Panda`, `3D-Connexion teleoperation` from scratch while working at MiLab and utilized them to conduct research on manipulation. You can find the repo [here](https://github.com/ZhefeiGong/Franka_Robot_Arm) !
+  Configured `Franka Panda` and `3D-Connexion teleoperation` from scratch while working at [MiLab](https://milab.westlake.edu.cn/) and applied them to conduct research on manipulation. You can find the repo [here](https://github.com/ZhefeiGong/Franka_Robot_Arm) !
 sitemap: false
 hide_last_modified: true
 menu: false
