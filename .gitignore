@@ -56,3 +56,4 @@ Gemfile.lock
 
 # Local repertory
 /local-repo
+.DS_Store
