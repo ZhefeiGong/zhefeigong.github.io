@@ -43,7 +43,7 @@ description: >
         <img src="/assets/blog/tiago++_robot.png" alt="Tiago++" class="plantform-card-image">
         <div class="plantform-card-content">
             <p class="plantform-card-title">
-                <a href="/blog/robotics/2025-08-18-tiago-plusplus/">Tiago ++</a>
+                <a href="/blog/robotics/2025-08-18-tiago-plusplus/">Tiago++</a>
             </p>
             <p class="plantform-card-description">
             Configured Tiago++, a mobile robot with two 7-axis manipulators, to support research on mobile manipulation.
