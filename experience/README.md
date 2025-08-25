@@ -13,6 +13,47 @@ description: >
 
 
 <!--************************************************************************************************-->
+## Robotic Platforms
+> Robots I have worked with.
+
+<div class="plantform-card-container">
+    <div class="plantform-card">
+        <img src="/assets/blog/ur_arm.png" alt="UR5e" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <p class="plantform-card-title">
+                <a href="/blog/robotics/2024-09-15-ur-robotic-arm/">UR Robotic Arm</a>
+            </p>
+            <p class="plantform-card-description">
+            Configured UR5e, Robotiq-2f-85, 3D-Connexion from scratch and applied them to conduct research on manipulation.
+            </p>
+        </div>
+    </div>
+    <div class="plantform-card">
+        <img src="/assets/blog/franka_arm.png" alt="Franka" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <p class="plantform-card-title">
+                <a href="/blog/robotics/2025-06-18-franka-panda/">Franka Panda</a>
+            </p>
+            <p class="plantform-card-description">
+            Configured Franka Emika Panda, a 7-axis robot arm to conduct research on manipulation.
+            </p>
+        </div>
+    </div>
+    <div class="plantform-card">
+        <img src="/assets/blog/tiago++_robot.png" alt="Tiago++" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <p class="plantform-card-title">
+                <a href="/blog/robotics/2025-08-18-tiago-plusplus/">Tiago ++</a>
+            </p>
+            <p class="plantform-card-description">
+            Configured Tiago++, a mobile robot with two 7-axis manipulators, to support research on mobile manipulation.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<!--************************************************************************************************-->
 ## Competitions
 
 <!-- Next Competition -->
@@ -70,46 +111,6 @@ description: >
 </div>
 <div class="competition-image-container">
     <img src="/assets/competitions/smartcar.png" alt="game-smart-car-img">
-</div>
-
-
-<!--************************************************************************************************-->
-## Robotic Platforms
-
-<div class="plantform-card-container">
-    <div class="plantform-card">
-        <img src="/assets/blog/ur_arm.png" alt="UR5e" class="plantform-card-image">
-        <div class="plantform-card-content">
-            <p class="plantform-card-title">
-                <a href="/blog/robotics/2024-09-15-ur-robotic-arm/">UR Robotic Arm</a>
-            </p>
-            <p class="plantform-card-description">
-            Configured UR5e, Robotiq-2f-85, 3D-Connexion from scratch and applied them to conduct research on manipulation.
-            </p>
-        </div>
-    </div>
-    <div class="plantform-card">
-        <img src="/assets/blog/franka_arm.png" alt="Franka" class="plantform-card-image">
-        <div class="plantform-card-content">
-            <p class="plantform-card-title">
-                <a href="/blog/robotics/2025-06-18-franka-panda/">Franka Panda</a>
-            </p>
-            <p class="plantform-card-description">
-            Configured Franka Emika Panda, a 7-axis robot arm to conduct research on manipulation.
-            </p>
-        </div>
-    </div>
-    <div class="plantform-card">
-        <img src="/assets/blog/tiago++_robot.png" alt="Tiago++" class="plantform-card-image">
-        <div class="plantform-card-content">
-            <p class="plantform-card-title">
-                <a href="/blog/robotics/2025-08-18-tiago-plusplus/">Tiago ++</a>
-            </p>
-            <p class="plantform-card-description">
-            Configured Tiago++, a mobile robot with two 7-axis manipulators, to support research on mobile manipulation.
-            </p>
-        </div>
-    </div>
 </div>
 
 
