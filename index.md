@@ -129,20 +129,23 @@ cover: true
     <!-- Authors -->
     <span class="pub-authors">
     <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
-    <a href="https://scholar.google.com/citations?user=3_DtxJ8AAAAJ">Shangke Lyu</a>, 
+    <a href="https://lsk-robot.github.io/">Shangke Lyu</a>, 
     <a href="https://dingpx.github.io/">Pengxiang Ding</a>, 
     <a href="https://xiaowei-i.github.io/">Wei Xiao</a>, 
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">Preprint 2025</span>
+    <span class="bold-italic">arXiv preprint, 2025</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
       <span class="bold-light">TBD</span>
     </a> -->
-    <a href="https://drive.google.com/file/d/1WCaF2zszqU4GN5URb6sJws-B04ExN3Ee/view?usp=sharing">
-      <span class="bold-light">manuscript</span>
+    <a href="https://arxiv.org/abs/2509.12562">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://zhefeigong.github.io/korr-robot/">
+      <span class="bold-light">website</span>
     </a> | 
     <a href="/">
       <span class="bold-light">code</span>
