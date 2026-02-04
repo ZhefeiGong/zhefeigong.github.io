@@ -143,7 +143,7 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">International Conference on Robotics & Automation, ICRA 2026</span>
+    <span class="bold-italic">IEEE International Conference on Robotics and Automation (ICRA), 2026</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
@@ -185,7 +185,7 @@ cover: true
     </span>
     <!-- Info -->
     <!-- <span class="bold-italic">arXiv preprint arXiv:2412.06782 (In Submission)</span> -->
-    <span class="bold-italic">International Conference on Computer Vision, ICCV 2025</span>
+    <span class="bold-italic">International Conference on Computer Vision (ICCV), 2025</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
@@ -225,7 +225,7 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">The Thirteenth International Conference on Learning Representations, ICLR 2025</span>
+    <span class="bold-italic">The Thirteenth International Conference on Learning Representations (ICLR), 2025</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <a href="https://arxiv.org/abs/2502.13508">
