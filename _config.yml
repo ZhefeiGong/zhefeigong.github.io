@@ -75,7 +75,7 @@ legal:
     url:               /EASTEREGG
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024-2025 Zhefei Gong
+copyright:             © 2024-2026 Zhefei Gong
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

@@ -25,9 +25,17 @@ cover: true
   <!-- <div class="news-year">2025</div> -->
 
   <div class="news-item">
+    <span class="news-date">[Jan.31st, 2026]</span>
+    <span class="news-content"> 
+    Happy to share that my first-author paper, <a href="https://zhefeigong.github.io/korr-robot/">KORR</a>, 
+    has been accepted to ICRA 2026! Many thanks to my co-authors.
+    </span>
+  </div>
+
+  <div class="news-item">
     <span class="news-date">[Jun.25th, 2025]</span>
     <span class="news-content"> 
-    Thrilled that my first first-author paper, <a href="https://carp-robot.github.io/">CARP</a>, 
+    Thrilled to share that my first first-author paper, <a href="https://carp-robot.github.io/">CARP</a>, 
     has been accepted to ICCV 2025! Huge thanks to everyone who supported me along the way.
     </span>
   </div>
@@ -135,7 +143,7 @@ cover: true
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">arXiv preprint, 2025</span>
+    <span class="bold-italic">International Conference on Robotics & Automation, ICRA 2026</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <!-- <a href="/">
