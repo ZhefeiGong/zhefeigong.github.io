@@ -155,7 +155,7 @@ cover: true
     <a href="https://zhefeigong.github.io/korr-robot/">
       <span class="bold-light">website</span>
     </a> | 
-    <a href="/">
+    <a href="https://zhefeigong.github.io/korr-robot/">
       <span class="bold-light">code</span>
     </a>
     </span>
