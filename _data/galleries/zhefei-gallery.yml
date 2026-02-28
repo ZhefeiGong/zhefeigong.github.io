@@ -361,15 +361,14 @@ pictures:
   sizes:
   thumbnail: USA/LagunaBeach-thumbnail.jpg
   title: Laguna Beach
-  caption: Corona Del Mar State Beach Park, California
+  caption: Aliso Beach, California
   category: USA
 - filename: NewportBeach
   original: USA/NewportBeach.jpg
   sizes:
   thumbnail: USA/NewportBeach-thumbnail.jpg
   title: Newport Beach
-  caption: Aliso Beach, California
+  caption: Corona Del Mar State Beach Park, California
   category: USA
-
 
 #---------------------------------------- ***** ----------------------------------------
