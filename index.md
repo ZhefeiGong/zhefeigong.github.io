@@ -22,7 +22,7 @@ cover: true
 
 <div class="news-container">
   
-  <!-- <div class="news-year">2025</div> -->
+  <!-- <div class="news-year">2026</div> -->
 
   <div class="news-item">
     <span class="news-date">[Jan.31st, 2026]</span>
@@ -31,6 +31,8 @@ cover: true
     has been accepted to ICRA 2026! Many thanks to my co-authors.
     </span>
   </div>
+
+  <!-- <div class="news-year">2025</div> -->
 
   <div class="news-item">
     <span class="news-date">[Jun.25th, 2025]</span>
@@ -124,11 +126,40 @@ cover: true
 
 <!-- Next Research Publication -->
 
+<!-- Care-Moma -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/care-moma_frame.png" alt="Care-Moma">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">Causal Residual Learning for Mobile Manipulation via Efficient Human-in-the-Loop Fine-Tuning</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://jiachenli94.github.io/">Jiachen Li</a>
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">Preprint, 2026</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <a href="https://drive.google.com/file/d/1vCCjVG9cMZLRwhTnA4i8wdvRqyqN1Err/view?usp=drive_link">
+      <span class="bold-light">video</span>
+    </a> | 
+    <a href="/">
+      <span class="bold-light">TBD</span>
+    </a>
+    </span>
+  </div>
+</div>
+
 <!-- KORR -->
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/korr_frame.png" alt="CARP">
+    <img src="/assets/publications/korr_frame.png" alt="KORR">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">

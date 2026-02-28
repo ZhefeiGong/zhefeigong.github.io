@@ -175,7 +175,7 @@ pictures:
   title: Vatican
   caption: Photo by Zhefei Gong
   category: Vatican
-  
+
 #---------------------------------------- CHINA ----------------------------------------
 - filename: Beijing
   original: China/Beijing.jpg
@@ -303,6 +303,7 @@ pictures:
   title: Yading
   caption: Photo by Zhefei Gong
   category: China
+
 #---------------------------------------- Korea ----------------------------------------
 - filename: Seoul
   original: Korea/Seoul.jpg
@@ -339,4 +340,36 @@ pictures:
   title: Busan
   caption: 자갈치시장 | Jagalchi Fish Market
   category: Korea
+
+#---------------------------------------- United States ----------------------------------------
+- filename: Highway1
+  original: USA/Highway1.jpg
+  sizes:
+  thumbnail: USA/Highway1-thumbnail.jpg
+  title: Highway First
+  caption: Bixby Bridge, California
+  category: USA
+- filename: Honolulu
+  original: USA/Honolulu.jpg
+  sizes:
+  thumbnail: USA/Honolulu-thumbnail.jpg
+  title: Honolulu
+  caption: Wawamalu Beach, Hawaii
+  category: USA
+- filename: LagunaBeach
+  original: USA/LagunaBeach.jpg
+  sizes:
+  thumbnail: USA/LagunaBeach-thumbnail.jpg
+  title: Laguna Beach
+  caption: Corona Del Mar State Beach Park, California
+  category: USA
+- filename: NewportBeach
+  original: USA/NewportBeach.jpg
+  sizes:
+  thumbnail: USA/NewportBeach-thumbnail.jpg
+  title: Newport Beach
+  caption: Aliso Beach, California
+  category: USA
+
+
 #---------------------------------------- ***** ----------------------------------------

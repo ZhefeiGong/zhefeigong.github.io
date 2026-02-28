@@ -10,21 +10,16 @@ Zhefei: # author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi! At present, I'm a visiting scholar working with [Jiachen Li](https://jiachenli94.github.io/).
-    Previously, I was a research assistant at [MiLab](https://milab.westlake.edu.cn/), advised by Donglin Wang.
-    I received my BEng in Computer Science from [Tongji University](https://en.tongji.edu.cn/p/#/),
-    where I also spent a wonderful semester as an exchange student at [EPFL](https://www.epfl.ch/en/),
-    under the guidance of [Alexandre Alahi](https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en).
-    Additionally, I was privileged to work as a research intern at [IRCP Lab](https://robot.tongji.edu.cn/) during my time at Tongji.
+    Hi, I'm an incoming PhD student at [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). 
+    Previously, I have worked with Prof. [Jiachen Li](https://jiachenli94.github.io/) and Prof. [Donglin Wang](https://milab.westlake.edu.cn/).
+    I earned my BEng in Computer Science from [Tongji University](https://www.tongji.edu.cn/), including a memorable semester as an exchange student at [EPFL](https://www.epfl.ch/en/). 
+    During my time at Tongji, I also had the opportunity to engage with the [IRCP Lab](https://robot.tongji.edu.cn/) and gain early research experience.
 
-    After an extensive period of exploration, my interest has gravitated towards solving real-world tasks.
-    Currently, I am particularly interested in **robot learning**, **generative models** and **reinforcement learning**, with a focus on **manipulation** tasks.
-    My aspiration is to develop general-purpose robots capable of autonomously performing complex, long-term daily tasks, 
-    thus transitioning them from laboratories to everyone's homes. I am dedicated to realizing this vision over the next ten years.
-
-    Actively seeking PhD opportunities for _2026 Fall_ !
-    See <a href="https://zhefeigong.github.io/experience/#robotic-platforms">here</a> for details on my _real-world_ robotics research experience.
-    Feel free to get in touch if our research interests overlap.
+    After an extensive period of exploration, my interest has gravitated towards solving [real-world](https://zhefeigong.github.io/experience/#robotic-platforms) tasks.
+    I am currently interested in **robot learning**, **generative models** and **reinforcement learning**, particularly for **manipulation** tasks.
+    My long-term goal is to _enable general-purpose robots to learn autonomously in dynamic, unstructured environments_, bridging the gap from lab demonstrations to everyday human settings. 
+    I aspire to develop robots capable of performing complex, long-term daily tasks independently, and I am dedicated to advancing this vision over the next decade.
+    Feel free to get in touch if our research interests align.
 
   # This photo will be used in the about section
   picture:

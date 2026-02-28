@@ -65,6 +65,9 @@ description: >
     <button class="choose-btn" data-filter="Korea">Korea</button>
     </div>
     <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="USA">USA</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Uncategorized">Uncategorized</button>
     </div>
   </div>
