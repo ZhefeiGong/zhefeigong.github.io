@@ -341,6 +341,31 @@ cover: true
 
 
 <!--************************************************************************************************-->
+## Academic Services
+
+<div style="display: flex; gap: 80px; font-size: 0.92rem; line-height: 1.6;">
+  <div style="flex: 1;">
+    <div style="font-weight: 600; margin-bottom: 8px;">Conference Reviewer</div>
+    <div style="margin-bottom: 4px;">
+      <span style="color:#666;">▸</span>
+        International Conference on Computer Vision (<a href="https://iccv.thecvf.com/">ICCV</a>)
+    </div>
+    <div>
+      <span style="color:#666;">▸</span>
+        Conference on Robot Learning (<a href="https://www.corl.org/home">CoRL</a>)
+    </div>
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: 600; margin-bottom: 8px;">Journal Reviewer</div>
+    <div>
+      <span style="color:#666;">▸</span>
+        IEEE Transactions on Robotics (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860">T-RO</a>)
+    </div>
+  </div>
+</div>
+
+
+<!--************************************************************************************************-->
 <div style="display:none">
 <a href="https://clustrmaps.com/site/1bz34" title="Visit tracker">
 <img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" />
