@@ -25,6 +25,20 @@ cover: true
   <!-- <div class="news-year">2026</div> -->
 
   <div class="news-item">
+    <span class="news-date">[May.29th, 2026]</span>
+    <span class="news-content"> 
+    Heading to Vienna for <a href="https://2026.ieee-icra.org/">ICRA 2026</a>. Looking forward to exploring new ideas in robotics.
+    </span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[May.27th, 2026]</span>
+    <span class="news-content"> 
+    <a href="https://arxiv.org/pdf/2503.10484v1">LIT</a> has been accepted to CASE 2026. Congratulations to Wei!
+    </span>
+  </div>
+
+  <div class="news-item">
     <span class="news-date">[Jan.31st, 2026]</span>
     <span class="news-content"> 
     Happy to share that my first-author paper, <a href="https://zhefeigong.github.io/korr-robot/">KORR</a>, 
@@ -126,30 +140,35 @@ cover: true
 
 <!-- Next Research Publication -->
 
-<!-- Care-Moma -->
+<!-- HiRe-Moma -->
 <div class="publication">
   <!-- SHOWCASE -->
   <div class="pub-image">
-    <img src="/assets/publications/care-moma_frame.png" alt="Care-Moma">
+    <img src="/assets/publications/hire-moma_frame.png" alt="Hire-Moma">
   </div>
   <!-- INFORMATION -->
   <div class="pub-info">
     <!-- Title -->
-    <span class="bold-title">Causal Residual Learning for Mobile Manipulation via Efficient Human-in-the-Loop Fine-Tuning</span>
+    <span class="bold-title">Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance</span>
     <!-- Authors -->
     <span class="pub-authors">
     <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://scholar.google.com/citations?user=Ul1tSO0AAAAJ&hl=en">Hefeifei Jiang</a>, 
+    <a href="https://zehaowang983.github.io/">Zehao Wang</a>, 
     <a href="https://jiachenli94.github.io/">Jiachen Li</a>
     </span>
     <!-- Info -->
     <span class="bold-italic">Preprint, 2026</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="https://drive.google.com/file/d/1vCCjVG9cMZLRwhTnA4i8wdvRqyqN1Err/view?usp=drive_link">
-      <span class="bold-light">video</span>
+    <a href="/">
+      <span class="bold-light">arXiv</span>
     </a> | 
     <a href="/">
-      <span class="bold-light">TBD</span>
+      <span class="bold-light">website</span>
+    </a> |
+    <a href="/">
+      <span class="bold-light">video</span>
     </a>
     </span>
   </div>
@@ -186,8 +205,43 @@ cover: true
     <a href="https://zhefeigong.github.io/korr-robot/">
       <span class="bold-light">website</span>
     </a> | 
-    <a href="https://zhefeigong.github.io/korr-robot/">
+    <a href="https://github.com/ZhefeiGong/korr">
       <span class="bold-light">code</span>
+    </a>
+    </span>
+  </div>
+</div>
+
+<!-- LIT -->
+<div class="publication">
+  <!-- SHOWCASE -->
+  <div class="pub-image">
+    <img src="/assets/publications/lit_frame.png" alt="LIT">
+  </div>
+  <!-- INFORMATION -->
+  <div class="pub-info">
+    <!-- Title -->
+    <span class="bold-title">Learning Robotic Policy with Imagined Transition: Mitigating the Trade-off between Robustness and Optimality</span>
+    <!-- Authors -->
+    <span class="pub-authors">
+    <a href="https://xiaowei-i.github.io/">Wei Xiao</a>, 
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
+    <a href="https://lsk-robot.github.io/">Shangke Lyu</a>, 
+    <a href="/">Renjie Wang</a>, 
+    <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
+    </span>
+    <!-- Info -->
+    <span class="bold-italic">IEEE International Conference on Automation Science and Engineering (CASE), 2026</span>
+    <!-- Link -->
+    <span class="pub-links">Links:
+    <!-- <a href="/">
+      <span class="bold-light">TBD</span>
+    </a> -->
+    <a href="https://arxiv.org/abs/2503.10484v1">
+      <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://www.bilibili.com/video/BV1wbQDYmENv/?vd_source=6531e192276dd2482fa66e7b6c581284">
+      <span class="bold-light">video</span>
     </a>
     </span>
   </div>
