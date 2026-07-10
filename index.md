@@ -225,8 +225,8 @@ cover: true
     <!-- Authors -->
     <span class="pub-authors">
     <a href="https://xiaowei-i.github.io/">Wei Xiao</a>, 
-    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
     <a href="https://lsk-robot.github.io/">Shangke Lyu</a>, 
+    <a href="/"><span class="bold-light">Zhefei Gong</span></a>, 
     <a href="/">Renjie Wang</a>, 
     <a href="https://en.westlake.edu.cn/faculty/donglin-wang.html">Donglin Wang</a>
     </span>
@@ -239,6 +239,9 @@ cover: true
     </a> -->
     <a href="https://arxiv.org/abs/2503.10484v1">
       <span class="bold-light">arXiv</span>
+    </a> | 
+    <a href="https://xiaowei-i.github.io/lit-locomotion/">
+      <span class="bold-light">website</span>
     </a> | 
     <a href="https://www.bilibili.com/video/BV1wbQDYmENv/?vd_source=6531e192276dd2482fa66e7b6c581284">
       <span class="bold-light">video</span>
