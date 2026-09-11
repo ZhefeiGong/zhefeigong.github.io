@@ -24,7 +24,8 @@ description: >
                 <a href="/blog/robotics/2024-09-15-ur-robotic-arm/">UR Robotic Arm</a>
             </p>
             <p class="plantform-card-description">
-            Configured UR5e, Robotiq-2f-85, 3D-Connexion from scratch and applied them to conduct research on manipulation.
+            Configured UR5e, Robotiq-2f-85, 3D-Connexion from scratch 
+            and applied them to conduct research on manipulation.
             </p>
         </div>
     </div>
@@ -35,7 +36,8 @@ description: >
                 <a href="/blog/robotics/2025-06-18-franka-panda/">Franka Panda</a>
             </p>
             <p class="plantform-card-description">
-            Configured Franka Emika Panda, a 7-axis robot arm to conduct research on manipulation.
+            Configured Franka Emika Panda, 
+            a 7-axis robot arm to conduct research on manipulation.
             </p>
         </div>
     </div>
@@ -46,18 +48,20 @@ description: >
                 <a href="/blog/robotics/2025-08-18-tiago-plusplus/">Tiago++</a>
             </p>
             <p class="plantform-card-description">
-            Configured Tiago++, a mobile robot with two 7-axis manipulators, to support research on mobile manipulation.
+            Configured Tiago++, a mobile robot with two 7-axis manipulators, 
+            to support research on mobile manipulation.
             </p>
         </div>
     </div>
     <div class="plantform-card">
-        <img src="/assets/blog/moz1.png" alt="Moz" class="plantform-card-image">
+        <img src="/assets/blog/moz1.png" alt="Moz1" class="plantform-card-image">
         <div class="plantform-card-content">
             <p class="plantform-card-title">
                 Moz1
             </p>
             <p class="plantform-card-description">
-            A wheeled mobile robot from Spirit AI, equipped with two 7-axis manipulators.
+            A wheeled mobile robot from Spirit AI, 
+            equipped with two 7-axis manipulators.
             </p>
         </div>
     </div>

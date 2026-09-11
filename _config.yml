@@ -140,11 +140,12 @@ defaults:
     values:
       layout:          plain
       sitemap:         false
-  # Photography Gallery
-  - scope:
-      path:             photography/
-    values:
-      permalink:        /:path/:basename
+
+  # # Photography Gallery
+  # - scope:
+  #     path:             photography/
+  #   values:
+  #     permalink:        /:path/:basename
 
   # # You can use the following to enable comments on all posts.
   # - scope:
