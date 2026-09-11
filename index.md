@@ -25,6 +25,20 @@ cover: true
   <!-- <div class="news-year">2026</div> -->
 
   <div class="news-item">
+    <span class="news-date">[Sep.9th, 2026]</span>
+    <span class="news-content"> 
+    Started my PhD in Boston, a historic city with lovely views — at least in the current season.
+    </span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">[Sep.4th, 2026]</span>
+    <span class="news-content"> 
+    Excited that <a href="https://zhefeigong.github.io/">HiRe-MoMa</a> has been accepted to CoRL 2026. Looking forward to learning more in Austin!
+    </span>
+  </div>
+
+  <div class="news-item">
     <span class="news-date">[May.29th, 2026]</span>
     <span class="news-content"> 
     Heading to Vienna for <a href="https://2026.ieee-icra.org/">ICRA 2026</a>. Looking forward to exploring new ideas in robotics.
@@ -59,7 +73,7 @@ cover: true
   <div class="news-item">
     <span class="news-date">[Jun.24th, 2025]</span>
     <span class="news-content"> 
-    Joined <a href='https://tasl.ucr.edu/'>TASL</a> as a visiting scholar and Excited for the journey ahead!
+    Joined <a href='https://tasl-lab.github.io/'>TASL</a> as a visiting scholar and Excited for the journey ahead!
     </span>
   </div>
 
@@ -158,7 +172,7 @@ cover: true
     <a href="https://jiachenli94.github.io/">Jiachen Li</a>
     </span>
     <!-- Info -->
-    <span class="bold-italic">Preprint, 2026</span>
+    <span class="bold-italic">The Tenth Conference on Robot Learning (CoRL), 2026</span>
     <!-- Link -->
     <span class="pub-links">Links:
     <a href="/">

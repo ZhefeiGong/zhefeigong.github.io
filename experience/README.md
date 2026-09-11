@@ -50,6 +50,17 @@ description: >
             </p>
         </div>
     </div>
+    <div class="plantform-card">
+        <img src="/assets/blog/moz1.png" alt="Moz" class="plantform-card-image">
+        <div class="plantform-card-content">
+            <p class="plantform-card-title">
+                Moz1
+            </p>
+            <p class="plantform-card-description">
+            A wheeled mobile robot from Spirit AI, equipped with two 7-axis manipulators.
+            </p>
+        </div>
+    </div>
 </div>
 
 
@@ -119,7 +130,7 @@ description: >
 I’m passionate about soccer ⚽️, photography 📸, and hiking ⛰️, and I’m always open to exploring new things. 
 I’m an avid explorer and enjoy meeting people from diverse cultural backgrounds. 
 I was born in [Leshan](https://en.wikipedia.org/wiki/Leshan) 🇨🇳 and raised in [Chongqing](https://en.wikipedia.org/wiki/Chongqing) 🇨🇳, a vibrant city with a unique 8D cyberpunk vibe.
-I’ve also lived in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) 🇨🇳, [Lausanne](https://en.wikipedia.org/wiki/Lausanne) 🇨🇭, [Seoul](https://en.wikipedia.org/wiki/Seoul) 🇰🇷, and [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) 🇨🇳 for over three months, and I’m currently based in [Riverside, CA](https://en.wikipedia.org/wiki/Riverside,_California) 🇺🇸.
+I’ve also lived in [Shanghai](https://en.wikipedia.org/wiki/Shanghai) 🇨🇳, [Lausanne](https://en.wikipedia.org/wiki/Lausanne) 🇨🇭, [Seoul](https://en.wikipedia.org/wiki/Seoul) 🇰🇷, [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) 🇨🇳, and [Riverside, CA](https://en.wikipedia.org/wiki/Riverside,_California) 🇺🇸 for over three months, and I’m currently based in [Boston, MA](https://en.wikipedia.org/wiki/Boston) 🇺🇸.
 
 
 <!--************************************************************************************************-->

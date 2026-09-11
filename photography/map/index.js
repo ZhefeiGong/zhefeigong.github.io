@@ -106,6 +106,9 @@ function initMap() {
     { position: { lat: 21.2882, lng: -157.6687 }, title: "Honolulu", picurl: "/assets/markers/Honolulu.jpg" },
     { position: { lat: 33.5118, lng: -117.7527 }, title: "Laguna Beach", picurl: "/assets/markers/LagunaBeach.jpg" },
     { position: { lat: 33.5932, lng: -117.8771 }, title: "Newport Beach", picurl: "/assets/markers/NewportBeach.jpg" },
+    { position: { lat: 48.2048, lng: 16.3741 }, title: "Vienna", picurl: "/assets/markers/Vienna.jpg" },
+    { position: { lat: 46.4232, lng: 11.8414 }, title: "Dolomiti", picurl: "/assets/markers/Dolomiti.jpg" },
+    { position: { lat: 51.1787, lng: -115.5702 }, title: "Banff", picurl: "/assets/markers/Banff.jpg" },
   ];
 
   const infoWindow = new google.maps.InfoWindow();

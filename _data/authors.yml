@@ -10,16 +10,24 @@ Zhefei: # author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm an incoming PhD student at [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/). 
-    Previously, I have worked with Prof. [Jiachen Li](https://jiachenli94.github.io/) and Prof. [Donglin Wang](https://milab.westlake.edu.cn/).
-    I earned my BEng in Computer Science from [Tongji University](https://www.tongji.edu.cn/), including a memorable semester as an exchange student at [EPFL](https://www.epfl.ch/en/). 
-    During my time at Tongji, I also had the opportunity to engage with the [IRCP Lab](https://robot.tongji.edu.cn/) and gain early research experience.
+    Hi, I'm a PhD student at the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/), advised by Prof. [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/).
+    Previously, I worked with Prof. [Jiachen Li](https://jiachenli94.github.io/) and Prof. [Donglin Wang](https://milab.westlake.edu.cn/).
+    I earned my BEng in Computer Science from [Tongji University](https://www.tongji.edu.cn/), which included a memorable semester as an exchange student at [EPFL](https://www.epfl.ch/en/).
 
-    After an extensive period of exploration, my interest has gravitated towards solving [real-world](https://zhefeigong.github.io/experience/#robotic-platforms) tasks.
-    I am currently interested in **robot learning**, **generative models** and **reinforcement learning**, particularly for **manipulation** tasks.
-    My long-term goal is to _enable general-purpose robots to learn autonomously in dynamic, unstructured environments_, bridging the gap from lab demonstrations to everyday human settings. 
-    I aspire to develop robots capable of performing complex, long-term daily tasks independently, and I am dedicated to advancing this vision over the next decade.
-    Feel free to get in touch if our research interests align.
+    I am currently interested in **robot learning** with **generative models** and **reinforcement learning**, particularly for **manipulation** tasks in [real-world](https://zhefeigong.github.io/experience/#robotic-platforms) scenarios.
+    My long-term goal is to _enable general-purpose robots to learn autonomously, adaptively, and efficiently in dynamic, unstructured environments_, bridging the gap from lab demonstrations to everyday human settings.
+    
+    I'd love to connect with and learn from people working on similar problems. Feel free to reach out by email.
+    Students at Northeastern are especially welcome to get in touch about research or collaboration.
+
+
+  # It was also at Tongji, in the [IRCP Lab](https://robot.tongji.edu.cn/), that I found my footing in research.
+
+  # After an extensive period of exploration, my interest has gravitated towards solving [real-world](https://zhefeigong.github.io/experience/#robotic-platforms) tasks.
+  # I am currently interested in **robot learning**, **generative models** and **reinforcement learning**, particularly for **manipulation** tasks.
+  # My long-term goal is to _enable general-purpose robots to learn autonomously in dynamic, unstructured environments_, bridging the gap from lab demonstrations to everyday human settings. 
+  # I aspire to develop robots capable of performing complex, long-term daily tasks independently, and I am dedicated to advancing this vision over the next decade.
+  # Feel free to get in touch if our research interests align.
 
   # This photo will be used in the about section
   picture:

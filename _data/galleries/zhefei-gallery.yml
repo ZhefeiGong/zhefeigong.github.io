@@ -119,6 +119,15 @@ pictures:
   caption: Photo by Zhefei Gong
   category: Hungary
 
+#---------------------------------------- AUSTRIA ----------------------------------------
+- filename: Vienna
+  original: Austria/Vienna.jpg
+  sizes:
+  thumbnail: Austria/Vienna-thumbnail.jpg
+  title: Vienna
+  caption: ICRA 2026 at Vienna, Austria
+  category: Austria
+
 #---------------------------------------- ITALY ----------------------------------------
 - filename: Rome
   original: Italy/Rome.jpg
@@ -126,6 +135,13 @@ pictures:
   thumbnail: Italy/Rome-thumbnail.jpg
   title: Rome
   caption: Photo by Zhefei Gong
+  category: Italy
+- filename: Dolomiti
+  original: Italy/Dolomiti.jpg
+  sizes:
+  thumbnail: Italy/Dolomiti-thumbnail.jpg
+  title: Dolomiti
+  caption: Hiking in the  Dolomiti
   category: Italy
 
 #---------------------------------------- SPAIN ----------------------------------------
@@ -340,6 +356,15 @@ pictures:
   title: Busan
   caption: 자갈치시장 | Jagalchi Fish Market
   category: Korea
+
+#---------------------------------------- Canada ----------------------------------------
+- filename: Banff
+  original: Canada/Banff.jpg
+  sizes:
+  thumbnail: Canada/Banff-thumbnail.jpg
+  title: Banff
+  caption: Banff National Park, Alberta
+  category: Canada
 
 #---------------------------------------- United States ----------------------------------------
 - filename: Highway1

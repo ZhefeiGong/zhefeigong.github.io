@@ -50,6 +50,9 @@ description: >
     <button class="choose-btn" data-filter="Hungary">Hungary</button>
     </div>
     <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Austria">Austria</button>
+    </div>
+    <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Italy">Italy</button>
     </div>
     <div class="choose-btn-wrapper">
@@ -63,6 +66,9 @@ description: >
     </div>
     <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="Korea">Korea</button>
+    </div>
+    <div class="choose-btn-wrapper">
+    <button class="choose-btn" data-filter="Canada">Canada</button>
     </div>
     <div class="choose-btn-wrapper">
     <button class="choose-btn" data-filter="USA">USA</button>
