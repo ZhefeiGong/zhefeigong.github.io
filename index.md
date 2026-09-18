@@ -437,8 +437,13 @@ cover: true
 
 
 <!--************************************************************************************************-->
-<div style="display:none">
+<!-- <div style="display:none">
 <a href="https://clustrmaps.com/site/1bz34" title="Visit tracker">
 <img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=Ad3TviOqDHsVtOCYhcgps89JxsZQA9CUrbaly3rhfLM&co=ffffff&ct=808080" />
+</a>
+</div> -->
+<div style="display:none">
+<a href="https://mapmyvisitors.com/web/1c86o"  title="Visit tracker">
+<img src="https://mapmyvisitors.com/map.png?d=J_1gbTzYicjvSHfVs8i-bnA1t65D8qMgjjLiQN7Y7RA&cl=ffffff" />
 </a>
 </div>
