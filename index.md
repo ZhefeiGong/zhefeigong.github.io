@@ -175,14 +175,14 @@ cover: true
     <span class="bold-italic">The Tenth Conference on Robot Learning (CoRL), 2026</span>
     <!-- Link -->
     <span class="pub-links">Links:
-    <a href="/">
+    <a href="https://arxiv.org/abs/2610.20607">
       <span class="bold-light">arXiv</span>
     </a> | 
-    <a href="/">
+    <a href="https://hire-moma.github.io/">
       <span class="bold-light">website</span>
     </a> |
-    <a href="/">
-      <span class="bold-light">video</span>
+    <a href="https://hire-moma.github.io/">
+      <span class="bold-light">code</span>
     </a>
     </span>
   </div>

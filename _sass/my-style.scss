@@ -60,6 +60,14 @@
   line-height: 1.5;
 }
 
+.content .pub-authors a:not(.btn):not(.no-hover) {
+  text-decoration-color: transparent;
+  border-color: transparent;
+  &:hover {
+    text-decoration-color: var(--accent-color-faded);
+  }
+}
+
 .pub-links {
   font-size: 13px;
 }
