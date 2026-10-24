@@ -181,7 +181,7 @@ cover: true
     <a href="https://hire-moma.github.io/">
       <span class="bold-light">website</span>
     </a> |
-    <a href="https://hire-moma.github.io/">
+    <a href="https://github.com/tasl-lab/HiRe-MoMa">
       <span class="bold-light">code</span>
     </a>
     </span>

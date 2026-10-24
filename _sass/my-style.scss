@@ -72,6 +72,12 @@
   font-size: 13px;
 }
 
+/* ============ About Block (bottom of posts) ============ */
+// keep the avatar's white border clear of the heading's rule, like the homepage
+.about .author .avatar {
+  margin-top: -.5rem;
+}
+
 .spot-light {
   color: orange; 
   font-weight: 600;
