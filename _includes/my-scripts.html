@@ -1,0 +1,74 @@
+{% comment %}
+  Sidebar avatar: the cover shows the site logo; once the drawer is closed on desktop
+  (sidebar beside the content) it flips to the author's picture, and flips back when the cover reopens.
+  Only /* */ comments inside the script: compress_html joins lines in production.
+{% endcomment %}
+{% assign author = site.data.authors.first[1] %}
+{% if author.picture.path %}
+<script>
+(function () {
+  var drawer = document.getElementById('_drawer');
+  var img = document.querySelector('#_sidebar .sidebar-about .avatar');
+  if (!drawer || !img) return;
+
+  var faces = {
+    cover: { src: img.getAttribute('src'), srcset: img.getAttribute('srcset') || '' },
+    photo: {
+      src: '{{ author.picture.path | relative_url }}',
+      srcset: '{% for s in author.picture.srcset %}{{ s[1] | relative_url }} {{ s[0] }}{% unless forloop.last %}, {% endunless %}{% endfor %}'
+    }
+  };
+  var breakPoint = getComputedStyle(document.documentElement).getPropertyValue('--break-point-3').trim() || '64em';
+  var desktop = window.matchMedia('(min-width: ' + breakPoint + ')');
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  var FLIP_MS = 180;
+  var current = 'cover';
+  var timer = null;
+
+  /* same rule drawer.js uses to decide whether the cover starts opened */
+  var opened = drawer.classList.contains('cover') && (window.pageYOffset || 0) <= 0 &&
+    !(history.state && history.state.closedOnce);
+
+  /* preload the photo so the flip never shows an empty frame */
+  var preload = new Image();
+  if (faces.photo.srcset) preload.srcset = faces.photo.srcset;
+  preload.src = faces.photo.src;
+
+  function apply(name) {
+    img.srcset = faces[name].srcset;
+    img.src = faces[name].src;
+  }
+
+  function show(name, animate) {
+    if (name === current) return;
+    current = name;
+    clearTimeout(timer);
+    if (!animate || reduceMotion.matches) {
+      img.classList.remove('avatar-flip');
+      apply(name);
+      return;
+    }
+    img.classList.add('avatar-flip');
+    timer = setTimeout(function () {
+      apply(name);
+      img.classList.remove('avatar-flip');
+    }, FLIP_MS);
+  }
+
+  function update(animate) {
+    show(desktop.matches && !opened ? 'photo' : 'cover', animate);
+  }
+
+  update(false);
+
+  drawer.addEventListener('hy-drawer-transitioned', function (e) {
+    opened = !!e.detail;
+    update(true);
+  });
+
+  function onResize() { update(false); }
+  if (desktop.addEventListener) desktop.addEventListener('change', onResize);
+  else if (desktop.addListener) desktop.addListener(onResize);
+})();
+</script>
+{% endif %}

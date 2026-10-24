@@ -2,3 +2,18 @@
 // .sidebar a {
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
+
+// Homepage avatar beside the intro.
+// Hidden while the sidebar sits beside the content: the sidebar avatar flips to it instead (_includes/my-scripts.html).
+@media screen and (min-width: $break-point-3) {
+  .content .page > .avatar {
+    display: none;
+  }
+}
+
+// Narrow screens: its top lines up with the first line of the intro,
+// and the bottom border no longer pushes the second paragraph aside.
+.content .page > .avatar {
+  margin-top: -.5625rem;
+  margin-bottom: -1rem;
+}

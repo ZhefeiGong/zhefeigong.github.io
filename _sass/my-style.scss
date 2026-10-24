@@ -78,6 +78,15 @@
   margin-top: -.5rem;
 }
 
+/* ============ Sidebar Avatar Flip ============ */
+// toggled by _includes/my-scripts.html when the drawer opens/closes
+#_sidebar .sidebar-about .avatar {
+  transition: transform .18s ease-in-out;
+  &.avatar-flip {
+    transform: perspective(600px) rotateY(90deg);
+  }
+}
+
 .spot-light {
   color: orange; 
   font-weight: 600;
